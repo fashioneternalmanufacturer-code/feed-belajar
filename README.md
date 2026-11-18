@@ -37,6 +37,12 @@ mematikan server.
 
 ## 2. Deploy ke GitHub Pages
 
+**Status: sudah live** di https://fashioneternalmanufacturer-code.github.io/feed-belajar/
+Repo: https://github.com/fashioneternalmanufacturer-code/feed-belajar
+
+Langkah di bawah ini untuk referensi kalau perlu bikin ulang dari nol (repo
+baru, akun baru, dsb).
+
 ### a. Buat akun & repo GitHub (kalau belum punya)
 1. Buat akun di [github.com](https://github.com) kalau belum punya.
 2. Klik tombol **New repository**.
@@ -78,13 +84,13 @@ Buka link itu di browser — aplikasi Anda sudah online!
 ## 3. Pasang di HP
 
 ### Android (Chrome)
-1. Buka link `https://USERNAME.github.io/feed-belajar/` di Chrome.
+1. Buka link `https://fashioneternalmanufacturer-code.github.io/feed-belajar/` di Chrome.
 2. Ketuk menu titik tiga (⋮) di kanan atas.
 3. Pilih **Add to Home screen** / **Tambahkan ke layar utama**.
 4. Konfirmasi nama, ketuk **Add**.
 
 ### iPhone (Safari)
-1. Buka link tersebut di Safari (harus Safari, bukan Chrome, untuk fitur ini).
+1. Buka `https://fashioneternalmanufacturer-code.github.io/feed-belajar/` di Safari (harus Safari, bukan Chrome, untuk fitur ini).
 2. Ketuk ikon **Share** (kotak dengan panah ke atas).
 3. Scroll, pilih **Add to Home Screen**.
 4. Ketuk **Add**.
