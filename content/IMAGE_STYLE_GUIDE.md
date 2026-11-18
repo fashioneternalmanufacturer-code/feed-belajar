@@ -52,7 +52,7 @@ gambar menonjol di atas latar gelap UI.
 
 ## Keterbatasan teknis Cloudflare Workers AI (FLUX.1 schnell)
 
-- Free tier: 10.000 neuron/hari, reset 00:00 UTC. ~58 neuron/gambar (1024×1024, steps=4) → sekitar 150 gambar/hari gratis. Script `tools/generate-images.py` melacak estimasi pemakaian di `tools/.cf-usage.json` dan berhenti otomatis sebelum limit, resume besok (file yang sudah ada di-skip).
+- Free tier: 10.000 neuron/hari, reset 00:00 UTC. **Realita terpakai jauh lebih besar dari perkiraan rumus resmi Cloudflare** (per-tile + per-step) — dari insiden nyata tanggal 2026-11-18, 90 gambar menghabiskan SELURUH jatah 10.000 neuron (dikonfirmasi lewat pesan error server), jadi realitanya sekitar **111 neuron/gambar**, bukan ~58 seperti perkiraan rumus. Script `tools/generate-images.py` sekarang pakai estimasi flat terkalibrasi (`CF_NEURONS_PER_IMAGE_ESTIMATE = 115`) supaya auto-stop beneran berhenti SEBELUM limit asli tercapai. Artinya realistisnya cuma sekitar **~78 gambar/hari** gratis, bukan ~150. Script melacak estimasi pemakaian di `tools/.cf-usage.json` dan berhenti otomatis sebelum limit, resume besok (file yang sudah ada di-skip).
 - Parameter `seed` TIDAK didukung endpoint REST model ini (beda dari contoh di dokumentasi Worker-binding) — jadi gambar tidak reproducible persis, tiap generate ulang hasilnya sedikit berbeda meski prompt sama.
 - Autentikasi: lewat token OAuth `wrangler login` (auto-refresh tiap script jalan) atau token manual di `.env` kalau `CLOUDFLARE_ACCOUNT_ID`+`CLOUDFLARE_API_TOKEN` diisi.
 - Output JPEG ~1024×1024, script meng-encode ulang ke WebP (~1024px lebar, target <150KB).

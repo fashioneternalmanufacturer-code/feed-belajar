@@ -38,17 +38,30 @@ Otomatis skip cerita yang sudah punya gambar. Autentikasi pakai token OAuth
 tunggu beberapa menit lalu ulangi — ini batas burst Cloudflare, bukan soal kuota
 harian (kuota 10.000 neuron/hari, ~58 neuron/gambar).
 
-## Yang masih di-cek per 2026-11-18
+## Yang masih belum selesai per 2026-11-18
 
-Dua gambar sedang di-generate ulang (rate-limited, retry otomatis sedang
-berjalan di background saat catatan ini ditulis):
+**2 gambar hero belum ter-generate ulang** (sengaja dihapus untuk diperbaiki,
+BELUM berhasil digenerate lagi — bukan cuma rate-limit sementara):
 - `krakatau-1883-suara-terkeras/hero` — versi lama ada pesawat terbang yang
-  anakronistik untuk tahun 1883.
+  anakronistik untuk tahun 1883. File `scene1`/`scene2` masih ada & oke.
 - `dopamin-notifikasi-hp/hero` — versi lama ada angka "77"/"8" di mesin slot.
+  File `scene1`/`scene2` masih ada & oke.
 
-Kalau sesi baru melihat file-file itu masih berupa gambar lama (bukan yang baru),
-jalankan ulang perintah batch di atas untuk menyelesaikannya (keduanya sudah
-dihapus dari `assets/img/`, jadi script otomatis akan generate ulang).
+**Kenapa belum selesai:** ternyata jatah gratis Cloudflare 10.000 neuron/hari
+sudah benar-benar habis (dikonfirmasi lewat pesan error server langsung, bukan
+cuma 429 sementara), karena biaya nyata per gambar ternyata ~111 neuron, jauh
+di atas perkiraan awal ~58 neuron dari rumus resmi Cloudflare. Sudah dikoreksi
+di `tools/generate-images.py` (`CF_NEURONS_PER_IMAGE_ESTIMATE = 115`) dan
+`content/IMAGE_STYLE_GUIDE.md` supaya tidak kejadian lagi.
+
+**Cara selesaikan**: tunggu sampai reset jatah harian (00:00 UTC, sekitar
+jam 07:00 WIB), lalu jalankan:
+```bash
+cd "C:\Data D\Aplikasi Tiktok"
+python tools/generate-images.py batch --backend cloudflare
+```
+Otomatis cuma akan generate 2 file yang hilang itu (yang lain di-skip), lalu
+`git add assets/img/krakatau-1883-suara-terkeras/hero.webp assets/img/dopamin-notifikasi-hp/hero.webp && git commit -m "Fix 2 flagged images" && git push`.
 
 ## Langkah selanjutnya (sesuai rencana awal user)
 
