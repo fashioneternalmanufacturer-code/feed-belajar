@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v3";
+const CACHE_VERSION = "v4";
 const SHELL_CACHE = `feed-belajar-shell-${CACHE_VERSION}`;
 const CARD_CACHE = `feed-belajar-cards-${CACHE_VERSION}`;
 const IMAGE_CACHE = `feed-belajar-images-${CACHE_VERSION}`;
