@@ -105,6 +105,7 @@ export function renderStoryCard(card) {
     img.loading = "lazy";
     img.src = storyImagePath(card.id, heroEntry.file);
     img.alt = "";
+    img.onerror = () => bg.remove();
     bg.appendChild(img);
     const overlay = document.createElement("div");
     overlay.className = "story-card-bg-overlay";
@@ -169,6 +170,7 @@ function buildStoryFigure(card, entry) {
   img.loading = "lazy";
   img.src = storyImagePath(card.id, entry.file);
   img.alt = entry.alt || "";
+  img.onerror = () => figure.remove();
   figure.appendChild(img);
   if (entry.caption) {
     const caption = document.createElement("figcaption");
@@ -195,6 +197,7 @@ export function renderStoryDetail(container, card) {
     img.loading = "eager";
     img.src = storyImagePath(card.id, heroEntry.file);
     img.alt = heroEntry.alt || "";
+    img.onerror = () => { img.style.display = "none"; };
     hero.appendChild(img);
     const overlay = document.createElement("div");
     overlay.className = "story-detail-hero-overlay";
