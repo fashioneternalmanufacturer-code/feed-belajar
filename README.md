@@ -124,18 +124,37 @@ yang sudah install tidak nyangkut di data lama.
 
 ## 5. Update aplikasi setelah online
 
-**Penting:** sebelum push perubahan apa pun ke konten/kode, naikkan angka di
-`const CACHE_VERSION = "v3";` (jadi `"v4"`, dst.) di `sw.js`. Ini yang
-membuat Service Worker tahu harus mengambil ulang semua file, bukan
-menyajikan cache lama selamanya. Tanpa ini, HP yang sudah pernah membuka
-aplikasi bisa nyangkut di versi lama tanpa sadar.
+**Paling gampang: pakai `deploy.py` / `deploy.bat`.** Ini satu perintah yang
+otomatis menaikkan `CACHE_VERSION` di `sw.js`, commit, dan push — supaya
+tidak ada yang lupa menaikkan versi cache (lihat kenapa itu penting di
+bawah).
 
+- Lewat terminal: `python deploy.py "pesan commit singkat"`
+- Lewat File Explorer: dobel-klik `deploy.bat`, ketik pesan commit saat diminta.
+
+Kalau dijalankan tanpa ada perubahan apa pun, script cuma bilang "Tidak ada
+perubahan untuk di-deploy" dan tidak melakukan apa-apa (aman dijalankan
+berkali-kali).
+
+<details>
+<summary>Kenapa harus naikkan CACHE_VERSION (detail teknis)</summary>
+
+Service Worker (`sw.js`) meng-cache semua file app shell dengan nama cache
+yang mengandung `CACHE_VERSION`. Selama nama cache itu sama, Service Worker
+tidak akan mengambil ulang file dari internet — jadi kalau Anda push
+perubahan tanpa menaikkan versi ini, HP yang sudah pernah membuka aplikasi
+bisa nyangkut di versi lama tanpa sadar. `deploy.py` menangani ini otomatis.
+
+Kalau pakai git manual (tanpa `deploy.py`):
 ```bash
 cd "C:\Data D\Aplikasi Tiktok"
 git add .
 git commit -m "Update: <jelaskan perubahannya>"
 git push
 ```
+Jangan lupa naikkan angka di `const CACHE_VERSION = "v5";` (jadi `"v6"`, dst.)
+di `sw.js` SEBELUM commit.
+</details>
 
 GitHub Pages otomatis update beberapa menit setelah push. Di HP, cukup
 tutup aplikasi dari recent apps lalu buka lagi (atau refresh kalau lewat

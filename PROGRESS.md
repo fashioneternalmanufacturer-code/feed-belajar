@@ -34,9 +34,16 @@ python tools/generate-images.py batch --backend cloudflare
 
 Otomatis skip cerita yang sudah punya gambar. Autentikasi pakai token OAuth
 `wrangler` (auto-refresh) — kalau error "tidak ada kredensial", jalankan
-`npx wrangler login` dulu. Kalau kena rate-limit (HTTP 429) setelah batch besar,
-tunggu beberapa menit lalu ulangi — ini batas burst Cloudflare, bukan soal kuota
-harian (kuota 10.000 neuron/hari, ~58 neuron/gambar).
+`npx wrangler login` dulu. Kuota harian ~9.000 neuron aman (dari real limit
+10.000), dengan estimasi **~115 neuron/gambar** (lihat insiden di bawah) →
+kira-kira **~78 gambar/hari**. Kalau script berhenti sendiri karena kuota,
+tunggu reset 00:00 UTC (~07:00 WIB) lalu jalankan ulang perintah yang sama
+(yang sudah ada otomatis di-skip).
+
+**Kalau gambar gagal/belum ada**, aplikasi tidak rusak — `js/ui.js` sudah
+punya fallback: gambar yang gagal dimuat otomatis diganti gradien warna
+kategori, bukan ikon gambar rusak. Jadi aman kalau ada cerita yang belum
+sempat punya gambar.
 
 ## Yang masih belum selesai per 2026-11-18
 
@@ -61,7 +68,11 @@ cd "C:\Data D\Aplikasi Tiktok"
 python tools/generate-images.py batch --backend cloudflare
 ```
 Otomatis cuma akan generate 2 file yang hilang itu (yang lain di-skip), lalu
-`git add assets/img/krakatau-1883-suara-terkeras/hero.webp assets/img/dopamin-notifikasi-hp/hero.webp && git commit -m "Fix 2 flagged images" && git push`.
+deploy dengan `python deploy.py "Fix 2 gambar yang anakronistik/ada angka"`
+(lihat bagian Deploy di bawah — otomatis naikkan `CACHE_VERSION`, commit, push).
+
+Sementara itu, situs live tetap rapi berkat fallback gradien di atas — bukan
+status darurat, cuma 2 cerita yang hero-nya sementara gradien polos.
 
 ## Langkah selanjutnya (sesuai rencana awal user)
 
@@ -72,9 +83,13 @@ Otomatis cuma akan generate 2 file yang hilang itu (yang lain di-skip), lalu
    `images` tiap cerita ikuti `content/IMAGE_STYLE_GUIDE.md`, generate gambar,
    update galeri (`tools/gallery.html`, lokal saja) untuk direview user, baru
    commit + push.
-3. **Wajib tiap kali push perubahan konten/kode**: naikkan
-   `CACHE_VERSION` di `sw.js` (sekarang `"v3"`) supaya HP yang sudah install
-   tidak nyangkut di versi lama.
+3. **Deploy**: jangan git add/commit/push manual — pakai
+   `python deploy.py "pesan commit"` (atau dobel-klik `deploy.bat`). Script ini
+   otomatis menaikkan `CACHE_VERSION` di `sw.js` (sekarang `"v5"`) sebelum
+   commit+push, supaya tidak ada yang lupa dan HP yang sudah install tidak
+   nyangkut di versi lama. Aman dijalankan berkali-kali — kalau tidak ada
+   perubahan, cuma bilang "Tidak ada perubahan untuk di-deploy" tanpa
+   melakukan apa-apa.
 4. Fitur "Lihat Aslinya" (foto/lukisan asli dari Wikimedia Commons dengan
    kredit+lisensi) sudah ada skeleton kodenya di `js/ui.js`
    (`card.commonsImage`) tapi belum ada satu pun cerita yang diisi datanya.
