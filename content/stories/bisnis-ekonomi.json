@@ -1,0 +1,266 @@
+[
+  {
+    "key": "coca-cola-obat-morfin",
+    "category": "bisnis-ekonomi",
+    "emoji": "🥤",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Coca-Cola",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a vintage 1880s American drugstore counter, glass bottles and syrup jars lined on wooden shelves, a pharmacist in an apron mixing a dark tonic, warm lamp light, Atlanta Georgia",
+        "seed": 501,
+        "alt": "Apoteker meracik tonik di konter apotek Amerika tahun 1880-an"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a customer at an old-fashioned soda fountain counter being handed a glass of dark fizzy drink, vintage pharmacy interior, late 1800s America, warm nostalgic lighting",
+        "seed": 502,
+        "alt": "Pelanggan menerima segelas minuman bersoda gelap di konter apotek"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "rows of glass soda bottles moving along a conveyor belt in an early 1900s bottling factory, workers in aprons, warm industrial lighting",
+        "seed": 503,
+        "alt": "Pabrik pembotolan Coca-Cola awal abad ke-20"
+      }
+    },
+    "id": {
+      "title": "Minuman yang Awalnya Dibuat untuk Menyembuhkan Kecanduan Narkoba",
+      "hook": "Minuman soda paling terkenal di dunia ini awalnya dijual sebagai obat—termasuk obat untuk kecanduan morfin.",
+      "story": "Georgia, Amerika Serikat, pertengahan 1880-an. Seorang pria bernama John Pemberton—mantan kolonel tentara Konfederasi yang terluka parah saat Perang Saudara Amerika—sedang berjuang melawan kecanduan morfin, obat pereda nyeri yang ia pakai untuk mengobati lukanya. Pemberton kebetulan juga punya gelar kedokteran dan punya toko obat sendiri, jadi ia melakukan hal yang masuk akal untuk seorang ahli kimia: ia mulai meracik ramuannya sendiri untuk lepas dari morfin.\n\nTahun 1885, ia menciptakan 'Pemberton's French Wine Coca'—tonik saraf yang mengandung anggur plus ekstrak daun koka (sumber kokain) dan kacang kola Afrika (sumber kafein). Ramuan ini terinspirasi minuman Prancis populer sejenis bernama Vin Mariani.\n\nTahun berikutnya, 1886, kota Atlanta tiba-tiba memberlakukan aturan larangan alkohol. Pemberton, yang tidak mau kehilangan produknya, buru-buru meracik ulang resepnya tanpa alkohol. Hasilnya diberi nama baru: Coca-Cola—gabungan dari dua bahan utamanya, daun koka dan kacang kola.\n\nPada 8 Mei 1886, Coca-Cola pertama kali dijual di sebuah apotek bernama Jacob's Pharmacy, seharga 5 sen per gelas. Dan ini bagian yang akan membuatmu geleng kepala: Pemberton memasarkannya bukan sebagai minuman penyegar, tapi sebagai OBAT. Ia mengklaim Coca-Cola bisa menyembuhkan kecanduan morfin, gangguan pencernaan, sakit kepala, gangguan saraf—bahkan disebut-sebut sebagai obat untuk masalah 'kejantanan'.\n\nSayangnya, Pemberton tidak hidup cukup lama untuk melihat ciptaannya mendunia. Ia menjual hak kepemilikan resepnya ke seorang pengusaha bernama Asa Candler di tahun 1888. Candler-lah yang punya bakat pemasaran luar biasa: ia membangun pabrik sirup di kota demi kota, mencetak kupon gratis minum Coca-Cola (salah satu kupon promosi pertama dalam sejarah periklanan!), dan mengubah obat tonik kecil-kecilan ini jadi kerajaan bisnis global.\n\nSampai hari ini, resep asli Coca-Cola masih jadi rahasia dagang paling dijaga ketat di dunia bisnis—konon hanya segelintir orang yang tahu formula lengkapnya, dan mereka dilarang bepergian bersama di pesawat yang sama. Benar atau tidaknya legenda itu, satu hal pasti: minuman yang dulu dijual sebagai obat kecanduan narkoba kini diminum lebih dari 1,8 miliar gelas setiap hari di seluruh dunia.",
+      "whyItMatters": "Kisah Coca-Cola menunjukkan bagaimana sebuah produk bisa bertransformasi total—dari obat tonik yang hampir gagal, menjadi merek paling bernilai di dunia—berkat strategi pemasaran yang tepat, bukan cuma produknya sendiri. Ini pelajaran klasik dalam dunia bisnis: ide bagus butuh orang yang tahu cara menjualnya.",
+      "keyFacts": [
+        "Diciptakan oleh John Pemberton tahun 1886 di Atlanta, awalnya dipasarkan sebagai obat, termasuk klaim menyembuhkan kecanduan morfin.",
+        "Nama 'Coca-Cola' berasal dari dua bahan asalnya: daun koka dan kacang kola.",
+        "Dijual pertama kali 8 Mei 1886 seharga 5 sen per gelas; resep lengkapnya masih jadi rahasia dagang sampai sekarang."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang awalnya ingin disembuhkan John Pemberton dengan meracik tonik yang kelak jadi Coca-Cola?",
+          "options": ["Kecanduan morfin", "Flu musiman", "Sakit gigi", "Insomnia"],
+          "correctIndex": 0,
+          "explanation": "Pemberton, mantan kolonel yang kecanduan morfin akibat luka perang, meracik tonik ini sebagai bagian dari usahanya lepas dari morfin."
+        },
+        {
+          "question": "Dari mana asal nama 'Coca-Cola'?",
+          "options": ["Dua bahan asalnya: daun koka dan kacang kola", "Nama kota tempat ditemukan", "Nama penemunya", "Singkatan dari sebuah slogan iklan"],
+          "correctIndex": 0,
+          "explanation": "Namanya gabungan dari daun koka (sumber kokain di resep awal) dan kacang kola (sumber kafein)."
+        },
+        {
+          "question": "Mengapa Pemberton mengubah resep 'French Wine Coca' jadi Coca-Cola tanpa alkohol?",
+          "options": ["Atlanta memberlakukan aturan larangan alkohol pada 1886", "Pemerintah AS melarang anggur impor", "Alkohol membuat rasanya pahit", "Ia ingin menjualnya ke anak-anak"],
+          "correctIndex": 0,
+          "explanation": "Larangan alkohol di Atlanta memaksa Pemberton meracik ulang resepnya tanpa alkohol, dan lahirlah Coca-Cola."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Drink That Was Originally Made to Cure Drug Addiction",
+      "hook": "The world's most famous soda was originally sold as medicine—including medicine for morphine addiction.",
+      "story": "Georgia, USA, mid-1880s. A man named John Pemberton—a former Confederate army colonel badly wounded in the Civil War—was fighting his own addiction to morphine, the painkiller he'd used to treat his wounds. Pemberton happened to hold a medical degree and ran his own drugstore, so he did the logical thing for a chemist: he started mixing up his own remedy to break free from morphine.\n\nIn 1885, he created 'Pemberton's French Wine Coca'—a nerve tonic made of wine spiked with coca leaf extract (a source of cocaine) and African kola nut (a source of caffeine). The concoction was inspired by a popular French drink of the time called Vin Mariani.\n\nThe following year, 1886, the city of Atlanta suddenly passed a prohibition law banning alcohol. Pemberton, unwilling to lose his product, scrambled to reformulate it without alcohol. The result got a new name: Coca-Cola—a mashup of its two star ingredients, coca leaf and kola nut.\n\nOn May 8, 1886, Coca-Cola was sold for the very first time at a drugstore called Jacob's Pharmacy, for 5 cents a glass. And here's the part that'll make you do a double take: Pemberton didn't market it as a refreshing drink—he marketed it as MEDICINE. He claimed Coca-Cola could cure morphine addiction, indigestion, headaches, nerve disorders, and was even pitched as a cure for 'impotence.'\n\nUnfortunately, Pemberton didn't live long enough to see his creation go global. He sold the rights to his formula to a businessman named Asa Candler in 1888. Candler was the one with serious marketing instincts: he built syrup factories city after city, printed free-drink coupons (one of the very first promotional coupons in advertising history!), and turned a small-time tonic into a global business empire.\n\nTo this day, Coca-Cola's original formula remains one of the most tightly guarded trade secrets in business—legend has it only a handful of people know the full recipe, and they're supposedly forbidden from flying on the same plane together. True or not, one thing's certain: a drink once sold as a cure for drug addiction is now consumed over 1.8 billion times a day worldwide.",
+      "whyItMatters": "Coca-Cola's story shows how a product can completely transform—from a struggling tonic into the world's most valuable brand—thanks to smart marketing, not just the product itself. It's a classic business lesson: a good idea still needs someone who knows how to sell it.",
+      "keyFacts": [
+        "Created by John Pemberton in 1886 in Atlanta, originally marketed as medicine, including a claimed cure for morphine addiction.",
+        "The name 'Coca-Cola' comes from its two original ingredients: coca leaf and kola nut.",
+        "First sold on May 8, 1886 for 5 cents a glass; the full recipe remains a trade secret to this day."
+      ],
+      "quiz": [
+        {
+          "question": "What was John Pemberton originally trying to cure by mixing the tonic that became Coca-Cola?",
+          "options": ["Morphine addiction", "Seasonal flu", "Toothache", "Insomnia"],
+          "correctIndex": 0,
+          "explanation": "Pemberton, a former colonel addicted to morphine from war wounds, created the tonic partly to help break free from it."
+        },
+        {
+          "question": "Where does the name 'Coca-Cola' come from?",
+          "options": ["Its two original ingredients: coca leaf and kola nut", "The city where it was invented", "Its inventor's name", "An abbreviation of an ad slogan"],
+          "correctIndex": 0,
+          "explanation": "The name combines coca leaf (source of cocaine in the original recipe) and kola nut (source of caffeine)."
+        },
+        {
+          "question": "Why did Pemberton change 'French Wine Coca' into alcohol-free Coca-Cola?",
+          "options": ["Atlanta passed a prohibition law banning alcohol in 1886", "The US government banned imported wine", "Alcohol made it taste bitter", "He wanted to sell it to children"],
+          "correctIndex": 0,
+          "explanation": "Atlanta's alcohol prohibition forced Pemberton to reformulate without alcohol, giving birth to Coca-Cola."
+        }
+      ]
+    }
+  },
+  {
+    "key": "levis-jeans-rivet",
+    "category": "bisnis-ekonomi",
+    "emoji": "👖",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jeans",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a tailor in a small 1870s workshop hammering copper rivets onto sturdy work trousers, workbench with fabric and tools, warm lamp light",
+        "seed": 664,
+        "alt": "Penjahit memasang paku keling tembaga pada celana kerja"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a gold miner wearing sturdy riveted work pants carrying heavy tools, rugged Nevada mountain landscape, 19th century American West",
+        "seed": 665,
+        "alt": "Penambang emas memakai celana berpaku keling di pegunungan Nevada"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a modern young person confidently wearing stylish blue jeans, urban street background, contemporary casual fashion",
+        "seed": 666,
+        "alt": "Anak muda modern memakai jeans sebagai fashion kasual"
+      }
+    },
+    "id": {
+      "title": "Celana yang Awalnya Dibuat untuk Kantong Penambang yang Robek",
+      "hook": "Jeans yang kamu pakai sekarang awalnya dirancang untuk penambang emas yang kantongnya terus robek karena kepenuhan alat.",
+      "story": "Tahun 1870-an, seorang penjahit asal Latvia bernama Jacob Davis punya masalah berulang dari para pelanggannya di Nevada: celana kerja mereka terus robek, terutama di bagian kantong dan sudut saku, karena dijejali alat-alat tambang yang berat. Davis punya ide sederhana: memasang paku keling tembaga (rivet) di titik-titik yang paling sering robek, supaya jahitannya jauh lebih kuat.\n\nIdenya berhasil luar biasa, tapi Davis tidak punya cukup uang untuk mematenkan temuannya. Ia lalu menghubungi pemasok kain tempat ia biasa membeli bahan, seorang pengusaha bernama Levi Strauss, dan mengajaknya bermitra. Tahun 1873, keduanya resmi mendapatkan paten bersama untuk celana kerja berpaku keling ini, tanggal yang sekarang dianggap sebagai 'hari lahir' jeans modern.\n\nNama 'denim' sendiri berasal dari kain yang dipakai, 'serge de Nîmes', dari kota Nîmes di Prancis, yang kemudian disingkat jadi 'denim' dalam bahasa Inggris. Bahan ini dipilih karena jauh lebih tebal dan tahan lama dibanding kain katun biasa.\n\nSelama puluhan tahun berikutnya, jeans tetap identik dengan pekerja kasar: penambang, peternak, petani. Baru sekitar pertengahan abad ke-20, jeans mulai bertransformasi jadi simbol budaya anak muda dan pemberontakan, dipopulerkan lewat film-film Hollywood, sebelum akhirnya diterima sebagai pakaian kasual sehari-hari di seluruh dunia, dan belakangan bahkan jadi item mode kelas atas dengan harga yang bisa mencapai jutaan rupiah per potong.\n\nJadi barang yang awalnya murni solusi praktis untuk masalah kantong robek penambang emas, perlahan berubah jadi salah satu item fashion paling ikonik dan bernilai ekonomi besar sepanjang sejarah pakaian modern.",
+      "whyItMatters": "Kisah jeans menunjukkan bahwa produk yang bertahan lama biasanya lahir dari solusi praktis untuk masalah nyata, bukan dari tren sesaat. Prinsip ini masih relevan buat siapa pun yang sedang mencoba membuat produk atau bisnis sendiri hari ini.",
+      "keyFacts": [
+        "Jeans berpaku keling pertama kali dipatenkan tahun 1873 oleh Jacob Davis dan Levi Strauss, awalnya untuk pekerja tambang.",
+        "Nama 'denim' berasal dari kain 'serge de Nîmes' dari kota Nîmes, Prancis.",
+        "Jeans baru jadi simbol budaya anak muda dan mode kasual sekitar pertengahan abad ke-20, setelah puluhan tahun identik dengan pekerja kasar."
+      ],
+      "quiz": [
+        {
+          "question": "Masalah apa yang mendorong Jacob Davis menciptakan jeans berpaku keling?",
+          "options": ["Kantong celana pekerja tambang terus robek", "Warna celana cepat pudar", "Celana terlalu mahal diproduksi", "Ukuran celana tidak standar"],
+          "correctIndex": 0,
+          "explanation": "Davis menambahkan paku keling untuk memperkuat titik-titik yang sering robek pada celana pekerja tambang."
+        },
+        {
+          "question": "Dari mana asal nama 'denim'?",
+          "options": ["Dari kain 'serge de Nîmes' asal kota Nîmes, Prancis", "Dari nama penemunya, Denim Strauss", "Dari warna biru khasnya", "Dari bahasa Spanyol yang berarti 'kuat'"],
+          "correctIndex": 0,
+          "explanation": "Nama denim adalah singkatan dari 'serge de Nîmes', nama kain dari kota Nîmes."
+        },
+        {
+          "question": "Kapan jeans mulai bertransformasi jadi simbol budaya anak muda?",
+          "options": ["Sekitar pertengahan abad ke-20", "Segera setelah dipatenkan tahun 1873", "Pada abad ke-21", "Belum pernah terjadi sampai sekarang"],
+          "correctIndex": 0,
+          "explanation": "Jeans tetap identik dengan pekerja kasar selama puluhan tahun sebelum jadi simbol budaya anak muda pertengahan abad ke-20."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Pants Designed for Gold Miners' Torn Pockets",
+      "hook": "The jeans you're wearing right now were originally designed for gold miners whose pockets kept ripping from overloaded tools.",
+      "story": "In the 1870s, a tailor from Latvia named Jacob Davis kept hearing the same complaint from his customers in Nevada: their work pants kept ripping, especially at the pockets and seams, from being stuffed with heavy mining tools. Davis had a simple idea: add copper rivets at the spots that tore most often, making the stitching far stronger.\n\nThe idea worked brilliantly, but Davis didn't have enough money to patent it. So he reached out to the fabric supplier he usually bought material from, a businessman named Levi Strauss, and proposed a partnership. In 1873, the two officially received a joint patent for these riveted work pants, a date now considered the 'birthday' of modern jeans.\n\nThe name 'denim' comes from the fabric itself, 'serge de Nîmes,' named after the city of Nîmes in France, later shortened to 'denim' in English. The fabric was chosen because it was far thicker and more durable than regular cotton.\n\nFor decades afterward, jeans stayed tightly associated with manual laborers: miners, ranchers, farmers. It wasn't until around the mid-20th century that jeans began transforming into a symbol of youth culture and rebellion, popularized through Hollywood films, before finally becoming accepted as everyday casual wear worldwide, and later even becoming a high-fashion item that can cost millions of rupiah per pair.\n\nSo an item that started as a purely practical fix for gold miners' torn pockets slowly turned into one of the most iconic and economically significant fashion items in the history of modern clothing.",
+      "whyItMatters": "The story of jeans shows that lasting products usually come from practical solutions to real problems, not fleeting trends. That principle still matters for anyone trying to build their own product or business today.",
+      "keyFacts": [
+        "Riveted jeans were first patented in 1873 by Jacob Davis and Levi Strauss, originally for mine workers.",
+        "The name 'denim' comes from the fabric 'serge de Nîmes,' from the city of Nîmes, France.",
+        "Jeans only became a symbol of youth culture and casual fashion around the mid-20th century, after decades of being tied to manual labor."
+      ],
+      "quiz": [
+        {
+          "question": "What problem led Jacob Davis to create riveted jeans?",
+          "options": ["Mine workers' pants pockets kept ripping", "The pants' color faded too fast", "The pants were too expensive to produce", "The pants had no standard sizing"],
+          "correctIndex": 0,
+          "explanation": "Davis added rivets to reinforce the spots that frequently tore on mine workers' pants."
+        },
+        {
+          "question": "Where does the name 'denim' come from?",
+          "options": ["From the fabric 'serge de Nîmes,' from the city of Nîmes, France", "From its inventor's name, Denim Strauss", "From its signature blue color", "From a Spanish word meaning 'strong'"],
+          "correctIndex": 0,
+          "explanation": "Denim is short for 'serge de Nîmes,' the name of the fabric from the city of Nîmes."
+        },
+        {
+          "question": "When did jeans start transforming into a youth culture symbol?",
+          "options": ["Around the mid-20th century", "Right after being patented in 1873", "In the 21st century", "It hasn't happened yet"],
+          "correctIndex": 0,
+          "explanation": "Jeans stayed tied to manual labor for decades before becoming a youth culture symbol in the mid-20th century."
+        }
+      ]
+    }
+  },
+  {
+    "key": "inflasi-kenapa-harga-naik",
+    "category": "bisnis-ekonomi",
+    "emoji": "📈",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Inflation",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a person looking at a price tag on a grocery store shelf with a surprised expression, rows of products, everyday scene",
+        "seed": 667,
+        "alt": "Orang terkejut melihat label harga di rak toko"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an abstract illustration of a rising graph line made of coins and banknotes, symbolic economic chart, flat design",
+        "seed": 668,
+        "alt": "Ilustrasi grafik harga naik dari koin dan uang kertas"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a modern central bank building exterior with a clean official facade, flagpoles, formal government architecture",
+        "seed": 669,
+        "alt": "Gedung bank sentral modern"
+      }
+    },
+    "id": {
+      "title": "Kenapa Uang yang Sama Membeli Lebih Sedikit Tiap Tahun",
+      "hook": "Uang jajan yang dulu cukup buat semangkuk bakso lengkap sekarang mungkin cuma cukup buat kuahnya saja.",
+      "story": "Kamu mungkin pernah dengar orang tua atau kakekmu cerita, 'dulu uang segini bisa beli banyak barang.' Itu bukan sekadar nostalgia berlebihan. Itu adalah inflasi yang sedang dijelaskan dengan cara paling sederhana: kenaikan harga barang dan jasa secara umum dari waktu ke waktu, yang membuat nilai uang yang sama bisa membeli lebih sedikit barang dibanding sebelumnya.\n\nPenyebab inflasi cukup beragam, tapi dua yang paling umum dijelaskan ekonom adalah ini. Pertama, saat permintaan barang naik lebih cepat dibanding kemampuan produksi memenuhinya, harga cenderung terdorong naik, karena penjual tahu pembeli tetap akan membeli meski harganya dinaikkan. Kedua, saat biaya produksi naik, misalnya harga bahan baku atau upah pekerja naik, produsen biasanya meneruskan kenaikan biaya itu ke harga jual produk mereka.\n\nPemerintah dan bank sentral di hampir semua negara, termasuk Bank Indonesia, punya tugas khusus menjaga inflasi tetap di level yang 'sehat', biasanya sekitar 2 sampai 4 persen per tahun. Kedengarannya kecil, tapi kalau dibiarkan bertahun-tahun, efeknya menumpuk. Inflasi 3 persen per tahun bisa membuat harga barang naik dua kali lipat dalam waktu sekitar 24 tahun.\n\nInflasi yang terlalu rendah atau bahkan negatif (disebut deflasi) sebenarnya juga bukan tanda ekonomi yang sehat. Kalau orang berekspektasi harga akan terus turun, mereka cenderung menunda belanja, menunggu harga lebih murah lagi, yang justru bisa memperlambat roda ekonomi secara keseluruhan.\n\nJadi target bank sentral bukan menghilangkan inflasi sama sekali, tapi menjaganya tetap rendah dan stabil, cukup untuk mendorong aktivitas ekonomi tanpa membuat nilai uang masyarakat tergerus terlalu cepat.",
+      "whyItMatters": "Memahami inflasi membantumu membuat keputusan keuangan yang lebih tepat, misalnya kenapa menyimpan semua uang di bawah bantal bukan ide bagus untuk jangka panjang, karena nilainya terus tergerus, sementara investasi yang hasilnya mengalahkan inflasi membantu menjaga daya beli uangmu.",
+      "keyFacts": [
+        "Inflasi adalah kenaikan harga barang dan jasa secara umum dari waktu ke waktu, membuat uang yang sama bisa membeli lebih sedikit.",
+        "Bank sentral di hampir semua negara menargetkan inflasi tetap rendah dan stabil, biasanya sekitar 2-4 persen per tahun.",
+        "Deflasi (inflasi negatif) juga bukan tanda ekonomi sehat, karena bisa membuat orang menunda belanja dan memperlambat ekonomi."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang dimaksud dengan inflasi?",
+          "options": ["Kenaikan harga barang dan jasa secara umum dari waktu ke waktu", "Penurunan jumlah uang yang beredar", "Kenaikan gaji pekerja secara nasional", "Peningkatan jumlah penduduk"],
+          "correctIndex": 0,
+          "explanation": "Inflasi membuat nilai uang yang sama bisa membeli lebih sedikit barang dibanding sebelumnya."
+        },
+        {
+          "question": "Berapa target inflasi tahunan yang biasanya dijaga bank sentral?",
+          "options": ["Sekitar 2-4 persen", "Sekitar 20-30 persen", "0 persen tepat", "Lebih dari 50 persen"],
+          "correctIndex": 0,
+          "explanation": "Bank sentral biasanya menargetkan inflasi rendah dan stabil, sekitar 2-4 persen per tahun."
+        },
+        {
+          "question": "Kenapa deflasi (inflasi negatif) juga dianggap tidak sehat untuk ekonomi?",
+          "options": ["Orang cenderung menunda belanja menunggu harga lebih murah", "Karena harga barang jadi terlalu mahal", "Karena gaji pekerja otomatis naik drastis", "Karena bank sentral dilarang mengaturnya"],
+          "correctIndex": 0,
+          "explanation": "Ekspektasi harga terus turun membuat orang menunda belanja, yang bisa memperlambat roda ekonomi."
+        }
+      ]
+    },
+    "en": {
+      "title": "Why the Same Money Buys Less Every Year",
+      "hook": "The pocket money that used to buy a full bowl of noodles might now only cover the broth.",
+      "story": "You've probably heard an older relative say something like, 'back then, this much money could buy so much more.' That's not just nostalgia talking. That's inflation, explained in the simplest way possible: the general rise in prices of goods and services over time, which means the same amount of money can buy less than it used to.\n\nThe causes of inflation vary, but economists usually point to two main ones. First, when demand for goods rises faster than production can keep up, prices tend to get pushed up, because sellers know buyers will still pay even at a higher price. Second, when production costs rise, say, raw material prices or worker wages go up, producers usually pass that cost increase on to the selling price.\n\nGovernments and central banks in nearly every country, including Indonesia's Bank Indonesia, have a specific job of keeping inflation at a 'healthy' level, usually around 2 to 4 percent per year. That sounds small, but left to compound over years, the effect adds up. Inflation of 3 percent a year can double prices in roughly 24 years.\n\nInflation that's too low, or even negative (called deflation), isn't actually a sign of a healthy economy either. If people expect prices to keep falling, they tend to delay spending, waiting for an even cheaper price, which can actually slow down the entire economy.\n\nSo a central bank's goal isn't to eliminate inflation entirely, but to keep it low and stable, just enough to encourage economic activity without eroding people's purchasing power too fast.",
+      "whyItMatters": "Understanding inflation helps you make smarter financial decisions, like why keeping all your money under a pillow isn't a great long-term idea, since its value keeps eroding, while investments that outpace inflation help protect your money's purchasing power.",
+      "keyFacts": [
+        "Inflation is the general rise in prices of goods and services over time, meaning the same money buys less.",
+        "Central banks in nearly every country target low, stable inflation, usually around 2-4 percent per year.",
+        "Deflation (negative inflation) also isn't a sign of a healthy economy, since it can make people delay spending and slow the economy down."
+      ],
+      "quiz": [
+        {
+          "question": "What is inflation?",
+          "options": ["The general rise in prices of goods and services over time", "A decrease in the amount of money in circulation", "A nationwide increase in worker wages", "An increase in population"],
+          "correctIndex": 0,
+          "explanation": "Inflation means the same amount of money can buy less than it used to."
+        },
+        {
+          "question": "What annual inflation target do central banks usually maintain?",
+          "options": ["Around 2-4 percent", "Around 20-30 percent", "Exactly 0 percent", "More than 50 percent"],
+          "correctIndex": 0,
+          "explanation": "Central banks usually target low, stable inflation, around 2-4 percent per year."
+        },
+        {
+          "question": "Why is deflation (negative inflation) also considered unhealthy for an economy?",
+          "options": ["People tend to delay spending while waiting for lower prices", "Because goods become too expensive", "Because worker wages automatically rise sharply", "Because central banks are banned from managing it"],
+          "correctIndex": 0,
+          "explanation": "Expecting prices to keep falling makes people delay spending, which can slow down the economy."
+        }
+      ]
+    }
+  }
+]

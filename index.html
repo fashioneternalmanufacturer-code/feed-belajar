@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Feed Belajar</title>
+  <meta name="description" content="Feed belajar ala TikTok — pengganti doomscroll." />
+  <meta name="theme-color" content="#0f0f12" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+  <link rel="icon" href="./icons/icon-192.png" />
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <main id="feed" class="feed" aria-label="Feed pengetahuan"></main>
+
+    <section id="screen-limit" class="overlay-screen hidden">
+      <div class="overlay-card">
+        <p class="overlay-emoji">🎉</p>
+        <h2 id="limit-title">Kamu sudah belajar beberapa hal hari ini</h2>
+        <p id="limit-subtitle">Lanjut, atau istirahat dulu?</p>
+        <div class="overlay-actions">
+          <button id="btn-limit-continue" class="btn btn-primary">Lanjut belajar</button>
+          <button id="btn-limit-stop" class="btn btn-ghost">Istirahat</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="screen-story" class="screen hidden">
+      <header class="screen-header">
+        <button class="btn-icon btn-back" data-close="screen-story" aria-label="Tutup">←</button>
+      </header>
+      <div id="story-detail" class="story-detail"></div>
+    </section>
+
+    <section id="screen-saved" class="screen hidden">
+      <header class="screen-header">
+        <button class="btn-icon btn-back" data-close="screen-saved" aria-label="Tutup">←</button>
+        <h1>Tersimpan</h1>
+      </header>
+      <div id="saved-list" class="list"></div>
+    </section>
+
+    <section id="screen-vocab" class="screen hidden">
+      <header class="screen-header">
+        <button class="btn-icon btn-back" data-close="screen-vocab" aria-label="Tutup">←</button>
+        <h1>Kosakata Saya</h1>
+      </header>
+      <div id="vocab-list" class="list"></div>
+    </section>
+
+    <section id="screen-settings" class="screen hidden">
+      <header class="screen-header">
+        <button class="btn-icon btn-back" data-close="screen-settings" aria-label="Tutup">←</button>
+        <h1>Pengaturan</h1>
+      </header>
+      <div class="settings-body">
+        <div class="setting-group">
+          <label for="setting-language">Bahasa feed</label>
+          <select id="setting-language">
+            <option value="mixed">Campur (60% EN / 40% ID)</option>
+            <option value="id">Indonesia</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+        <div class="setting-group">
+          <label for="setting-category">Kategori cerita</label>
+          <select id="setting-category">
+            <option value="all">Semua kategori</option>
+            <option value="sejarah-dunia">Sejarah Dunia</option>
+            <option value="sejarah-indonesia">Sejarah Indonesia</option>
+            <option value="tokoh">Tokoh</option>
+            <option value="penemuan">Penemuan</option>
+            <option value="sains-sehari-hari">Sains Sehari-hari</option>
+            <option value="tubuh-kesehatan-olahraga">Tubuh, Kesehatan &amp; Olahraga</option>
+            <option value="psikologi-kebiasaan">Psikologi &amp; Kebiasaan</option>
+            <option value="bisnis-ekonomi">Bisnis &amp; Ekonomi</option>
+            <option value="alam-geografi-luar-angkasa">Alam, Geografi &amp; Luar Angkasa</option>
+          </select>
+        </div>
+        <div class="setting-group">
+          <label for="setting-limit">Batas kartu per sesi</label>
+          <input id="setting-limit" type="number" min="5" max="200" step="5" />
+        </div>
+        <div class="setting-group row">
+          <label for="setting-quiz">Kuis tiap 8 kartu</label>
+          <input id="setting-quiz" type="checkbox" />
+        </div>
+        <div class="setting-group row">
+          <label for="setting-explore">Mode Jelajah (artikel acak Wikipedia)</label>
+          <input id="setting-explore" type="checkbox" />
+        </div>
+        <div class="setting-group">
+          <h3>Statistik</h3>
+          <p id="stats-text">-</p>
+        </div>
+      </div>
+    </section>
+
+    <nav class="bottom-nav">
+      <button class="nav-btn active" data-screen="feed" aria-label="Feed">🏠</button>
+      <button class="nav-btn" data-screen="screen-saved" aria-label="Tersimpan">🔖</button>
+      <button class="nav-btn" data-screen="screen-vocab" aria-label="Kosakata">📚</button>
+      <button class="nav-btn" data-screen="screen-settings" aria-label="Pengaturan">⚙️</button>
+    </nav>
+
+    <div id="word-popup" class="word-popup hidden"></div>
+  </div>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

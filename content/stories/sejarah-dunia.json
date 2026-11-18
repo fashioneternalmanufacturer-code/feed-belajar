@@ -1,0 +1,424 @@
+[
+  {
+    "key": "piramida-giza",
+    "category": "sejarah-dunia",
+    "emoji": "🔺",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "ancient Egyptian workers in simple linen kilts hauling a massive stone block up a long wooden ramp at the base of a half-built pyramid, Giza desert, blue sky, wide shot showing scale and teamwork",
+        "seed": 101,
+        "alt": "Pekerja kuno menyeret balok batu raksasa menaiki tanjakan menuju piramida yang sedang dibangun"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a bustling ancient Egyptian workers' village near the pyramids, bakers kneading bread by clay ovens, modest mudbrick houses, workers resting after a shift, a pyramid visible in the background",
+        "seed": 102,
+        "alt": "Perkampungan pekerja piramida dengan dapur roti dan rumah-rumah sederhana"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a narrow stone passage deep inside a pyramid, a lone explorer crouching through dim torchlight, granite walls, mysterious atmosphere, passage leading toward a chamber in the distance",
+        "seed": 103,
+        "alt": "Lorong sempit di dalam piramida menuju Bilik Raja"
+      }
+    },
+    "id": {
+      "title": "Piramida yang Menolak Runtuh",
+      "hook": "Piramida ini satu-satunya dari 7 Keajaiban Dunia Kuno yang masih berdiri—padahal usianya paling tua, 2.000 tahun lebih tua dari keajaiban lain mana pun.",
+      "story": "Bayangkan kamu berdiri di gurun Giza, Mesir, sekitar 4.600 tahun lalu. Di depanmu, ribuan orang sedang menyeret balok batu raksasa menaiki tanjakan tanah yang dibuat khusus. Tidak ada mesin, tidak ada listrik—hanya otot, tali, kayu gelondongan, dan rencana yang sangat matang.\n\nMereka sedang membangun makam untuk Firaun Khufu. Proyek ini akan memakan waktu sekitar 26 tahun dan menelan sekitar 2,3 juta balok batu dengan total berat 6 juta ton. Untuk ukuran sekarang, itu seperti membangun gedung pencakar langit... tanpa crane.\n\nSelama berabad-abad, orang percaya piramida ini dibangun oleh pasukan budak yang dicambuki. Tapi penggalian arkeologi di dekat Giza menemukan sesuatu yang mengejutkan: perkampungan pekerja lengkap dengan dapur roti, tempat tinggal, dan kuburan untuk para pembangun—bukan kuburan budak, tapi kuburan pekerja terhormat. Banyak arkeolog kini meyakini sebagian besar pembangunnya adalah petani yang dibayar dan diberi makan, bekerja bergiliran saat sungai Nil sedang banjir dan ladang mereka tidak bisa digarap.\n\nHasilnya? Piramida Khufu berdiri setinggi 146,6 meter—dan tetap jadi bangunan buatan manusia tertinggi di dunia selama lebih dari 3.800 tahun, sampai akhirnya 'dikalahkan' oleh menara katedral di Inggris pada abad pertengahan.\n\nTapi bagian paling gila dari cerita ini adalah ini: dari tujuh Keajaiban Dunia Kuno yang pernah dicatat orang Yunani kuno—termasuk Taman Gantung Babilonia dan Patung Zeus raksasa—piramida Giza adalah yang PALING TUA. Enam keajaiban lainnya sudah hancur jadi debu sejarah. Tapi piramida ini? Masih berdiri, utuh. Mendaki ke puncaknya sudah lama dilarang demi keselamatan dan pelestarian, tapi kamu tetap bisa membungkuk menyusuri lorong sempit di dalamnya sampai ke Bilik Raja, tempat sarkofagus granit kosong Khufu masih tersimpan.\n\nKenapa cuma piramida ini yang selamat? Jawabannya sederhana sekaligus elegan: bentuknya. Struktur piramida menyebarkan beban beratnya secara merata ke segala arah, membuatnya jauh lebih tahan gempa, erosi, dan waktu dibanding bangunan tinggi dengan dinding tegak lurus. Orang Mesir kuno mungkin tidak tahu istilah 'distribusi beban struktural'—tapi mereka membuktikannya selama lebih dari 4.600 tahun.",
+      "whyItMatters": "Piramida Giza membuktikan bahwa perencanaan matang dan kerja sama ribuan orang bisa menghasilkan sesuatu yang bertahan ribuan tahun—jauh melampaui umur siapa pun yang membangunnya. Prinsip desain yang membuatnya tahan lama (menyebar beban secara merata) masih dipakai insinyur modern sampai sekarang.",
+      "keyFacts": [
+        "Dibangun untuk Firaun Khufu sekitar 2600 SM, prosesnya memakan waktu sekitar 26 tahun.",
+        "Terdiri dari sekitar 2,3 juta balok batu dengan total berat sekitar 6 juta ton.",
+        "Satu-satunya dari 7 Keajaiban Dunia Kuno yang masih berdiri utuh sampai sekarang, meski usianya paling tua."
+      ],
+      "quiz": [
+        {
+          "question": "Piramida Agung Giza dibangun sebagai makam untuk siapa?",
+          "options": ["Firaun Khufu", "Firaun Tutankhamun", "Ratu Cleopatra", "Firaun Ramses II"],
+          "correctIndex": 0,
+          "explanation": "Piramida ini dibangun untuk Firaun Khufu dari Dinasti ke-4, sekitar 2600 SM."
+        },
+        {
+          "question": "Apa yang ditemukan arkeolog di dekat Giza yang mengubah pandangan soal 'piramida dibangun budak'?",
+          "options": [
+            "Perkampungan pekerja dengan dapur roti dan kuburan terhormat",
+            "Catatan pembayaran dalam bentuk emas batangan",
+            "Mesin derek kuno dari perunggu",
+            "Surat perjanjian kerja tertulis di papirus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Penggalian menemukan perkampungan lengkap dengan fasilitas untuk pekerja, menunjukkan mereka bukan budak melainkan pekerja yang diberi makan dan tempat tinggal."
+        },
+        {
+          "question": "Apa yang membuat piramida Giza bertahan ribuan tahun dibanding keajaiban dunia kuno lainnya?",
+          "options": [
+            "Bentuknya menyebarkan beban secara merata ke segala arah",
+            "Dilapisi logam anti karat",
+            "Dibangun di bawah tanah sehingga terlindung",
+            "Selalu direnovasi tiap 100 tahun"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bentuk piramida membuat beratnya tersebar merata, jauh lebih tahan lama dibanding bangunan berdinding tegak lurus."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Pyramid That Refused to Fall",
+      "hook": "It's the only one of the 7 Ancient Wonders still standing—even though it's the OLDEST one, built over 2,000 years before any of the others.",
+      "story": "Picture yourself standing in the desert at Giza, Egypt, about 4,600 years ago. In front of you, thousands of people are hauling massive stone blocks up a custom-built dirt ramp. No machines, no electricity—just muscle, rope, wooden logs, and a seriously well-thought-out plan.\n\nThey're building a tomb for Pharaoh Khufu. The project will take roughly 26 years and swallow up about 2.3 million blocks of stone, weighing 6 million tonnes combined. By today's standards, that's like putting up a skyscraper... without a single crane.\n\nFor centuries, people assumed this was built by whipped slaves. But archaeological digs near Giza uncovered something surprising: a whole workers' village, complete with bakeries, housing, and cemeteries for the builders—and not slave graves, but graves honoring skilled laborers. Many archaeologists now believe most of the workforce were paid farmers, fed and housed, working in rotating shifts during the Nile's flood season when their fields were underwater anyway.\n\nThe result? Khufu's pyramid rose 146.6 meters tall—and stayed the tallest human-made structure on Earth for more than 3,800 years, until a cathedral spire in England finally topped it in the Middle Ages.\n\nBut here's the wildest part of the story: out of the seven Ancient Wonders the Greeks once listed—including the Hanging Gardens of Babylon and a giant statue of Zeus—the Giza pyramid is the OLDEST of them all. The other six crumbled into history long ago. This one? Still standing, still intact. Climbing to the top has long been banned for safety and preservation, but you can still duck through narrow passages inside, all the way to the King's Chamber, where Khufu's empty granite sarcophagus still sits.\n\nSo why did only this one survive? The answer is as simple as it is elegant: its shape. A pyramid spreads its weight evenly in every direction, making it far more resistant to earthquakes, erosion, and time than a tall building with straight vertical walls. Ancient Egyptians probably never said the words 'structural load distribution'—but they proved the concept for over 4,600 years and counting.",
+      "whyItMatters": "The Giza pyramid proves that careful planning and the coordinated effort of thousands of people can create something that outlasts everyone who built it. The very design principle that keeps it standing—spreading weight evenly—is still used by engineers today.",
+      "keyFacts": [
+        "Built as a tomb for Pharaoh Khufu around 2600 BC, taking roughly 26 years to complete.",
+        "Made from about 2.3 million stone blocks weighing a combined 6 million tonnes.",
+        "The only one of the 7 Ancient Wonders still standing intact today, despite being the oldest of them all."
+      ],
+      "quiz": [
+        {
+          "question": "Who was the Great Pyramid of Giza built as a tomb for?",
+          "options": ["Pharaoh Khufu", "Pharaoh Tutankhamun", "Queen Cleopatra", "Pharaoh Ramesses II"],
+          "correctIndex": 0,
+          "explanation": "It was built for Pharaoh Khufu of the 4th Dynasty, around 2600 BC."
+        },
+        {
+          "question": "What did archaeologists find near Giza that changed the 'built by slaves' myth?",
+          "options": [
+            "A workers' village with bakeries and honored graves",
+            "Gold payment records",
+            "An ancient bronze crane",
+            "A written labor contract on papyrus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Excavations revealed a full village with facilities for workers, suggesting they were fed, housed laborers—not slaves."
+        },
+        {
+          "question": "What helped the Giza pyramid survive for thousands of years compared to other ancient wonders?",
+          "options": [
+            "Its shape spreads weight evenly in every direction",
+            "It's coated in rust-proof metal",
+            "It was built underground for protection",
+            "It was rebuilt every 100 years"
+          ],
+          "correctIndex": 0,
+          "explanation": "A pyramid's shape evenly distributes weight, making it far more durable than straight-walled buildings."
+        }
+      ]
+    }
+  },
+  {
+    "key": "jatuhnya-roma",
+    "category": "sejarah-dunia",
+    "emoji": "🏛️",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a Germanic warlord pulling a young teenage Roman emperor off an ornate throne inside a Roman palace hall, dramatic tension, 5th century Ravenna, stone columns, fading Roman grandeur",
+        "seed": 601,
+        "alt": "Odoacer menggulingkan kaisar remaja Romulus Augustulus dari takhta di Ravenna"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "Visigoth warriors sacking and looting the city of Rome, people fleeing through ancient Roman streets, burning buildings in the background, chaotic historical scene",
+        "seed": 602,
+        "alt": "Penjarahan kota Roma oleh suku Visigoth"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a grand still-standing Byzantine palace in Constantinople with golden domes, contrasted against crumbling Roman ruins nearby, symbolizing the Eastern Roman Empire enduring",
+        "seed": 603,
+        "alt": "Istana Bizantium di Konstantinopel yang tetap berdiri megah"
+      }
+    },
+    "id": {
+      "title": "Kekaisaran yang Tidak Runtuh Lewat Pertempuran",
+      "hook": "Kekaisaran yang pernah menguasai separuh Eropa tidak runtuh lewat perang besar. Ia 'dipecat' lewat cara yang nyaris anti-klimaks.",
+      "story": "4 September 476. Seorang panglima suku Jermanik bernama Odoacer menyeret seorang remaja laki-laki dari takhta di Ravenna, lalu mengirimnya ke sebuah vila di selatan Italia, tidak dibunuh, cuma dipensiunkan paksa. Remaja itu bernama Romulus Augustulus, dan dengan 'pemecatan' yang nyaris sepi ini, Kekaisaran Romawi Barat yang pernah menguasai separuh Eropa resmi berakhir.\n\nTidak ada pertempuran besar yang menentukan di hari itu. Roma sebenarnya sudah lama sekarat jauh sebelum momen simbolis ini: krisis ekonomi berkepanjangan, wabah penyakit, korupsi birokrasi, dan gelombang migrasi suku-suku dari luar perbatasan yang terus-menerus menekan wilayah kekaisaran selama ratusan tahun. Kota Roma sendiri bahkan sudah dijarah dua kali sebelumnya: tahun 410 oleh suku Visigoth, dan tahun 455 oleh suku Vandal.\n\nYang menarik, banyak orang membayangkan 'jatuhnya Roma' sebagai dunia yang tiba-tiba gelap gulita dalam semalam. Padahal transisinya jauh lebih pelan dan berantakan. Banyak struktur pemerintahan Romawi tetap dipakai oleh penguasa baru yang menggantikannya, hukum Romawi terus memengaruhi hukum Eropa selama berabad-abad, dan bahasa Latin perlahan berevolusi jadi bahasa-bahasa Eropa modern seperti Italia, Prancis, dan Spanyol.\n\nSatu hal yang sering dilupakan: separuh kekaisaran lainnya, Kekaisaran Romawi Timur yang belakangan dikenal sebagai Kekaisaran Bizantium, justru masih bertahan hampir 1.000 tahun lagi setelah tahun 476, sampai akhirnya jatuh ke tangan Kesultanan Utsmaniyah tahun 1453.\n\nJadi ketika seseorang menyebut 'keruntuhan Romawi' sebagai pelajaran sejarah, yang sebenarnya mereka maksud biasanya cuma separuhnya saja, bagian barat. Separuh timurnya tetap berdiri tegak, bahkan lebih lama dari umur Romawi Barat sejak awal berdirinya.",
+      "whyItMatters": "Keruntuhan sesuatu, baik kerajaan, perusahaan, maupun kebiasaan pribadi, jarang terjadi dalam semalam. Biasanya tanda-tandanya sudah terlihat jauh sebelum momen akhirnya tiba, kalau kita mau memperhatikan dan tidak menunggu sampai 'hari H'.",
+      "keyFacts": [
+        "Kekaisaran Romawi Barat resmi berakhir 4 September 476, saat Odoacer menggulingkan kaisar terakhirnya, Romulus Augustulus.",
+        "Kota Roma sudah dijarah dua kali sebelumnya: oleh suku Visigoth (410) dan suku Vandal (455).",
+        "Kekaisaran Romawi Timur (Bizantium) justru bertahan hampir 1.000 tahun lagi, baru jatuh tahun 1453."
+      ],
+      "quiz": [
+        {
+          "question": "Siapa kaisar terakhir Kekaisaran Romawi Barat yang digulingkan tahun 476?",
+          "options": ["Romulus Augustulus", "Julius Caesar", "Konstantinus Agung", "Nero"],
+          "correctIndex": 0,
+          "explanation": "Romulus Augustulus, yang saat itu masih remaja, digulingkan oleh panglima Jermanik Odoacer pada 476."
+        },
+        {
+          "question": "Apa yang terjadi pada Kekaisaran Romawi Timur (Bizantium) setelah Romawi Barat runtuh?",
+          "options": [
+            "Bertahan hampir 1.000 tahun lagi sampai 1453",
+            "Runtuh di tahun yang sama",
+            "Bergabung dengan Romawi Barat",
+            "Berubah nama jadi Kekaisaran Mesir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Byzantium bertahan sampai direbut Kesultanan Utsmaniyah tahun 1453."
+        },
+        {
+          "question": "Menurut cerita ini, kenapa 'jatuhnya Roma' sering disalahpahami?",
+          "options": [
+            "Orang mengira itu momen tiba-tiba, padahal prosesnya pelan selama puluhan tahun",
+            "Karena sebenarnya Roma tidak pernah runtuh",
+            "Karena yang runtuh adalah Romawi Timur, bukan Barat",
+            "Karena catatan sejarahnya hilang total"
+          ],
+          "correctIndex": 0,
+          "explanation": "Roma sudah 'sekarat' lewat krisis ekonomi, wabah, dan tekanan migrasi selama lama sebelum momen 476 M."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Empire That Didn't Fall in a Battle",
+      "hook": "The empire that once ruled half of Europe didn't collapse in a massive war. It got 'fired' in an almost anticlimactic way.",
+      "story": "September 4, 476. A Germanic warlord named Odoacer pulled a teenage boy off the throne in Ravenna and sent him off to a villa in southern Italy, not killed, just forced into early retirement. The boy's name was Romulus Augustulus, and with this quiet dismissal, the Western Roman Empire that once ruled half of Europe officially came to an end.\n\nThere was no decisive final battle that day. Rome had actually been dying slowly long before this symbolic moment: prolonged economic crisis, disease outbreaks, administrative corruption, and wave after wave of migrating tribes pressing against the empire's borders for centuries. The city of Rome itself had already been sacked twice before: once by the Visigoths in 410, and once by the Vandals in 455.\n\nHere's the interesting part: many people imagine 'the fall of Rome' as the world suddenly going dark overnight. The actual transition was much slower and messier. Many Roman administrative structures kept being used by the new rulers who replaced the empire, Roman law kept shaping European law for centuries afterward, and Latin slowly evolved into modern European languages like Italian, French, and Spanish.\n\nOne detail people often forget: the other half of the empire, the Eastern Roman Empire, later known as the Byzantine Empire, actually survived for almost 1,000 more years after 476, before finally falling to the Ottoman Empire in 1453.\n\nSo whenever someone brings up 'the fall of Rome' as a history lesson, they usually only mean half the story, the western half. The eastern half kept standing, for even longer than the original empire had existed in the first place.",
+      "whyItMatters": "Collapse, whether of an empire, a company, or a personal habit, rarely happens overnight. The warning signs are usually visible long before the actual breaking point, if you're paying attention instead of waiting for the big moment.",
+      "keyFacts": [
+        "The Western Roman Empire officially ended on September 4, 476, when Odoacer deposed its last emperor, Romulus Augustulus.",
+        "Rome itself had already been sacked twice before: by the Visigoths (410) and the Vandals (455).",
+        "The Eastern Roman Empire (Byzantium) survived for almost 1,000 more years, only falling in 1453."
+      ],
+      "quiz": [
+        {
+          "question": "Who was the last emperor of the Western Roman Empire, deposed in 476?",
+          "options": ["Romulus Augustulus", "Julius Caesar", "Constantine the Great", "Nero"],
+          "correctIndex": 0,
+          "explanation": "The teenage Romulus Augustulus was deposed by the Germanic warlord Odoacer in 476."
+        },
+        {
+          "question": "What happened to the Eastern Roman Empire (Byzantium) after the West fell?",
+          "options": [
+            "It survived for almost 1,000 more years, until 1453",
+            "It collapsed the same year",
+            "It merged with the Western Empire",
+            "It was renamed the Egyptian Empire"
+          ],
+          "correctIndex": 0,
+          "explanation": "Byzantium lasted until it was conquered by the Ottoman Empire in 1453."
+        },
+        {
+          "question": "According to this story, why is 'the fall of Rome' often misunderstood?",
+          "options": [
+            "People picture a sudden event, when it was actually a slow decline over decades",
+            "Because Rome never actually fell",
+            "Because it was the East that fell, not the West",
+            "Because the historical records were lost"
+          ],
+          "correctIndex": 0,
+          "explanation": "Rome had already been 'dying' through economic crisis, disease, and migration pressure long before 476 AD."
+        }
+      ]
+    }
+  },
+  {
+    "key": "jalur-sutra",
+    "category": "sejarah-dunia",
+    "emoji": "🐫",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Silk_Road",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a long camel caravan loaded with silk bales and goods crossing a vast desert landscape, mountains in the distance, Central Asia trade route, wide cinematic composition",
+        "seed": 604,
+        "alt": "Karavan unta membawa sutra melintasi gurun Jalur Sutra"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a bustling ancient marketplace along the Silk Road, merchants trading silk, spices, and glassware, diverse traders in period clothing",
+        "seed": 605,
+        "alt": "Pasar ramai di sepanjang Jalur Sutra"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a Buddhist monk walking along a mountain trail carrying scrolls, rocky cliffs, ancient trade route atmosphere",
+        "seed": 606,
+        "alt": "Biksu Buddha berjalan di jalur pegunungan Jalur Sutra"
+      }
+    },
+    "id": {
+      "title": "Jalan Dagang yang Membawa Lebih dari Sekadar Sutra",
+      "hook": "Namanya Jalur Sutra, tapi barang yang lewat jalur ini jauh lebih aneh dari sekadar kain: dari kertas, mesiu, sampai wabah penyakit yang mengubah Eropa selamanya.",
+      "story": "Bayangkan rute dagang sepanjang lebih dari 6.000 kilometer, membentang dari Tiongkok sampai Laut Tengah, melewati gurun, pegunungan, dan padang rumput Asia Tengah. Tidak ada satu orang pun yang menempuh seluruh rute ini sendirian. Jalur Sutra sebenarnya adalah jaringan ratusan rute pendek yang saling terhubung, dengan barang dagangan berpindah tangan dari satu pedagang ke pedagang lain di sepanjang jalan, seperti estafet raksasa yang berlangsung selama berabad-abad.\n\nNamanya memang diambil dari sutra Tiongkok, komoditas mewah yang sangat didambakan orang Romawi sampai-sampai beberapa senator mengeluhkan uang kerajaan 'bocor' ke Timur untuk membelinya. Tapi sutra cuma permukaan dari apa yang sebenarnya mengalir di jalur ini. Kertas, bubuk mesiu, rempah-rempah, kaca, dan bahkan teknologi pembuatan baja berpindah dari Timur ke Barat dan sebaliknya.\n\nAgama dan ide juga ikut menumpang. Buddhisme menyebar dari India ke Tiongkok lewat para biksu yang berjalan di jalur ini. Islam menyebar ke Asia Tengah lewat jalur yang sama beberapa abad kemudian.\n\nTapi ada sisi gelapnya juga. Banyak sejarawan meyakini Jalur Sutra turut menjadi jalur penyebaran Wabah Hitam pada abad ke-14, pandemi yang membunuh sepertiga populasi Eropa. Kutu dan tikus pembawa bakteri penyebab wabah ikut menumpang di karavan dagang yang sama yang membawa sutra dan rempah.\n\nJalur Sutra akhirnya meredup setelah jalur laut ditemukan pada abad ke-15 dan ke-16, membuat kapal jauh lebih efisien dibanding karavan unta yang melintasi gurun. Tapi istilah 'Jalur Sutra' sendiri sebenarnya baru diciptakan tahun 1877 oleh seorang geograf Jerman, Ferdinand von Richthofen, jauh setelah jalur ini berhenti ramai dipakai.",
+      "whyItMatters": "Jalur Sutra menunjukkan bahwa globalisasi bukan fenomena baru. Pertukaran barang, ide, dan bahkan penyakit antarbenua sudah terjadi ribuan tahun sebelum internet atau pesawat terbang ada.",
+      "keyFacts": [
+        "Jalur Sutra bukan satu jalan tunggal, melainkan jaringan rute dagang sepanjang lebih dari 6.000 km yang menghubungkan Tiongkok dan Laut Tengah.",
+        "Selain sutra, jalur ini membawa kertas, mesiu, rempah, agama, dan diduga turut menyebarkan Wabah Hitam pada abad ke-14.",
+        "Istilah 'Jalur Sutra' baru diciptakan tahun 1877 oleh geograf Jerman Ferdinand von Richthofen."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang sebenarnya dimaksud dengan 'Jalur Sutra'?",
+          "options": [
+            "Jaringan ratusan rute dagang yang saling terhubung, bukan satu jalan tunggal",
+            "Satu jalan raya tunggal yang dibangun Kekaisaran Tiongkok",
+            "Rute laut dari Tiongkok ke Eropa",
+            "Nama sebuah kota dagang di Asia Tengah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jalur Sutra adalah jaringan rute dagang, dengan barang berpindah tangan antar pedagang sepanjang jalan."
+        },
+        {
+          "question": "Selain sutra, apa dampak negatif yang diduga ikut menyebar lewat Jalur Sutra?",
+          "options": ["Wabah Hitam pada abad ke-14", "Perang Dunia I", "Letusan gunung berapi", "Revolusi Industri"],
+          "correctIndex": 0,
+          "explanation": "Banyak sejarawan meyakini kutu dan tikus pembawa bakteri Wabah Hitam ikut menumpang karavan dagang di jalur ini."
+        },
+        {
+          "question": "Kapan istilah 'Jalur Sutra' pertama kali diciptakan, dan oleh siapa?",
+          "options": [
+            "Tahun 1877, oleh geograf Jerman Ferdinand von Richthofen",
+            "Abad ke-2 SM, oleh seorang kaisar Tiongkok",
+            "Tahun 1453, oleh pedagang Venesia Marco Polo",
+            "Abad ke-20, oleh UNESCO"
+          ],
+          "correctIndex": 0,
+          "explanation": "Istilah ini baru diciptakan tahun 1877, jauh setelah jalur dagang ini sendiri meredup."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Trade Route That Carried More Than Silk",
+      "hook": "It's called the Silk Road, but what actually moved along it was far stranger than fabric: paper, gunpowder, and even a plague that changed Europe forever.",
+      "story": "Picture a trade route stretching over 6,000 kilometers, from China all the way to the Mediterranean, crossing deserts, mountains, and the grasslands of Central Asia. No single person ever walked the whole thing alone. The Silk Road was actually a network of hundreds of shorter routes linked together, with goods passing from trader to trader along the way, like a giant relay race that lasted for centuries.\n\nIt's named after Chinese silk, a luxury good so desired that some Roman senators complained about imperial money 'leaking' east just to buy it. But silk was only the surface of what actually flowed along this route. Paper, gunpowder, spices, glass, and even steel-making techniques traveled from East to West and back again.\n\nReligions and ideas hitched a ride too. Buddhism spread from India to China through monks walking this very route. Islam later spread into Central Asia along the same paths.\n\nBut there was a dark side as well. Many historians believe the Silk Road helped spread the Black Death in the 14th century, a pandemic that killed roughly a third of Europe's population. The fleas and rats carrying the plague bacteria likely hitched rides on the same caravans carrying silk and spices.\n\nThe Silk Road eventually faded once sea routes were discovered in the 15th and 16th centuries, making ships far more efficient than camel caravans crossing deserts. Oddly enough, the term 'Silk Road' itself wasn't even coined until 1877, by a German geographer named Ferdinand von Richthofen, long after the route had already stopped being heavily used.",
+      "whyItMatters": "The Silk Road shows that globalization isn't a modern invention. Goods, ideas, and even diseases were already crossing continents thousands of years before the internet or airplanes existed.",
+      "keyFacts": [
+        "The Silk Road wasn't a single road, but a network of trade routes over 6,000 km long connecting China and the Mediterranean.",
+        "Besides silk, it carried paper, gunpowder, spices, religion, and likely helped spread the 14th-century Black Death.",
+        "The term 'Silk Road' wasn't coined until 1877, by German geographer Ferdinand von Richthofen."
+      ],
+      "quiz": [
+        {
+          "question": "What was the Silk Road actually?",
+          "options": [
+            "A network of hundreds of connected trade routes, not a single road",
+            "One single highway built by the Chinese empire",
+            "A sea route from China to Europe",
+            "The name of a trading city in Central Asia"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Silk Road was a network of trade routes, with goods changing hands between traders along the way."
+        },
+        {
+          "question": "Besides silk, what harmful thing is believed to have spread along the Silk Road?",
+          "options": ["The 14th-century Black Death", "World War I", "A volcanic eruption", "The Industrial Revolution"],
+          "correctIndex": 0,
+          "explanation": "Many historians believe fleas and rats carrying the Black Death bacteria hitched rides on trade caravans."
+        },
+        {
+          "question": "When was the term 'Silk Road' coined, and by whom?",
+          "options": [
+            "In 1877, by German geographer Ferdinand von Richthofen",
+            "In the 2nd century BC, by a Chinese emperor",
+            "In 1453, by Venetian trader Marco Polo",
+            "In the 20th century, by UNESCO"
+          ],
+          "correctIndex": 0,
+          "explanation": "The term was only coined in 1877, long after the trade route itself had already faded."
+        }
+      ]
+    }
+  },
+  {
+    "key": "revolusi-industri",
+    "category": "sejarah-dunia",
+    "emoji": "⚙️",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a large improved steam engine inside a small 18th century Scottish workshop, glowing furnace light, intricate metal gears and pipes, inventor examining it",
+        "seed": 607,
+        "alt": "James Watt memeriksa mesin uap di bengkel kecilnya"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a smoky 19th century industrial city skyline filled with tall factory chimneys billowing dark smoke, grim atmosphere, Manchester England",
+        "seed": 608,
+        "alt": "Kota industri dipenuhi asap pabrik, Manchester abad ke-19"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "textile mill workers operating large mechanical looms inside a crowded Victorian factory, long rows of machines, dim indoor lighting",
+        "seed": 609,
+        "alt": "Pekerja pabrik tekstil mengoperasikan mesin tenun era Victoria"
+      }
+    },
+    "id": {
+      "title": "Kenapa Revolusi Terbesar dalam Sejarah Manusia Dimulai dari Mesin Uap?",
+      "hook": "Satu penyempurnaan kecil pada sebuah mesin tahun 1760-an mengubah cara manusia hidup lebih drastis daripada perang atau revolusi politik mana pun.",
+      "story": "Pertanyaannya sederhana: kenapa, dari seluruh sejarah manusia yang panjang, standar hidup rata-rata orang nyaris tidak berubah selama ribuan tahun, lalu tiba-tiba melesat drastis mulai sekitar tahun 1760-an di Inggris?\n\nJawabannya dimulai dari sesuatu yang kedengarannya tidak dramatis: penyempurnaan mesin uap oleh James Watt. Mesin uap sebelumnya sudah ada, tapi versi Watt jauh lebih efisien, dan efisiensi itu membuka pintu untuk hal-hal lain: pabrik tekstil yang bisa berjalan tanpa tenaga air atau angin, kereta api yang bisa mengangkut barang ratusan kilometer dalam hitungan jam, dan kapal uap yang tidak lagi bergantung pada arah mata angin.\n\nPerubahannya brutal dan cepat. Orang-orang yang dulunya bertani atau menenun di rumah pindah massal ke kota-kota industri yang kotor dan padat. Jam kerja di pabrik bisa mencapai 14 jam sehari, termasuk untuk anak-anak. Polusi asap menyelimuti kota-kota seperti Manchester sampai disebut 'Cottonopolis' yang langitnya nyaris tidak pernah biru.\n\nTapi di balik kekacauan itu, sesuatu yang belum pernah terjadi dalam sejarah manusia mulai muncul: pertumbuhan ekonomi yang terus-menerus, generasi demi generasi. Sebelum Revolusi Industri, kalau ekonomi tumbuh di satu masa, biasanya akan stagnan atau bahkan mundur lagi di masa berikutnya. Setelah Revolusi Industri, kurva pertumbuhan global nyaris tidak pernah berhenti naik.\n\nRevolusi ini menyebar dari Inggris ke Eropa daratan, lalu Amerika Serikat, dalam beberapa dekade berikutnya. Dunia yang kita kenal sekarang, dengan pabrik, listrik, transportasi massal, dan ekonomi yang terus tumbuh, semuanya berakar dari satu mesin uap yang disempurnakan di sebuah bengkel kecil di Skotlandia.",
+      "whyItMatters": "Hampir semua kenyamanan modern yang kita anggap biasa, dari listrik di rumah sampai barang yang bisa dipesan online dan sampai besok, berakar dari lompatan produktivitas yang dimulai Revolusi Industri. Memahami ini membantu kita melihat kenapa standar hidup bisa terus naik dari generasi ke generasi.",
+      "keyFacts": [
+        "Revolusi Industri dimulai di Inggris sekitar tahun 1760-an, dipicu penyempurnaan mesin uap oleh James Watt.",
+        "Mesin uap memungkinkan pabrik, kereta api, dan kapal uap bekerja tanpa bergantung pada tenaga air, angin, atau hewan.",
+        "Untuk pertama kalinya dalam sejarah manusia, pertumbuhan ekonomi menjadi berkelanjutan antar generasi, bukan naik-turun seperti sebelumnya."
+      ],
+      "quiz": [
+        {
+          "question": "Teknologi apa yang memicu dimulainya Revolusi Industri?",
+          "options": ["Penyempurnaan mesin uap oleh James Watt", "Penemuan listrik", "Mesin cetak Gutenberg", "Internet"],
+          "correctIndex": 0,
+          "explanation": "Mesin uap versi Watt jauh lebih efisien, membuka jalan bagi pabrik, kereta api, dan kapal uap."
+        },
+        {
+          "question": "Apa yang berubah secara mendasar soal pertumbuhan ekonomi setelah Revolusi Industri?",
+          "options": [
+            "Pertumbuhan menjadi berkelanjutan antar generasi, bukan naik-turun",
+            "Ekonomi berhenti tumbuh sama sekali",
+            "Hanya Inggris yang ekonominya tumbuh, negara lain tetap sama",
+            "Pertumbuhan ekonomi jadi lebih lambat dari sebelumnya"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sebelum Revolusi Industri, pertumbuhan ekonomi cenderung stagnan lagi di masa berikutnya; setelahnya, kurva pertumbuhan global terus naik."
+        },
+        {
+          "question": "Dari mana Revolusi Industri bermula, sebelum menyebar ke negara lain?",
+          "options": ["Inggris", "Amerika Serikat", "Jerman", "Prancis"],
+          "correctIndex": 0,
+          "explanation": "Revolusi ini dimulai di Inggris sekitar 1760-an, baru kemudian menyebar ke Eropa daratan dan Amerika Serikat."
+        }
+      ]
+    },
+    "en": {
+      "title": "Why the Biggest Revolution in Human History Started With a Steam Engine",
+      "hook": "One small improvement to a machine in the 1760s changed how humans live more drastically than any war or political revolution ever did.",
+      "story": "Here's a simple question: why did average living standards barely change for thousands of years of human history, then suddenly shoot upward starting around the 1760s in Britain?\n\nThe answer starts with something that sounds completely undramatic: James Watt's improvement to the steam engine. Steam engines already existed before Watt, but his version was far more efficient, and that efficiency opened the door to everything else: textile mills that no longer needed water or wind power, trains that could move goods hundreds of kilometers in hours, and steamships no longer at the mercy of wind direction.\n\nThe change was fast and brutal. People who used to farm or weave at home moved in massive numbers into dirty, crowded industrial cities. Factory workdays could stretch to 14 hours, including for children. Smoke pollution blanketed cities like Manchester so heavily it earned the nickname 'Cottonopolis,' with skies that were rarely ever blue.\n\nBut underneath all that chaos, something that had never happened before in human history started to emerge: continuous economic growth, generation after generation. Before the Industrial Revolution, if an economy grew for a while, it would usually stagnate or even shrink again later. After it, the global growth curve basically never stopped climbing.\n\nThe revolution spread from Britain to mainland Europe, then the United States, over the following decades. The world we know today, with factories, electricity, mass transportation, and an economy that keeps growing, all traces back to one improved steam engine in a small Scottish workshop.",
+      "whyItMatters": "Almost every modern comfort we take for granted, from electricity at home to ordering something online and getting it tomorrow, traces back to the productivity leap that started with the Industrial Revolution. Understanding this helps explain why living standards keep rising from generation to generation.",
+      "keyFacts": [
+        "The Industrial Revolution began in Britain around the 1760s, sparked by James Watt's improved steam engine.",
+        "The steam engine let factories, trains, and ships run without relying on water, wind, or animal power.",
+        "For the first time in human history, economic growth became sustained across generations instead of rising and falling."
+      ],
+      "quiz": [
+        {
+          "question": "What technology sparked the start of the Industrial Revolution?",
+          "options": ["James Watt's improved steam engine", "The discovery of electricity", "Gutenberg's printing press", "The internet"],
+          "correctIndex": 0,
+          "explanation": "Watt's version of the steam engine was far more efficient, enabling factories, trains, and steamships."
+        },
+        {
+          "question": "What fundamentally changed about economic growth after the Industrial Revolution?",
+          "options": [
+            "Growth became sustained across generations instead of rising and falling",
+            "The economy stopped growing entirely",
+            "Only Britain's economy grew; other countries stayed the same",
+            "Economic growth became slower than before"
+          ],
+          "correctIndex": 0,
+          "explanation": "Before the Industrial Revolution, growth tended to stagnate again later; afterward, the global growth curve kept climbing."
+        },
+        {
+          "question": "Where did the Industrial Revolution begin, before spreading elsewhere?",
+          "options": ["Britain", "The United States", "Germany", "France"],
+          "correctIndex": 0,
+          "explanation": "It began in Britain around the 1760s, later spreading to mainland Europe and the United States."
+        }
+      ]
+    }
+  }
+]

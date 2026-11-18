@@ -1,0 +1,266 @@
+[
+  {
+    "key": "habit-loop-kebiasaan",
+    "category": "psikologi-kebiasaan",
+    "emoji": "🔁",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Habit",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a person reaching for their phone immediately after waking up in bed, soft morning light, automatic habitual motion",
+        "seed": 655,
+        "alt": "Orang meraih HP otomatis begitu bangun tidur"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an abstract illustration of a circular loop diagram made of glowing shapes representing cue, routine, and reward, minimal flat design",
+        "seed": 656,
+        "alt": "Diagram loop kebiasaan: pemicu, rutinitas, hadiah"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a person reading a book instead of scrolling their phone, cozy reading nook, warm lamp light, calm alternative habit",
+        "seed": 657,
+        "alt": "Orang membaca buku sebagai pengganti kebiasaan scroll HP"
+      }
+    },
+    "id": {
+      "title": "Kenapa Kamu Terus Melakukan Hal yang Tidak Pernah Kamu Putuskan",
+      "hook": "Kamu mungkin sudah buka aplikasi media sosial lima kali hari ini tanpa benar-benar memutuskan untuk melakukannya.",
+      "story": "Kamu baru bangun tidur, dan sebelum benar-benar sadar sepenuhnya, tanganmu sudah meraih HP dan membuka aplikasi media sosial. Kamu tidak benar-benar 'memutuskan' untuk melakukan itu. Itu terjadi nyaris otomatis. Inilah yang disebut kebiasaan, dan ilmu saraf punya penjelasan cukup rapi soal bagaimana ia terbentuk di otak.\n\nPenjelasan paling populer soal mekanisme ini disebut 'loop kebiasaan' (habit loop), terdiri dari tiga bagian: pemicu (cue), rutinitas (routine), dan hadiah (reward). Pemicu bisa berupa apa saja, waktu tertentu, lokasi, perasaan, atau orang di sekitarmu. Rutinitas adalah perilaku yang kamu lakukan. Hadiah adalah sesuatu yang membuat otakmu merasa itu layak diulang.\n\nYang menarik, loop ini diproses sebagian besar di area otak bernama ganglia basal, bagian yang berperan dalam gerakan otomatis dan bukan di korteks prefrontal, area yang bertanggung jawab atas pengambilan keputusan sadar. Inilah kenapa kebiasaan terasa begitu sulit dihentikan hanya dengan 'niat' atau 'tekad' semata: kebiasaan sebagian besar beroperasi di luar jalur pengambilan keputusan sadar.\n\nKabar baiknya, memahami struktur loop ini memberi celah untuk mengubahnya. Daripada mencoba menghilangkan kebiasaan buruk secara langsung, strategi yang lebih efektif biasanya mengenali pemicunya, lalu mengganti rutinitasnya dengan yang lain, sambil tetap mempertahankan hadiah serupa. Misalnya, kalau kebiasaan buka media sosial dipicu rasa bosan dan hadiahnya rasa terhibur, mengganti rutinitasnya dengan membaca satu halaman buku bisa memberi hadiah serupa tanpa jebakan scroll tanpa henti.\n\nJadi kebiasaan bukan soal lemah atau kuatnya kemauanmu semata. Ia lebih mirip jalur di otak yang terbentuk lewat pengulangan, dan jalur itu bisa dibentuk ulang kalau kamu tahu cara kerjanya.",
+      "whyItMatters": "Memahami loop kebiasaan membantumu berhenti menyalahkan diri sendiri karena 'kurang disiplin', dan mulai fokus mengubah pemicu atau rutinitas secara spesifik, cara yang jauh lebih efektif untuk benar-benar mengubah kebiasaan jangka panjang.",
+      "keyFacts": [
+        "Loop kebiasaan terdiri dari tiga bagian: pemicu, rutinitas, dan hadiah.",
+        "Kebiasaan sebagian besar diproses di ganglia basal, bukan di area otak yang mengatur keputusan sadar.",
+        "Cara paling efektif mengubah kebiasaan adalah mengganti rutinitas sambil mempertahankan pemicu dan hadiah yang serupa."
+      ],
+      "quiz": [
+        {
+          "question": "Apa tiga bagian dari loop kebiasaan?",
+          "options": ["Pemicu, rutinitas, hadiah", "Niat, usaha, hasil", "Pikiran, perasaan, tindakan", "Sebab, akibat, solusi"],
+          "correctIndex": 0,
+          "explanation": "Loop kebiasaan terdiri dari pemicu (cue), rutinitas (routine), dan hadiah (reward)."
+        },
+        {
+          "question": "Di area otak mana kebiasaan sebagian besar diproses?",
+          "options": ["Ganglia basal", "Korteks prefrontal", "Lobus oksipital", "Otak kecil (serebelum)"],
+          "correctIndex": 0,
+          "explanation": "Ganglia basal berperan dalam perilaku otomatis, berbeda dari area pengambilan keputusan sadar."
+        },
+        {
+          "question": "Apa strategi paling efektif untuk mengubah kebiasaan buruk menurut cerita ini?",
+          "options": ["Mengganti rutinitas sambil mempertahankan pemicu dan hadiah yang serupa", "Menghilangkan semua pemicu sekaligus", "Hanya mengandalkan tekad dan niat kuat", "Menghindari topik kebiasaan sama sekali"],
+          "correctIndex": 0,
+          "explanation": "Mengenali pemicu lalu mengganti rutinitas, sambil menjaga hadiah serupa, lebih efektif daripada sekadar niat."
+        }
+      ]
+    },
+    "en": {
+      "title": "Why You Keep Doing Things You Never Decided To Do",
+      "hook": "You've probably opened a social media app five times today without ever actually deciding to.",
+      "story": "You just woke up, and before you're even fully conscious, your hand is already reaching for your phone to open a social media app. You didn't really 'decide' to do that. It happened almost automatically. This is what's called a habit, and neuroscience has a fairly tidy explanation for how it forms in the brain.\n\nThe most popular explanation for this mechanism is called the 'habit loop,' made up of three parts: a cue, a routine, and a reward. The cue can be almost anything, a certain time, a location, a feeling, or the people around you. The routine is the behavior itself. The reward is whatever makes your brain feel like repeating it was worthwhile.\n\nInterestingly, this loop is processed mostly in a brain region called the basal ganglia, the area involved in automatic movement, rather than the prefrontal cortex, which handles conscious decision-making. That's why habits feel so hard to break through 'willpower' alone: they operate largely outside the path of conscious decision-making.\n\nThe good news is that understanding this loop's structure gives you an opening to change it. Instead of trying to eliminate a bad habit outright, a more effective strategy is usually to identify the cue, then swap out the routine while keeping a similar reward. For example, if checking social media is triggered by boredom and rewarded by a feeling of entertainment, swapping the routine for reading a page of a book can deliver a similar reward without the endless-scroll trap.\n\nSo habits aren't just about having a weak or strong will. They're more like pathways in the brain built through repetition, and those pathways can be rebuilt once you understand how they work.",
+      "whyItMatters": "Understanding the habit loop helps you stop blaming yourself for 'lacking discipline,' and start focusing on changing the specific cue or routine instead, a far more effective way to actually change long-term habits.",
+      "keyFacts": [
+        "The habit loop consists of three parts: cue, routine, and reward.",
+        "Habits are mostly processed in the basal ganglia, not in the brain area that handles conscious decisions.",
+        "The most effective way to change a habit is swapping the routine while keeping a similar cue and reward."
+      ],
+      "quiz": [
+        {
+          "question": "What are the three parts of the habit loop?",
+          "options": ["Cue, routine, reward", "Intention, effort, result", "Thought, feeling, action", "Cause, effect, solution"],
+          "correctIndex": 0,
+          "explanation": "The habit loop consists of a cue, a routine, and a reward."
+        },
+        {
+          "question": "Which brain area mostly processes habits?",
+          "options": ["The basal ganglia", "The prefrontal cortex", "The occipital lobe", "The cerebellum"],
+          "correctIndex": 0,
+          "explanation": "The basal ganglia is involved in automatic behavior, unlike the area that handles conscious decisions."
+        },
+        {
+          "question": "What's the most effective strategy for changing a bad habit, according to this story?",
+          "options": ["Swapping the routine while keeping a similar cue and reward", "Removing all cues at once", "Relying only on willpower and intention", "Avoiding the topic of habits entirely"],
+          "correctIndex": 0,
+          "explanation": "Identifying the cue and swapping the routine, while keeping a similar reward, works better than intention alone."
+        }
+      ]
+    }
+  },
+  {
+    "key": "dopamin-notifikasi-hp",
+    "category": "psikologi-kebiasaan",
+    "emoji": "📱",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dopamine",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a glowing casino slot machine with blank spinning fruit and star symbols (no numbers, no letters on the reels), flashing lights, dramatic casino atmosphere",
+        "seed": 658,
+        "alt": "Mesin slot kasino dengan simbol berputar dan lampu berkelip"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a hand holding a smartphone with glowing notification icons and red badge numbers floating above the screen, abstract illustration",
+        "seed": 659,
+        "alt": "Tangan memegang HP dengan ikon notifikasi bercahaya"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a person looking at their phone with a neutral expression surrounded by faint glowing particles representing dopamine signals, abstract concept art",
+        "seed": 660,
+        "alt": "Ilustrasi sinyal dopamin saat seseorang melihat HP"
+      }
+    },
+    "id": {
+      "title": "HP-mu Dirancang Seperti Mesin Slot Kasino",
+      "hook": "HP-mu dirancang memakai prinsip psikologi yang sama dengan mesin slot di kasino.",
+      "story": "Mesin slot di kasino dirancang supaya pemainnya terus menarik tuas, meski sebagian besar putaran berakhir dengan kekalahan. Rahasianya ada pada pola hadiah yang disebut 'jadwal rasio variabel' (variable ratio schedule): kamu tidak pernah tahu pasti kapan hadiah akan muncul, cuma tahu kalau terus mencoba, suatu saat pasti akan menang. Pola hadiah yang tidak bisa diprediksi seperti ini, secara psikologis, jauh lebih membuat ketagihan dibanding hadiah yang datang secara teratur dan bisa ditebak.\n\nHP di sakumu memakai prinsip yang nyaris identik. Setiap kali kamu menggeser layar ke bawah untuk refresh linimasa, kamu tidak pernah tahu persis konten apa yang akan muncul, mungkin sesuatu yang membosankan, mungkin sesuatu yang sangat menarik. Ketidakpastian inilah yang memicu pelepasan dopamin, bukan semata-mata saat kamu menerima sesuatu yang menyenangkan, tapi justru paling kuat saat kamu mengantisipasi kemungkinan hadiah itu muncul.\n\nDopamin sendiri sering disalahpahami sebagai 'hormon kesenangan'. Penelitian neurosains lebih modern menunjukkan dopamin lebih berperan sebagai sinyal 'motivasi untuk mencari', bukan rasa senang itu sendiri. Itu sebabnya kamu bisa menghabiskan satu jam menggulir aplikasi tanpa benar-benar merasa senang sepanjang waktu, otakmu terus terdorong mencari kemungkinan hadiah berikutnya, bukan menikmati hadiah yang sudah didapat.\n\nPerusahaan teknologi tahu betul prinsip ini, dan banyak fitur seperti notifikasi, badge merah dengan angka, atau scroll tanpa batas (infinite scroll) sengaja dirancang memanfaatkan mekanisme yang sama persis dengan mesin slot.\n\nMengetahui ini bukan berarti kamu harus berhenti total memakai HP. Tapi mengenali kenapa aplikasi tertentu terasa begitu sulit ditinggalkan bisa jadi langkah pertama untuk mengatur ulang caramu memakainya, misalnya mematikan notifikasi yang tidak penting atau membatasi waktu layar secara sadar.",
+      "whyItMatters": "Mengetahui mekanisme ini membantumu melihat kecanduan HP bukan sebagai kegagalan pribadi semata, tapi sebagai hasil desain yang memang sengaja dibuat memanfaatkan cara kerja otak manusia. Kesadaran ini langkah pertama untuk mengambil kendali lebih sadar atas kebiasaan digitalmu.",
+      "keyFacts": [
+        "Jadwal hadiah yang tidak bisa diprediksi (seperti mesin slot) jauh lebih membuat ketagihan dibanding hadiah yang teratur dan bisa ditebak.",
+        "Dopamin lebih berperan sebagai sinyal motivasi untuk mencari, bukan sekadar rasa senang itu sendiri.",
+        "Fitur seperti notifikasi, badge merah, dan infinite scroll sengaja dirancang memanfaatkan mekanisme serupa mesin slot."
+      ],
+      "quiz": [
+        {
+          "question": "Apa nama pola hadiah yang dipakai mesin slot dan banyak aplikasi HP?",
+          "options": ["Jadwal rasio variabel", "Jadwal hadiah tetap", "Pola hadiah harian", "Sistem poin loyalitas"],
+          "correctIndex": 0,
+          "explanation": "Jadwal rasio variabel membuat hadiah tidak bisa diprediksi, yang secara psikologis lebih membuat ketagihan."
+        },
+        {
+          "question": "Apa peran dopamin menurut penelitian neurosains modern?",
+          "options": ["Sinyal motivasi untuk mencari, bukan sekadar rasa senang", "Hormon yang membuat ngantuk", "Zat yang mengontrol detak jantung", "Hormon stres utama tubuh"],
+          "correctIndex": 0,
+          "explanation": "Dopamin lebih berkaitan dengan dorongan mencari kemungkinan hadiah, bukan rasa senang itu sendiri."
+        },
+        {
+          "question": "Fitur HP apa yang disebut sengaja memanfaatkan mekanisme serupa mesin slot?",
+          "options": ["Notifikasi, badge merah, dan infinite scroll", "Mode pesawat", "Pengaturan kecerahan layar", "Mode hemat baterai"],
+          "correctIndex": 0,
+          "explanation": "Fitur-fitur ini dirancang memanfaatkan ketidakpastian hadiah untuk membuat pengguna terus kembali."
+        }
+      ]
+    },
+    "en": {
+      "title": "Your Phone Runs on the Same Trick as a Slot Machine",
+      "hook": "Your phone is designed using the same psychology principle as a casino slot machine.",
+      "story": "Slot machines are designed to keep players pulling the lever, even though most spins end in a loss. The secret lies in a reward pattern called a 'variable ratio schedule': you never know exactly when a reward will show up, you just know that if you keep trying, you'll eventually win. This kind of unpredictable reward pattern is, psychologically, far more addictive than rewards that come regularly and predictably.\n\nThe phone in your pocket runs on a nearly identical principle. Every time you swipe down to refresh your feed, you never know exactly what content will show up, maybe something boring, maybe something fascinating. That uncertainty is what triggers dopamine release, not just when you get something enjoyable, but most strongly while you're anticipating the possibility of a reward.\n\nDopamine itself is often misunderstood as the 'pleasure hormone.' More modern neuroscience research shows dopamine actually functions more as a 'motivation to seek' signal, rather than pleasure itself. That's why you can spend an hour scrolling through an app without really feeling happy the whole time, your brain keeps pushing you to search for the next possible reward, instead of actually enjoying the one you just got.\n\nTech companies know this principle well, and many features like notifications, red badge numbers, or infinite scroll are deliberately designed to exploit the exact same mechanism as a slot machine.\n\nKnowing this doesn't mean you have to quit your phone entirely. But recognizing why certain apps feel so hard to put down can be a first step toward resetting how you use them, like turning off unimportant notifications or consciously limiting screen time.",
+      "whyItMatters": "Knowing this mechanism helps you see phone addiction not purely as a personal failure, but as the result of a design deliberately built to exploit how the human brain works. That awareness is the first step toward taking more conscious control over your digital habits.",
+      "keyFacts": [
+        "Unpredictable reward schedules, like slot machines, are far more addictive than regular, predictable rewards.",
+        "Dopamine functions more as a motivation-to-seek signal than pleasure itself.",
+        "Features like notifications, red badges, and infinite scroll are deliberately designed to exploit a slot-machine-like mechanism."
+      ],
+      "quiz": [
+        {
+          "question": "What's the name of the reward pattern used by slot machines and many phone apps?",
+          "options": ["Variable ratio schedule", "Fixed reward schedule", "Daily reward pattern", "Loyalty point system"],
+          "correctIndex": 0,
+          "explanation": "A variable ratio schedule makes rewards unpredictable, which is psychologically more addictive."
+        },
+        {
+          "question": "What role does dopamine play, according to modern neuroscience research?",
+          "options": ["A motivation-to-seek signal, not just pleasure", "A hormone that causes sleepiness", "A substance that controls heartbeat", "The body's main stress hormone"],
+          "correctIndex": 0,
+          "explanation": "Dopamine is more linked to the drive to seek possible rewards than to pleasure itself."
+        },
+        {
+          "question": "What phone features are said to deliberately exploit a slot-machine-like mechanism?",
+          "options": ["Notifications, red badges, and infinite scroll", "Airplane mode", "Screen brightness settings", "Battery saver mode"],
+          "correctIndex": 0,
+          "explanation": "These features are designed to exploit reward uncertainty to keep users coming back."
+        }
+      ]
+    }
+  },
+  {
+    "key": "bias-konfirmasi",
+    "category": "psikologi-kebiasaan",
+    "emoji": "🔍",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Confirmation_bias",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a person reading a newspaper with two contrasting headlines, one glowing brightly and one faded in the background, symbolic illustration",
+        "seed": 661,
+        "alt": "Orang membaca dua headline berita yang kontras"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an abstract illustration of a brain selectively filtering glowing information particles while ignoring faded ones, concept art",
+        "seed": 662,
+        "alt": "Ilustrasi otak menyaring informasi yang sesuai keyakinan"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a person surrounded by a circular bubble of glowing phone screens all showing similar content, echo chamber concept illustration",
+        "seed": 663,
+        "alt": "Ilustrasi ruang gema media sosial di sekitar seseorang"
+      }
+    },
+    "id": {
+      "title": "Kenapa Kamu Lebih Percaya Berita yang Sejalan dengan Pendapatmu",
+      "hook": "Kamu lebih gampang percaya berita yang sejalan dengan pendapatmu, dan itu bukan karena kamu bodoh, tapi karena otak semua orang memang bekerja seperti itu.",
+      "story": "Kamu sedang yakin satu merek HP tertentu yang terbaik. Lalu kamu membaca dua ulasan: satu memuji merek itu, satu lagi mengkritiknya. Tanpa sadar, kamu cenderung menganggap ulasan yang memuji lebih 'objektif dan masuk akal', sementara ulasan yang mengkritik dianggap 'bias' atau 'kurang paham'. Ini contoh klasik dari bias konfirmasi, kecenderungan otak manusia mencari, mengingat, dan menafsirkan informasi dengan cara yang mendukung keyakinan yang sudah ada, sambil mengabaikan atau meragukan informasi yang bertentangan.\n\nBias ini bukan tanda kebodohan. Psikolog menemukan bias konfirmasi muncul pada hampir semua orang, termasuk ilmuwan dan pakar yang terlatih berpikir kritis sekalipun. Salah satu eksperimen klasik yang mendukung temuan ini menunjukkan orang cenderung menghabiskan lebih banyak waktu membaca argumen yang sejalan dengan pendapat mereka, dan lebih cepat mencari celah kesalahan di argumen yang bertentangan.\n\nDi era media sosial, bias ini makin diperkuat oleh algoritma yang memang dirancang menunjukkan konten yang kemungkinan besar kamu sukai atau setujui, berdasarkan riwayat interaksimu sebelumnya. Hasilnya, kamu makin jarang terpapar sudut pandang berbeda, dan makin yakin pendapatmu adalah satu-satunya yang 'masuk akal', sebuah lingkaran yang kadang disebut 'ruang gema' atau echo chamber.\n\nCara paling efektif melawan bias ini bukan dengan memaksa diri percaya segalanya secara netral, tapi dengan secara sadar mencari sudut pandang yang berbeda sebelum menyimpulkan sesuatu, dan bertanya pada diri sendiri: 'Kalau informasi ini mendukung pendapat yang berlawanan dengan yang saya percaya, apakah saya akan memperlakukannya dengan standar bukti yang sama?'",
+      "whyItMatters": "Menyadari bias konfirmasi membantumu lebih hati-hati sebelum membagikan berita atau opini yang 'terasa benar' hanya karena sejalan dengan pendapatmu. Kebiasaan kecil ini bisa membantu mengurangi penyebaran informasi keliru di lingkaran sosialmu sendiri.",
+      "keyFacts": [
+        "Bias konfirmasi adalah kecenderungan mencari dan mempercayai informasi yang sejalan dengan keyakinan yang sudah ada, sambil meragukan informasi yang bertentangan.",
+        "Bias ini muncul pada hampir semua orang, termasuk ilmuwan dan pakar yang terlatih berpikir kritis.",
+        "Algoritma media sosial bisa memperkuat bias ini dengan terus menunjukkan konten yang sejalan dengan pendapat pengguna."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang dimaksud dengan bias konfirmasi?",
+          "options": ["Kecenderungan mencari dan mempercayai informasi yang sejalan dengan keyakinan yang sudah ada", "Kemampuan mengingat semua informasi dengan sempurna", "Ketidakmampuan memahami argumen logis", "Kecenderungan selalu berubah pikiran"],
+          "correctIndex": 0,
+          "explanation": "Bias konfirmasi membuat orang lebih mudah menerima informasi yang mendukung pendapatnya, dan meragukan yang bertentangan."
+        },
+        {
+          "question": "Siapa saja yang bisa terkena bias konfirmasi?",
+          "options": ["Hampir semua orang, termasuk ilmuwan dan pakar", "Hanya orang yang tidak berpendidikan", "Hanya anak-anak", "Hanya orang yang aktif di media sosial"],
+          "correctIndex": 0,
+          "explanation": "Penelitian menunjukkan bias ini muncul pada hampir semua orang, tanpa memandang latar belakang pendidikan."
+        },
+        {
+          "question": "Apa cara efektif melawan bias konfirmasi menurut cerita ini?",
+          "options": ["Secara sadar mencari sudut pandang berbeda sebelum menyimpulkan sesuatu", "Berhenti membaca berita sama sekali", "Hanya percaya pada satu sumber berita", "Mengikuti pendapat mayoritas tanpa berpikir"],
+          "correctIndex": 0,
+          "explanation": "Secara sengaja mencari perspektif berbeda dan menerapkan standar bukti yang sama membantu melawan bias ini."
+        }
+      ]
+    },
+    "en": {
+      "title": "Why You Trust News That Already Agrees With You",
+      "hook": "You're more likely to believe news that matches your existing opinion, and that's not because you're foolish, it's just how everyone's brain works.",
+      "story": "You're already convinced a certain phone brand is the best. Then you read two reviews: one praising it, one criticizing it. Without realizing it, you tend to see the praising review as more 'objective and reasonable,' while the critical one gets labeled 'biased' or 'uninformed.' This is a classic example of confirmation bias, the brain's tendency to search for, remember, and interpret information in ways that support existing beliefs, while ignoring or doubting anything that contradicts them.\n\nThis bias isn't a sign of being unintelligent. Psychologists have found confirmation bias shows up in nearly everyone, including scientists and experts trained in critical thinking. One classic experiment supporting this found people tend to spend more time reading arguments that align with their views, and are quicker to spot flaws in arguments that don't.\n\nIn the social media era, this bias gets reinforced further by algorithms specifically designed to show you content you're likely to agree with, based on your past interactions. The result: you're exposed to differing viewpoints less often, and become even more convinced your opinion is the only 'reasonable' one, a cycle sometimes called an echo chamber.\n\nThe most effective way to fight this bias isn't forcing yourself to believe everything neutrally, but deliberately seeking out different viewpoints before drawing conclusions, and asking yourself: 'If this information supported the opposite opinion, would I hold it to the same standard of evidence?'",
+      "whyItMatters": "Recognizing confirmation bias helps you pause before sharing news or opinions that 'feel true' just because they align with what you already believe. That small habit can help reduce the spread of misinformation within your own social circle.",
+      "keyFacts": [
+        "Confirmation bias is the tendency to seek and trust information that aligns with existing beliefs, while doubting information that contradicts them.",
+        "This bias shows up in nearly everyone, including scientists and experts trained in critical thinking.",
+        "Social media algorithms can reinforce this bias by repeatedly showing content that matches a user's existing views."
+      ],
+      "quiz": [
+        {
+          "question": "What is confirmation bias?",
+          "options": ["The tendency to seek and trust information matching existing beliefs", "The ability to remember all information perfectly", "An inability to understand logical arguments", "A tendency to always change one's mind"],
+          "correctIndex": 0,
+          "explanation": "Confirmation bias makes people more likely to accept information supporting their views and doubt what contradicts it."
+        },
+        {
+          "question": "Who can be affected by confirmation bias?",
+          "options": ["Almost everyone, including scientists and experts", "Only uneducated people", "Only children", "Only people active on social media"],
+          "correctIndex": 0,
+          "explanation": "Research shows this bias appears in nearly everyone, regardless of educational background."
+        },
+        {
+          "question": "What's an effective way to fight confirmation bias, according to this story?",
+          "options": ["Deliberately seeking different viewpoints before concluding something", "Stopping reading news entirely", "Trusting only one news source", "Following majority opinion without thinking"],
+          "correctIndex": 0,
+          "explanation": "Deliberately seeking different perspectives and applying the same evidence standard helps counter this bias."
+        }
+      ]
+    }
+  }
+]

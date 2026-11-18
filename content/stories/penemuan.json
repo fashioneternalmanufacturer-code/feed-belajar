@@ -1,0 +1,384 @@
+[
+  {
+    "key": "penisilin-kecelakaan",
+    "category": "penemuan",
+    "emoji": "🧫",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a cluttered 1920s laboratory bench, stacks of glass petri dishes, one dish with blue-green mould glowing under a desk lamp, dusty sunlight through a tall window, London",
+        "seed": 301,
+        "alt": "Meja laboratorium Fleming yang berantakan dengan piring kultur bakteri"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an old-fashioned scientist in a white lab coat leaning closely to examine a glass petri dish under lamp light, surprised expression, vintage 1920s laboratory interior",
+        "seed": 302,
+        "alt": "Ilmuwan memeriksa piring kultur dengan ekspresi terkejut"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a World War Two field hospital tent at dusk, a nurse administering medicine from small glass vials to a wounded soldier on a cot, dim lantern light, hopeful atmosphere",
+        "seed": 303,
+        "alt": "Tenda rumah sakit darurat Perang Dunia II tempat penisilin menyelamatkan nyawa"
+      }
+    },
+    "id": {
+      "title": "Penemuan Terbesar yang Lahir dari Kemalasan Beres-beres",
+      "hook": "Obat yang sudah menyelamatkan ratusan juta nyawa ini ditemukan bukan karena eksperimen jenius—tapi karena seseorang lupa cuci piring laboratorium sebelum liburan.",
+      "story": "London, 3 September 1928. Alexander Fleming baru pulang liburan bersama keluarganya dari Suffolk. Ia masuk ke laboratoriumnya di St Mary's Hospital dan, seperti biasa, mendapati mejanya berantakan. Fleming memang dikenal rekan-rekannya sebagai ilmuwan yang jenius tapi jorok; ia sering membiarkan piring-piring kultur bakteri menumpuk berminggu-minggu sebelum dibersihkan.\n\nDi antara tumpukan piring kultur Staphylococcus (bakteri penyebab infeksi) yang ia tinggalkan sebelum liburan, satu piring tampak aneh. Ada jamur hijau-putih tumbuh di salah satu sudutnya, kemungkinan besar terbang masuk dari jendela yang terbuka, atau menyusup dari ruangan koleganya satu lantai di bawah. Yang membuat Fleming terpaku adalah ini: di sekeliling jamur itu, semua koloni bakteri mati total. Makin jauh dari jamur, bakterinya makin hidup normal.\n\nKonon, ia hanya berkomentar singkat ke asistennya: 'That's funny' (lucu juga ini) — meski catatan pasti soal kalimat ini masih diperdebatkan sejarawan sains. Konon pula, tujuh tahun sebelumnya Fleming sudah pernah mengalami momen serupa saat menemukan lisozim, enzim antibakteri yang ia temukan lewat cara yang sama tidak sengajanya: ceritanya, saat itu ia sedang pilek, lendir hidungnya menetes ke salah satu piring kulturnya, lalu ia sadar bakteri di sekitar tetesan itu ikut mati. Jadi kali ini, ia langsung tahu sedang melihat sesuatu yang besar.\n\nIa mengidentifikasi jamur itu dari genus Penicillium. Setelah membiakkannya dan mengujinya ke berbagai bakteri, Fleming menamainya 'penisilin' pada 7 Maret 1929. Zat ini ampuh membunuh bakteri penyebab radang tenggorokan, pneumonia, dan difteri.\n\nMasalahnya: Fleming kesulitan memproduksi penisilin dalam jumlah besar, dan saat ia mempresentasikan temuannya ke komunitas ilmiah, nyaris tidak ada yang tertarik. Penemuan ini sempat 'tidur' lebih dari satu dekade, sampai dua ilmuwan lain, Howard Florey dan Ernst Chain, berhasil memurnikan dan memproduksinya dalam skala besar menjelang Perang Dunia II—tepat saat dunia paling membutuhkan obat untuk mencegah infeksi luka tentara.\n\nTahun 1945, Fleming berbagi Hadiah Nobel Kedokteran dengan Florey dan Chain. Penisilin kemudian dijuluki 'kemenangan terbesar yang pernah dicapai manusia melawan penyakit'—dan semuanya berawal dari sepiring kultur bakteri yang lupa dicuci.",
+      "whyItMatters": "Penisilin adalah antibiotik pertama di dunia dan membuka era baru pengobatan modern—mengubah infeksi yang dulu mematikan jadi penyakit yang bisa disembuhkan dengan sebutir pil. Kisah ini juga mengajarkan bahwa 'kecelakaan' dalam sains sering kali butuh mata yang terlatih untuk dikenali sebagai penemuan.",
+      "keyFacts": [
+        "Ditemukan tidak sengaja oleh Alexander Fleming pada 3 September 1928, dari piring kultur bakteri yang terkontaminasi jamur Penicillium.",
+        "Fleming menamainya 'penisilin' pada 7 Maret 1929, tapi butuh lebih dari satu dekade sebelum bisa diproduksi massal oleh Florey dan Chain.",
+        "Fleming, Florey, dan Chain berbagi Hadiah Nobel Kedokteran tahun 1945 atas penemuan ini."
+      ],
+      "quiz": [
+        {
+          "question": "Bagaimana Alexander Fleming menemukan penisilin?",
+          "options": [
+            "Tidak sengaja, dari piring kultur bakteri yang terkontaminasi jamur",
+            "Lewat eksperimen bertahun-tahun yang terencana rapi",
+            "Dari resep pengobatan tradisional Mesir kuno",
+            "Dengan meniru penemuan ilmuwan lain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fleming menemukannya secara tidak sengaja ketika mendapati jamur Penicillium mengontaminasi dan membunuh bakteri di piring kulturnya."
+        },
+        {
+          "question": "Siapa yang berhasil memproduksi penisilin dalam skala besar, lebih dari satu dekade setelah Fleming menemukannya?",
+          "options": ["Howard Florey dan Ernst Chain", "Marie Curie dan Pierre Curie", "Louis Pasteur", "Isaac Newton"],
+          "correctIndex": 0,
+          "explanation": "Florey dan Chain memurnikan dan memproduksi penisilin secara massal menjelang Perang Dunia II."
+        },
+        {
+          "question": "Apa penemuan Fleming sebelumnya yang kejadiannya mirip dengan penemuan penisilin?",
+          "options": ["Lisozim, enzim antibakteri dari lendir hidungnya sendiri", "Vaksin cacar", "Sinar-X", "DNA"],
+          "correctIndex": 0,
+          "explanation": "Tujuh tahun sebelumnya, Fleming menemukan lisozim secara tidak sengaja dari lendir hidungnya sendiri yang mengontaminasi piring kultur."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Greatest Discovery Born From Not Doing the Dishes",
+      "hook": "The drug that's saved hundreds of millions of lives wasn't found through genius experimentation—it was found because someone forgot to clean up the lab before going on vacation.",
+      "story": "London, September 3, 1928. Alexander Fleming had just returned from a family holiday in Suffolk. He walked into his lab at St Mary's Hospital and, as usual, found his bench a mess. Fleming was known among colleagues as a brilliant but notoriously untidy scientist, often letting bacteria culture dishes pile up for weeks before washing them.\n\nAmong the stacks of Staphylococcus (infection-causing bacteria) culture dishes he'd left behind before his trip, one looked odd. A blue-green mould was growing in one corner, likely drifted in through an open window, or crept up from a colleague's room one floor below. What stopped Fleming in his tracks was this: all around the mould, every bacterial colony was completely dead. Further from the mould, the bacteria were thriving as normal.\n\nAccording to popular legend, his only comment to his assistant was: 'That's funny' — though historians of science still debate how accurate that exact retelling is. As the story also goes, seven years earlier Fleming had a similar moment when he discovered lysozyme, an antibacterial enzyme found in an equally unplanned way: he had a cold at the time, and supposedly some of his nasal mucus dripped onto one of his culture dishes, and he noticed the bacteria around that spot had died off. So this time, he instantly recognized he might be onto something big.\n\nHe identified the mould as belonging to the genus Penicillium. After growing it in a pure culture and testing it against various bacteria, Fleming named the substance 'penicillin' on March 7, 1929. It turned out to be deadly against the bacteria behind strep throat, pneumonia, and diphtheria.\n\nThe problem: Fleming struggled to produce penicillin in large quantities, and when he presented his findings to the scientific community, almost nobody cared. The discovery sat dormant for over a decade, until two other scientists, Howard Florey and Ernst Chain, managed to purify and mass-produce it right before World War II—exactly when the world desperately needed something to stop soldiers' wounds from turning fatal.\n\nIn 1945, Fleming shared the Nobel Prize in Medicine with Florey and Chain. Penicillin would go on to be called 'the single greatest victory ever achieved over disease'—and it all started with one unwashed dish of bacteria.",
+      "whyItMatters": "Penicillin was the world's first antibiotic and opened a new era of modern medicine, turning once-deadly infections into something curable with a single pill. The story also teaches that scientific 'accidents' often need a trained eye to be recognized as discoveries at all.",
+      "keyFacts": [
+        "Discovered by accident by Alexander Fleming on September 3, 1928, from a bacteria culture dish contaminated by Penicillium mould.",
+        "Fleming named it 'penicillin' on March 7, 1929, but it took over a decade before Florey and Chain could mass-produce it.",
+        "Fleming, Florey, and Chain shared the 1945 Nobel Prize in Medicine for the discovery."
+      ],
+      "quiz": [
+        {
+          "question": "How did Alexander Fleming discover penicillin?",
+          "options": [
+            "By accident, from a bacteria dish contaminated by mould",
+            "Through years of carefully planned experiments",
+            "From an ancient Egyptian medical recipe",
+            "By copying another scientist's discovery"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fleming discovered it by accident when he noticed Penicillium mould had contaminated and killed bacteria in his culture dish."
+        },
+        {
+          "question": "Who managed to mass-produce penicillin, more than a decade after Fleming's discovery?",
+          "options": ["Howard Florey and Ernst Chain", "Marie and Pierre Curie", "Louis Pasteur", "Isaac Newton"],
+          "correctIndex": 0,
+          "explanation": "Florey and Chain purified and mass-produced penicillin right before World War II."
+        },
+        {
+          "question": "What earlier discovery of Fleming's happened in a similarly accidental way?",
+          "options": ["Lysozyme, an antibacterial enzyme from his own nasal mucus", "The smallpox vaccine", "X-rays", "DNA"],
+          "correctIndex": 0,
+          "explanation": "Seven years earlier, Fleming accidentally discovered lysozyme from his own nasal mucus contaminating a culture dish."
+        }
+      ]
+    }
+  },
+  {
+    "key": "gutenberg-bukan-yang-pertama",
+    "category": "penemuan",
+    "emoji": "📜",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a 15th century printing workshop with a large wooden printing press, metal type letters scattered on a table, dim candlelight, Mainz Germany",
+        "seed": 628,
+        "alt": "Bengkel percetakan Gutenberg dengan mesin pres kayu"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an ancient Chinese artisan arranging small clay movable type letters on a wooden frame, historical East Asian workshop setting",
+        "seed": 629,
+        "alt": "Perajin Tiongkok menyusun huruf cetak lepas dari tanah liat"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "rows of freshly printed Gutenberg Bible pages hanging to dry, warm workshop lighting, intricate old-style typography visible",
+        "seed": 630,
+        "alt": "Halaman-halaman Alkitab Gutenberg yang baru dicetak"
+      }
+    },
+    "id": {
+      "title": "Percetakan yang Bukan Ide Pertamanya",
+      "hook": "Buku pelajaran sering bilang Gutenberg menemukan percetakan. Padahal, huruf cetak lepas sudah ada di Asia Timur ratusan tahun sebelumnya.",
+      "story": "Johannes Gutenberg sering disebut 'penemu mesin cetak' dalam buku sejarah, dan ia memang pantas mendapat pengakuan besar. Tapi klaim itu perlu sedikit diluruskan: teknologi cetak dengan huruf lepas (movable type) sebenarnya sudah ada di Asia Timur jauh sebelum Gutenberg lahir. Di Tiongkok, Bi Sheng sudah bereksperimen dengan huruf lepas dari tanah liat sekitar abad ke-11, dan Korea sudah mencetak buku dengan huruf logam lepas pada abad ke-13 atau ke-14.\n\nJadi apa yang sebenarnya membuat kontribusi Gutenberg di Mainz, Jerman, begitu revolusioner sekitar pertengahan 1400-an? Bukan ide dasarnya, tapi sistemnya secara keseluruhan. Gutenberg merancang paduan logam khusus untuk huruf cetak yang cukup kuat untuk dipakai berulang kali tapi cukup lunak untuk dicetak dengan mudah. Ia juga mengembangkan tinta berbahan dasar minyak yang menempel sempurna di logam, dan yang paling penting, ia mengadaptasi mesin pres anggur pertanian jadi mesin cetak yang bisa menekan ribuan halaman dengan hasil konsisten.\n\nKarya terbesarnya, Alkitab Gutenberg, dicetak sekitar pertengahan tahun 1450-an, dan kualitasnya begitu rapi sampai hari ini masih dipuji sebagai karya seni percetakan.\n\nDampaknya mengubah dunia dengan kecepatan yang belum pernah terjadi sebelumnya. Sebelum mesin cetak, menyalin satu buku bisa memakan waktu berbulan-bulan dengan tangan seorang penyalin biara. Setelah mesin cetak menyebar ke seluruh Eropa dalam beberapa dekade, buku bisa diproduksi ribuan kopi, harganya anjlok, dan ide-ide baru, termasuk yang memicu gerakan Reformasi Protestan, bisa menyebar jauh lebih cepat daripada yang bisa dikendalikan otoritas gereja atau kerajaan manapun.\n\nJadi Gutenberg bukan orang pertama yang memikirkan huruf lepas. Tapi ia orang yang berhasil menggabungkan semua potongan teknologi yang sudah ada jadi satu sistem yang benar-benar bisa dipakai massal, dan itu sendiri sudah jadi lompatan besar.",
+      "whyItMatters": "Inovasi besar sering kali bukan soal siapa yang pertama kali punya ide, tapi siapa yang berhasil menggabungkan ide-ide yang sudah ada jadi sistem yang benar-benar bisa dipakai banyak orang. Berguna diingat kalau kamu merasa idemu 'tidak orisinal' karena sudah ada orang lain yang memikirkannya duluan.",
+      "keyFacts": [
+        "Teknologi huruf cetak lepas sebenarnya sudah ada di Tiongkok (abad ke-11) dan Korea (abad ke-13/14) sebelum Gutenberg.",
+        "Kontribusi utama Gutenberg adalah menggabungkan paduan logam, tinta berbahan minyak, dan mesin pres jadi satu sistem cetak massal, sekitar pertengahan 1400-an.",
+        "Alkitab Gutenberg, dicetak sekitar pertengahan 1450-an, jadi bukti kualitas percetakannya yang luar biasa rapi."
+      ],
+      "quiz": [
+        {
+          "question": "Di mana teknologi huruf cetak lepas sudah ada sebelum Gutenberg?",
+          "options": ["Tiongkok dan Korea", "Mesir kuno", "Kekaisaran Romawi", "Yunani kuno"],
+          "correctIndex": 0,
+          "explanation": "Bi Sheng di Tiongkok (abad ke-11) dan Korea (abad ke-13/14) sudah memakai huruf lepas lebih dulu."
+        },
+        {
+          "question": "Apa kontribusi utama Gutenberg yang membuatnya begitu berpengaruh?",
+          "options": [
+            "Menggabungkan paduan logam, tinta minyak, dan mesin pres jadi satu sistem cetak massal",
+            "Menciptakan huruf lepas untuk pertama kalinya di dunia",
+            "Menulis buku pertama di dunia",
+            "Menemukan kertas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ia bukan penemu huruf lepas, tapi berhasil menggabungkan berbagai teknologi jadi sistem cetak massal yang praktis."
+        },
+        {
+          "question": "Apa dampak besar menyebarnya mesin cetak di Eropa?",
+          "options": [
+            "Buku jadi lebih murah dan ide-ide baru menyebar lebih cepat dari sebelumnya",
+            "Buku jadi lebih mahal karena permintaan naik",
+            "Gereja jadi satu-satunya pihak yang boleh mencetak buku",
+            "Tidak ada dampak besar sampai abad ke-20"
+          ],
+          "correctIndex": 0,
+          "explanation": "Produksi buku massal membuat harga anjlok dan ide, termasuk yang memicu Reformasi, menyebar lebih cepat."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Printing Press Wasn't Actually His First Idea",
+      "hook": "Textbooks often say Gutenberg invented printing. But movable type had already existed in East Asia hundreds of years earlier.",
+      "story": "Johannes Gutenberg is often called the 'inventor of the printing press' in history books, and he does deserve major credit. But that claim needs a small correction: movable type printing technology actually existed in East Asia well before Gutenberg was even born. In China, Bi Sheng had already experimented with clay movable type around the 11th century, and Korea was printing books with movable metal type by the 13th or 14th century.\n\nSo what actually made Gutenberg's contribution in Mainz, Germany, so revolutionary around the mid-1400s? Not the basic idea, but the whole system. Gutenberg designed a special metal alloy for type that was durable enough for repeated use but soft enough to cast easily. He also developed an oil-based ink that stuck perfectly to metal, and most importantly, he adapted an agricultural wine press into a printing press that could stamp out thousands of pages with consistent results.\n\nHis greatest work, the Gutenberg Bible, was printed around the mid-1450s, and its quality was so refined that it's still praised today as a work of printing art.\n\nThe impact changed the world at a speed never seen before. Before the printing press, copying a single book by hand could take a monastery scribe months. Once the press spread across Europe within a few decades, books could be produced by the thousands, prices crashed, and new ideas, including the ones that sparked the Protestant Reformation, could spread faster than any church or royal authority could control.\n\nSo Gutenberg wasn't the first person to think of movable type. But he was the one who managed to combine every existing piece of the technology into one system that could actually be used at scale, and that alone was a massive leap forward.",
+      "whyItMatters": "Big innovations are often less about who had the idea first, and more about who manages to combine existing ideas into a system that actually works at scale. Worth remembering if you ever feel your idea 'isn't original' just because someone else thought of it first.",
+      "keyFacts": [
+        "Movable type printing technology already existed in China (11th century) and Korea (13th/14th century) before Gutenberg.",
+        "Gutenberg's main contribution was combining metal alloy type, oil-based ink, and a press into one mass-printing system, around the mid-1400s.",
+        "The Gutenberg Bible, printed around the mid-1450s, stands as proof of his remarkably refined printing quality."
+      ],
+      "quiz": [
+        {
+          "question": "Where did movable type printing technology already exist before Gutenberg?",
+          "options": ["China and Korea", "Ancient Egypt", "The Roman Empire", "Ancient Greece"],
+          "correctIndex": 0,
+          "explanation": "Bi Sheng in China (11th century) and Korea (13th/14th century) already used movable type earlier."
+        },
+        {
+          "question": "What was Gutenberg's main contribution that made him so influential?",
+          "options": [
+            "Combining metal alloy type, oil-based ink, and a press into one mass-printing system",
+            "Inventing movable type for the first time in the world",
+            "Writing the first book in the world",
+            "Inventing paper"
+          ],
+          "correctIndex": 0,
+          "explanation": "He wasn't the inventor of movable type, but combined various technologies into a practical mass-printing system."
+        },
+        {
+          "question": "What major impact did the spread of the printing press have in Europe?",
+          "options": [
+            "Books became cheaper and new ideas spread faster than ever",
+            "Books became more expensive as demand rose",
+            "The church became the only party allowed to print books",
+            "There was no major impact until the 20th century"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mass book production crashed prices, and ideas, including ones that sparked the Reformation, spread faster."
+        }
+      ]
+    }
+  },
+  {
+    "key": "arpanet-pesan-pertama-crash",
+    "category": "penemuan",
+    "emoji": "💻",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ARPANET",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a graduate student sitting in front of a large vintage 1960s computer terminal, wires and blinking lights, late night university lab",
+        "seed": 631,
+        "alt": "Charley Kline di depan terminal komputer UCLA tahun 1969"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an old telephone handset next to a glowing computer screen showing a frozen cursor, tense atmosphere, 1960s tech lab",
+        "seed": 632,
+        "alt": "Telepon dan layar komputer yang macet saat pesan pertama dikirim"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a room filled with massive vintage mainframe computers connected by thick cables, early computer network room, 1970s",
+        "seed": 633,
+        "alt": "Ruangan komputer mainframe awal jaringan ARPANET"
+      }
+    },
+    "id": {
+      "title": "Pesan Pertama yang Macet di Tengah Jalan",
+      "hook": "Pesan pertama yang pernah dikirim lewat internet cuma terdiri dari dua huruf, karena sistemnya keburu macet di tengah jalan.",
+      "story": "29 Oktober 1969, seorang mahasiswa pascasarjana bernama Charley Kline duduk di depan komputer di UCLA, mencoba mengirim pesan ke komputer lain yang berjarak sekitar 560 kilometer, di Stanford Research Institute. Pesan yang ingin ia kirim sederhana: kata 'LOGIN'. Ini adalah upaya pertama di dunia mengirim data lewat jaringan komputer yang kelak dikenal sebagai ARPANET, cikal bakal internet yang kita pakai sekarang.\n\nKline mengetik huruf demi huruf sambil menelepon rekannya di Stanford untuk mengonfirmasi tiap huruf yang sampai. 'L' terkirim, dikonfirmasi. 'O' terkirim, dikonfirmasi. Lalu, saat huruf 'G' coba dikirim, sistem di ujung Stanford macet total.\n\nJadi, pesan pertama yang pernah dikirim lewat jaringan yang jadi cikal bakal internet bukan 'LOGIN' yang direncanakan, melainkan cuma 'LO', dua huruf, diikuti sistem yang hang. Butuh sekitar satu jam bagi tim untuk memperbaiki masalahnya dan akhirnya berhasil mengirim kata 'LOGIN' secara utuh.\n\nARPANET sendiri awalnya didanai Departemen Pertahanan Amerika Serikat, bukan untuk alasan militer taktis seperti yang sering disalahpahami orang, melainkan untuk menghubungkan komputer-komputer riset mahal di berbagai universitas supaya peneliti bisa berbagi sumber daya komputasi dari jarak jauh.\n\nDari jaringan empat komputer yang kerap macet di awal inilah, protokol-protokol yang kita pakai sampai sekarang perlahan dikembangkan, sampai akhirnya menjelma jadi internet global yang menghubungkan miliaran perangkat. Jadi, setiap kali koneksimu putus di tengah video call penting, ingat saja: internet juga mulai dengan cara yang sama, macet di tengah jalan.",
+      "whyItMatters": "Teknologi besar yang kita anggap sudah sempurna hari ini biasanya dimulai dari versi yang jauh lebih berantakan dan sering gagal. Berguna diingat kalau kamu sedang membangun sesuatu yang baru dan merasa versi awalnya terlalu kacau untuk ditunjukkan ke orang lain.",
+      "keyFacts": [
+        "Pesan pertama lewat ARPANET dikirim 29 Oktober 1969 dari UCLA ke Stanford, tapi sistemnya macet setelah dua huruf terkirim.",
+        "Kata yang ingin dikirim adalah 'LOGIN', tapi yang sampai hanya 'LO' sebelum sistem hang.",
+        "ARPANET awalnya didanai untuk menghubungkan komputer riset universitas, bukan untuk tujuan militer taktis."
+      ],
+      "quiz": [
+        {
+          "question": "Apa pesan pertama yang benar-benar berhasil terkirim lewat ARPANET?",
+          "options": ["LO (dua huruf, sebelum sistem macet)", "LOGIN lengkap", "Halo Dunia", "Pesan angka biner"],
+          "correctIndex": 0,
+          "explanation": "Sistem macet setelah huruf L dan O terkirim, sebelum huruf G berhasil dikirim."
+        },
+        {
+          "question": "Dari mana ke mana pesan pertama ARPANET dikirim?",
+          "options": ["Dari UCLA ke Stanford Research Institute", "Dari New York ke London", "Dari Pentagon ke Gedung Putih", "Dari Jepang ke Amerika Serikat"],
+          "correctIndex": 0,
+          "explanation": "Pesan dikirim dari UCLA ke komputer di Stanford Research Institute, sekitar 560 km jauhnya."
+        },
+        {
+          "question": "Apa tujuan awal pendanaan ARPANET?",
+          "options": ["Menghubungkan komputer riset universitas untuk berbagi sumber daya", "Mengendalikan rudal nuklir", "Menggantikan sistem telepon", "Memata-matai negara lain"],
+          "correctIndex": 0,
+          "explanation": "Tujuannya menghubungkan komputer riset mahal di berbagai universitas, bukan untuk operasi militer taktis."
+        }
+      ]
+    },
+    "en": {
+      "title": "The First Message Crashed Halfway Through",
+      "hook": "The very first message ever sent over the internet was just two letters long, because the system crashed in the middle of sending it.",
+      "story": "October 29, 1969, a graduate student named Charley Kline sat in front of a computer at UCLA, trying to send a message to another computer about 560 kilometers away, at the Stanford Research Institute. The message he wanted to send was simple: the word 'LOGIN.' This was the world's first attempt to send data over a computer network that would later become known as ARPANET, the ancestor of the internet we use today.\n\nKline typed letter by letter while calling his colleague at Stanford on the phone to confirm each letter as it arrived. 'L' sent, confirmed. 'O' sent, confirmed. Then, as the letter 'G' was being sent, the system on the Stanford end crashed completely.\n\nSo the first message ever sent over the network that became the ancestor of the internet wasn't the planned 'LOGIN.' It was just 'LO,' two letters, followed by a frozen system. It took the team about an hour to fix the problem and finally send the complete word 'LOGIN.'\n\nARPANET itself was originally funded by the US Department of Defense, not for tactical military reasons as often misunderstood, but to connect expensive research computers at different universities so researchers could share computing resources remotely.\n\nFrom this four-computer network that kept crashing in its early days, the protocols we still use today were slowly developed, eventually growing into a global internet connecting billions of devices. So the next time your connection drops in the middle of an important video call, remember: the internet itself started out exactly the same way, crashing halfway through.",
+      "whyItMatters": "Big technologies we now consider polished and reliable usually started out as much messier versions that failed constantly. Worth remembering if you're building something new and feel like your early version is too rough to show anyone.",
+      "keyFacts": [
+        "The first ARPANET message was sent on October 29, 1969, from UCLA to Stanford, but the system crashed after two letters.",
+        "The intended word was 'LOGIN,' but only 'LO' got through before the system froze.",
+        "ARPANET was originally funded to connect university research computers, not for tactical military purposes."
+      ],
+      "quiz": [
+        {
+          "question": "What was the first message that actually made it through on ARPANET?",
+          "options": ["LO (two letters, before the system crashed)", "The full word LOGIN", "Hello World", "A binary number code"],
+          "correctIndex": 0,
+          "explanation": "The system crashed right after the letters L and O were sent, before G could get through."
+        },
+        {
+          "question": "Where was the first ARPANET message sent from and to?",
+          "options": ["From UCLA to the Stanford Research Institute", "From New York to London", "From the Pentagon to the White House", "From Japan to the United States"],
+          "correctIndex": 0,
+          "explanation": "The message was sent from UCLA to a computer at the Stanford Research Institute, about 560 km away."
+        },
+        {
+          "question": "What was ARPANET originally funded for?",
+          "options": ["Connecting university research computers to share resources", "Controlling nuclear missiles", "Replacing the phone system", "Spying on other countries"],
+          "correctIndex": 0,
+          "explanation": "The goal was connecting expensive research computers at different universities, not tactical military operations."
+        }
+      ]
+    }
+  },
+  {
+    "key": "sinar-x-tangan-istri",
+    "category": "penemuan",
+    "emoji": "🦴",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a Victorian-era physicist in a dim laboratory examining a glowing fluorescent screen, mysterious invisible rays, 1890s Germany",
+        "seed": 634,
+        "alt": "Röntgen memeriksa layar fluoresen yang menyala di laboratoriumnya"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an X-ray image glowing on a photographic plate showing the bones of a hand with a wedding ring, eerie blue-white glow",
+        "seed": 635,
+        "alt": "Foto sinar-X tangan Anna Bertha lengkap dengan cincin kawin"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a formal 1901 Nobel Prize ceremony hall, elegant audience, golden medal on display, Stockholm atmosphere",
+        "seed": 636,
+        "alt": "Upacara Hadiah Nobel Fisika pertama tahun 1901"
+      }
+    },
+    "id": {
+      "title": "Foto Tulang Pertama Dalam Sejarah Adalah Tangan Istrinya",
+      "hook": "Foto pertama dalam sejarah yang memperlihatkan tulang manusia hidup adalah foto tangan istri sang penemu sendiri, lengkap dengan cincin kawinnya.",
+      "story": "Tahun 1895, seorang fisikawan Jerman bernama Wilhelm Röntgen sedang bereksperimen dengan tabung sinar katoda di laboratoriumnya, ketika ia menyadari sesuatu yang aneh: ada semacam sinar tak kasat mata yang bisa menembus benda-benda yang seharusnya buram, dan membuat layar fluoresen di dekatnya menyala meski tabungnya ditutup kardus hitam. Ia menamainya 'sinar-X', dengan huruf X yang sengaja dipakai karena ia sendiri belum tahu apa sebenarnya sinar misterius ini.\n\nUntuk menguji temuannya lebih jauh, Röntgen melakukan sesuatu yang kini jadi salah satu foto paling terkenal dalam sejarah sains: ia meminta istrinya, Anna Bertha, meletakkan tangannya di depan pelat foto selama kurang lebih 15 menit sambil disinari sinar-X. Hasilnya adalah gambar tulang-tulang tangan Anna yang jelas terlihat, lengkap dengan bayangan gelap cincin kawin yang masih melingkar di jarinya.\n\nKonon, saat melihat hasil foto itu, Anna berkomentar, 'Saya telah melihat kematian saya sendiri,' karena ngeri melihat tulang-tulangnya sendiri tanpa daging yang menutupinya. Tapi kalimat ini sendiri termasuk anekdot populer yang sulit diverifikasi sumber aslinya secara pasti.\n\nBerita soal penemuan ini menyebar luar biasa cepat. Dalam hitungan bulan, dokter-dokter di seluruh dunia sudah mulai memakai sinar-X untuk melihat patah tulang dan benda asing di dalam tubuh pasien tanpa perlu operasi. Röntgen sendiri menolak mematenkan temuannya, dengan alasan sinar-X seharusnya dimanfaatkan untuk kemanusiaan, bukan keuntungan pribadi.\n\nTahun 1901, Röntgen menjadi orang pertama dalam sejarah yang menerima Hadiah Nobel Fisika, penghargaan Nobel yang pertama kali diberikan dalam bidang apapun. Ia menyumbangkan seluruh uang hadiahnya ke universitas tempatnya bekerja.",
+      "whyItMatters": "Penemuan sinar-X mengubah dunia kedokteran selamanya, dari yang sebelumnya harus menebak-nebak kondisi dalam tubuh pasien, jadi bisa benar-benar 'melihat' ke dalamnya. Setiap kali kamu rontgen gigi atau tulang yang retak, kamu memakai teknologi yang berakar dari eksperimen satu malam di laboratorium kecil tahun 1895.",
+      "keyFacts": [
+        "Wilhelm Röntgen menemukan sinar-X secara tidak sengaja tahun 1895 saat bereksperimen dengan tabung sinar katoda.",
+        "Foto sinar-X pertama dalam sejarah adalah gambar tangan istrinya, Anna Bertha, lengkap dengan cincin kawinnya.",
+        "Röntgen menolak mematenkan sinar-X dan jadi penerima pertama Hadiah Nobel Fisika tahun 1901."
+      ],
+      "quiz": [
+        {
+          "question": "Bagaimana Röntgen menemukan sinar-X?",
+          "options": ["Tidak sengaja, saat bereksperimen dengan tabung sinar katoda", "Lewat eksperimen bertahun-tahun yang terencana khusus", "Dari catatan ilmuwan lain", "Dengan meniru teknologi kamera biasa"],
+          "correctIndex": 0,
+          "explanation": "Ia menemukannya secara tidak sengaja saat melihat layar fluoresen menyala meski tabungnya tertutup."
+        },
+        {
+          "question": "Foto sinar-X pertama dalam sejarah adalah gambar apa?",
+          "options": ["Tangan istri Röntgen, lengkap dengan cincin kawinnya", "Tengkorak Röntgen sendiri", "Paru-paru pasien rumah sakit", "Kerangka hewan di laboratorium"],
+          "correctIndex": 0,
+          "explanation": "Röntgen memotret tangan istrinya, Anna Bertha, menggunakan sinar-X."
+        },
+        {
+          "question": "Kenapa Röntgen menolak mematenkan sinar-X?",
+          "options": ["Ia ingin sinar-X dimanfaatkan untuk kemanusiaan, bukan keuntungan pribadi", "Karena hukum paten saat itu melarangnya", "Karena ia tidak yakin temuannya berguna", "Karena sudah ada orang lain yang mematenkannya duluan"],
+          "correctIndex": 0,
+          "explanation": "Röntgen secara sadar memilih tidak mematenkan temuannya demi manfaat yang lebih luas."
+        }
+      ]
+    },
+    "en": {
+      "title": "The First Bone Photo in History Was of His Wife's Hand",
+      "hook": "The first-ever photo showing a living person's bones was a picture of the inventor's own wife's hand, wedding ring and all.",
+      "story": "In 1895, a German physicist named Wilhelm Röntgen was experimenting with cathode ray tubes in his lab when he noticed something strange: an invisible kind of ray that could pass through objects that should have been opaque, making a nearby fluorescent screen glow even with the tube covered in black cardboard. He named it the 'X-ray,' using the letter X simply because he himself had no idea what this mysterious ray actually was.\n\nTo test his discovery further, Röntgen did something that became one of the most famous photographs in the history of science: he asked his wife, Anna Bertha, to place her hand in front of a photographic plate for about 15 minutes while exposed to the X-rays. The result was a clear image of the bones in Anna's hand, complete with the dark shadow of her wedding ring still on her finger.\n\nAccording to popular retellings, when Anna saw the image, she said, 'I have seen my own death,' horrified at seeing her own bones with no flesh covering them. That exact quote, though, is a popular anecdote whose original source is hard to verify with certainty.\n\nNews of the discovery spread remarkably fast. Within months, doctors around the world were already using X-rays to spot broken bones and foreign objects inside patients' bodies without needing surgery. Röntgen himself refused to patent his discovery, arguing that X-rays should benefit humanity, not personal profit.\n\nIn 1901, Röntgen became the first person in history to receive the Nobel Prize in Physics, the very first Nobel Prize ever awarded in any field. He donated his entire prize money to the university where he worked.",
+      "whyItMatters": "The discovery of X-rays changed medicine forever, from having to guess what was happening inside a patient's body to actually being able to 'see' inside it. Every time you get a dental X-ray or a scan for a broken bone, you're using technology rooted in one night of experimentation in a small lab back in 1895.",
+      "keyFacts": [
+        "Wilhelm Röntgen discovered X-rays by accident in 1895 while experimenting with cathode ray tubes.",
+        "The first X-ray photo in history was an image of his wife Anna Bertha's hand, wedding ring included.",
+        "Röntgen refused to patent X-rays and became the first-ever recipient of the Nobel Prize in Physics in 1901."
+      ],
+      "quiz": [
+        {
+          "question": "How did Röntgen discover X-rays?",
+          "options": ["By accident, while experimenting with cathode ray tubes", "Through years of specially planned experiments", "From another scientist's notes", "By copying regular camera technology"],
+          "correctIndex": 0,
+          "explanation": "He discovered it by accident when he noticed a fluorescent screen glowing even with the tube covered."
+        },
+        {
+          "question": "What was the first X-ray photo in history an image of?",
+          "options": ["Röntgen's wife's hand, wedding ring included", "Röntgen's own skull", "A hospital patient's lungs", "An animal skeleton in the lab"],
+          "correctIndex": 0,
+          "explanation": "Röntgen photographed his wife Anna Bertha's hand using X-rays."
+        },
+        {
+          "question": "Why did Röntgen refuse to patent X-rays?",
+          "options": ["He wanted X-rays to benefit humanity, not personal profit", "Because patent law at the time forbade it", "Because he doubted his discovery was useful", "Because someone else had already patented it"],
+          "correctIndex": 0,
+          "explanation": "Röntgen deliberately chose not to patent his discovery for the sake of wider benefit."
+        }
+      ]
+    }
+  }
+]

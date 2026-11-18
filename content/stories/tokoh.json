@@ -1,0 +1,374 @@
+[
+  {
+    "key": "marie-curie-radioaktif",
+    "category": "tokoh",
+    "emoji": "☢️",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a woman scientist in a worn long dress working in a cold leaky shed laboratory, glass vials glowing faint blue-green light on a wooden table, late 1800s Paris, candlelight and soft shadows",
+        "seed": 201,
+        "alt": "Marie Curie bekerja di laboratorium gudang bersama botol-botol kaca yang memancarkan cahaya samar"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "close-up of a wooden laboratory table covered in glass beakers and glowing vials, radium ore samples, dim warm lamp light, scientific instruments from the early 1900s",
+        "seed": 202,
+        "alt": "Meja laboratorium dengan bijih radium dan botol kaca yang bercahaya"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a woman driving a small boxy automobile fitted with portable medical X-ray equipment, dirt road near a World War One battlefield, overcast sky, sense of urgency and resolve",
+        "seed": 203,
+        "alt": "Mobil unit sinar-X portabel menuju garis depan Perang Dunia I"
+      }
+    },
+    "id": {
+      "title": "Wanita yang Ditemani Cahaya Berbahaya",
+      "hook": "Catatan tulisan tangannya masih terlalu radioaktif untuk dipegang langsung—seratus tahun setelah ia menulisnya.",
+      "story": "Warsawa, akhir 1800-an. Seorang gadis bernama Maria Skłodowska begitu haus belajar sains, sampai ia harus kuliah diam-diam di 'Flying University'—universitas bawah tanah ilegal, karena perempuan dilarang kuliah resmi di Polandia saat itu, yang waktu itu dijajah Kekaisaran Rusia.\n\nMaria akhirnya pindah ke Paris, mengganti namanya jadi Marie, dan bertemu seorang fisikawan bernama Pierre Curie. Mereka menikah tahun 1895, lalu bersama-sama meneliti sesuatu yang aneh: ada bahan tertentu yang terus-menerus memancarkan energi tanpa alasan jelas. Marie-lah yang menciptakan istilah untuk fenomena ini: 'radioaktivitas'.\n\nMereka bekerja di gudang bocor yang dingin, mengolah berton-ton bijih uranium dengan tangan kosong—tanpa sarung tangan, tanpa masker, tanpa tahu bahayanya. Dari situ, mereka menemukan dua unsur baru: polonium (dinamai dari tanah air Marie, Polandia) dan radium.\n\nTahun 1903, Marie jadi perempuan pertama dalam sejarah yang memenangkan Hadiah Nobel. Delapan tahun kemudian, tahun 1911, ia menang Nobel lagi—di bidang berbeda (Kimia, setelah Fisika). Sampai hari ini, ia satu-satunya orang di dunia yang pernah meraih Nobel di dua bidang sains yang berbeda.\n\nSaat Perang Dunia I pecah, Marie tidak tinggal diam di laboratorium. Ia membangun unit sinar-X portabel yang dipasang di mobil, lalu mengemudikannya sendiri ke garis depan untuk membantu dokter menemukan peluru dan pecahan logam di tubuh tentara yang terluka. Orang Prancis menjulukinya 'petites Curies'—Curie-Curie kecil.\n\nTapi ada harga yang harus dibayar. Bertahun-tahun terpapar radiasi tanpa pelindung akhirnya membuat Marie meninggal tahun 1934 karena anemia aplastik—penyakit darah akibat kerusakan sumsum tulang akibat radiasi. Buku catatan laboratoriumnya sendiri masih radioaktif sampai sekarang, disimpan dalam kotak berlapis timah di Prancis. Siapa pun yang ingin membacanya harus menandatangani surat pernyataan risiko dan memakai pakaian pelindung.\n\nMarie Curie membayar mahal untuk ilmu yang ia temukan—tapi ilmu itu kini jadi dasar terapi kanker radioterapi yang menyelamatkan jutaan nyawa setiap tahun.",
+      "whyItMatters": "Radioterapi yang dipakai untuk mengobati kanker hari ini berakar langsung dari penelitian Marie Curie. Kisahnya juga jadi pengingat penting: rasa ingin tahu ilmiah harus selalu dibarengi pemahaman risiko—sesuatu yang belum dipahami penuh di zamannya.",
+      "keyFacts": [
+        "Satu-satunya orang di dunia yang pernah memenangkan Hadiah Nobel di dua bidang sains berbeda: Fisika (1903) dan Kimia (1911).",
+        "Menemukan dua unsur kimia baru, polonium dan radium, bersama suaminya Pierre Curie.",
+        "Meninggal tahun 1934 akibat anemia aplastik, diduga akibat paparan radiasi bertahun-tahun; catatan laboratoriumnya masih radioaktif sampai sekarang."
+      ],
+      "quiz": [
+        {
+          "question": "Marie Curie adalah satu-satunya orang yang pernah memenangkan Hadiah Nobel di...",
+          "options": [
+            "Dua bidang sains yang berbeda (Fisika dan Kimia)",
+            "Tiga bidang sekaligus dalam satu tahun",
+            "Nobel Perdamaian dan Nobel Sastra",
+            "Bidang yang sama sebanyak lima kali"
+          ],
+          "correctIndex": 0,
+          "explanation": "Marie Curie menang Nobel Fisika tahun 1903 dan Nobel Kimia tahun 1911—dua bidang berbeda, sebuah rekor yang belum pernah disamai."
+        },
+        {
+          "question": "Apa julukan untuk unit sinar-X portabel yang dibuat Marie Curie saat Perang Dunia I?",
+          "options": ["Petites Curies", "Curie Mobile", "X-Ray Express", "Radium Cart"],
+          "correctIndex": 0,
+          "explanation": "Orang Prancis menyebutnya 'petites Curies' (Curie-Curie kecil) karena mobil-mobil ini membawa teknologi sinar-X Curie ke garis depan."
+        },
+        {
+          "question": "Mengapa catatan laboratorium Marie Curie masih berbahaya sampai sekarang?",
+          "options": [
+            "Masih bersifat radioaktif akibat kontaminasi radium",
+            "Ditulis dengan tinta beracun",
+            "Disimpan di ruangan tanpa oksigen",
+            "Terbuat dari bahan kimia mudah terbakar"
+          ],
+          "correctIndex": 0,
+          "explanation": "Catatan-catatannya terkontaminasi radium selama puluhan tahun penelitian, sehingga tetap radioaktif hingga kini."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Woman Who Kept Company With Dangerous Light",
+      "hook": "Her handwritten lab notebooks are still too radioactive to touch bare-handed—over a hundred years after she wrote them.",
+      "story": "Warsaw, late 1800s. A girl named Maria Skłodowska was so hungry to learn science that she had to attend a secret underground school called the 'Flying University'—because women weren't allowed into official universities in Russian-occupied Poland at the time.\n\nMaria eventually moved to Paris, shortened her name to Marie, and met a physicist named Pierre Curie. They married in 1895 and started investigating something strange: certain materials kept giving off energy with no obvious source. Marie coined the very word for this phenomenon: 'radioactivity.'\n\nWorking out of a leaky, freezing shed, they processed tons of uranium ore by hand—no gloves, no masks, no idea of the danger. From that grueling work came two brand-new chemical elements: polonium (named after Marie's homeland, Poland) and radium.\n\nIn 1903, Marie became the first woman in history to win a Nobel Prize. Eight years later, in 1911, she won a second Nobel—in a completely different field (Chemistry, after Physics). To this day, she remains the only person ever to win Nobel Prizes in two different sciences.\n\nWhen World War I broke out, Marie didn't stay in the lab. She built mobile X-ray units mounted on cars and personally drove them to the front lines, helping doctors locate bullets and shrapnel in wounded soldiers. The French nicknamed them 'petites Curies'—little Curies.\n\nBut there was a price. Years of unprotected radiation exposure eventually caused Marie's death in 1934 from aplastic anemia, a blood disorder caused by radiation-damaged bone marrow. Her own lab notebooks are still radioactive today, kept in lead-lined boxes in France. Anyone who wants to read them has to sign a liability waiver and wear protective gear.\n\nMarie Curie paid a steep price for the science she uncovered—but that same science is now the foundation of radiotherapy, a cancer treatment that saves millions of lives every year.",
+      "whyItMatters": "The radiotherapy used to treat cancer today traces directly back to Marie Curie's research. Her story is also an important reminder: scientific curiosity must go hand in hand with understanding risk—something not yet understood in her own time.",
+      "keyFacts": [
+        "The only person in history to win Nobel Prizes in two different sciences: Physics (1903) and Chemistry (1911).",
+        "Discovered two new chemical elements, polonium and radium, together with her husband Pierre Curie.",
+        "Died in 1934 from aplastic anemia, likely caused by years of radiation exposure; her lab notebooks remain radioactive to this day."
+      ],
+      "quiz": [
+        {
+          "question": "Marie Curie is the only person ever to win a Nobel Prize in...",
+          "options": [
+            "Two different sciences (Physics and Chemistry)",
+            "Three fields in a single year",
+            "Both Peace and Literature",
+            "The same field five times"
+          ],
+          "correctIndex": 0,
+          "explanation": "She won the Physics Nobel in 1903 and the Chemistry Nobel in 1911—two different fields, a record still unmatched."
+        },
+        {
+          "question": "What were Marie Curie's WWI mobile X-ray units nicknamed?",
+          "options": ["Petites Curies", "Curie Mobile", "X-Ray Express", "Radium Cart"],
+          "correctIndex": 0,
+          "explanation": "The French called them 'petites Curies' (little Curies) because they carried Curie's X-ray technology to the front lines."
+        },
+        {
+          "question": "Why are Marie Curie's lab notebooks still dangerous today?",
+          "options": [
+            "They're still radioactive from radium contamination",
+            "They were written with toxic ink",
+            "They're stored in an oxygen-free room",
+            "They're made of flammable material"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decades of handling radium contaminated the notebooks, which remain radioactive to this day."
+        }
+      ]
+    }
+  },
+  {
+    "key": "einstein-nobel-bukan-relativitas",
+    "category": "tokoh",
+    "emoji": "🧠",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a young clerk sitting at a cluttered desk in an early 1900s patent office, writing physics equations on paper, Bern Switzerland, warm desk lamp light",
+        "seed": 619,
+        "alt": "Einstein muda bekerja sebagai pegawai kantor paten di Bern"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an abstract illustration of light particles striking a metal surface and releasing glowing electrons, scientific concept art, dark background",
+        "seed": 620,
+        "alt": "Ilustrasi konsep efek fotolistrik"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a formal early 20th century Nobel Prize ceremony hall, elegant audience, golden medal on a podium, Stockholm atmosphere",
+        "seed": 621,
+        "alt": "Upacara penghargaan Hadiah Nobel awal abad ke-20"
+      }
+    },
+    "id": {
+      "title": "Hadiah Nobel yang Dimenangkan Einstein untuk Hal Lain",
+      "hook": "Einstein terkenal karena teori relativitas. Tapi Hadiah Nobel yang ia menangkan tahun 1921 ternyata bukan untuk itu.",
+      "story": "Tahun 1905, seorang pegawai kantor paten di Bern, Swiss, berusia 26 tahun menerbitkan empat makalah ilmiah dalam satu tahun yang sama. Tahun itu kemudian dijuluki 'Annus Mirabilis', tahun keajaiban, dan nama pegawai itu adalah Albert Einstein. Ia bukan profesor, bukan peneliti di universitas elite. Ia hanya pegawai paten biasa yang menulis fisika di waktu luang setelah jam kerja.\n\nSalah satu dari empat makalah itu memperkenalkan teori relativitas khusus, yang kelak melahirkan persamaan paling terkenal di dunia: E=mc². Tapi di sinilah bagian yang sering bikin orang kaget: ketika Einstein akhirnya menerima Hadiah Nobel Fisika tahun 1921, alasannya BUKAN teori relativitas.\n\nKomite Nobel justru memberinya penghargaan 'atas jasanya pada fisika teoretis, khususnya atas penemuannya soal hukum efek fotolistrik.' Efek fotolistrik ini menjelaskan bagaimana cahaya bisa melepaskan elektron dari permukaan logam, dan penjelasan Einstein soal ini jadi salah satu fondasi utama lahirnya mekanika kuantum.\n\nKenapa bukan relativitas? Salah satu alasannya karena teori relativitas saat itu masih dianggap terlalu kontroversial dan sulit diverifikasi secara eksperimen oleh komite Nobel, sementara efek fotolistrik sudah punya bukti eksperimental yang lebih kuat dan diterima luas.\n\nYang lebih ironis: penjelasan efek fotolistrik ini menantang pemahaman fisika klasik tentang cahaya sebagai gelombang murni, dan justru teori inilah yang membuat Einstein, yang nantinya skeptis terhadap mekanika kuantum, malah dianggap salah satu bapak pendiri bidang yang kelak membuatnya tidak nyaman.",
+      "whyItMatters": "Cerita ini pengingat bagus bahwa karya seseorang yang paling terkenal di mata publik belum tentu sama dengan karya yang dianggap paling penting oleh pakar di bidangnya. Berguna diingat saat kita menilai pencapaian orang lain, atau diri sendiri, hanya dari apa yang paling viral.",
+      "keyFacts": [
+        "Einstein menerbitkan empat makalah revolusioner di tahun 1905 saat masih bekerja sebagai pegawai kantor paten, bukan sebagai profesor.",
+        "Hadiah Nobel Fisika 1921 yang ia menangkan diberikan atas penemuan hukum efek fotolistrik, bukan teori relativitas.",
+        "Penjelasan efek fotolistrik oleh Einstein menjadi salah satu fondasi utama lahirnya mekanika kuantum."
+      ],
+      "quiz": [
+        {
+          "question": "Hadiah Nobel Fisika 1921 Einstein diberikan atas apa?",
+          "options": ["Penemuan hukum efek fotolistrik", "Teori relativitas khusus", "Teori relativitas umum", "Penemuan unsur radioaktif"],
+          "correctIndex": 0,
+          "explanation": "Komite Nobel memberi penghargaan atas penjelasannya soal efek fotolistrik, bukan relativitas."
+        },
+        {
+          "question": "Apa pekerjaan Einstein saat menerbitkan empat makalah revolusionernya tahun 1905?",
+          "options": ["Pegawai kantor paten di Bern", "Profesor fisika di Jerman", "Peneliti di NASA", "Guru sekolah menengah"],
+          "correctIndex": 0,
+          "explanation": "Ia bekerja sebagai pegawai kantor paten biasa, menulis fisika di waktu luangnya."
+        },
+        {
+          "question": "Apa dampak besar dari penjelasan Einstein soal efek fotolistrik?",
+          "options": ["Jadi salah satu fondasi lahirnya mekanika kuantum", "Menjelaskan asal mula alam semesta", "Menemukan planet baru", "Menciptakan bom atom secara langsung"],
+          "correctIndex": 0,
+          "explanation": "Penjelasannya soal efek fotolistrik jadi salah satu dasar penting mekanika kuantum."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Nobel Prize Einstein Won for Something Else",
+      "hook": "Einstein is famous for the theory of relativity. But the Nobel Prize he won in 1921 wasn't actually for that.",
+      "story": "In 1905, a 26-year-old patent clerk in Bern, Switzerland, published four scientific papers in a single year. That year later got nicknamed the 'Annus Mirabilis,' the miracle year, and the clerk's name was Albert Einstein. He wasn't a professor or a researcher at some elite university. He was just an ordinary patent clerk writing physics in his spare time after work.\n\nOne of those four papers introduced special relativity, which eventually led to the world's most famous equation: E=mc². But here's the part that often surprises people: when Einstein finally received the 1921 Nobel Prize in Physics, the reason wasn't relativity at all.\n\nThe Nobel committee awarded it 'for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.' The photoelectric effect explains how light can knock electrons loose from a metal surface, and Einstein's explanation of it became one of the key foundations of quantum mechanics.\n\nWhy not relativity? Part of the reason is that relativity was still considered too controversial and hard to verify experimentally at the time, while the photoelectric effect already had much stronger, widely accepted experimental evidence behind it.\n\nHere's the irony: that explanation challenged the classical view of light as a pure wave, and it's this very theory that made Einstein, who would later grow skeptical of quantum mechanics, one of the founding fathers of a field that eventually made him uncomfortable.",
+      "whyItMatters": "This story is a good reminder that someone's most famous work in the public eye isn't always the same as the work experts in the field consider most important. Worth remembering whenever we judge someone else's achievements, or our own, purely by what's gone viral.",
+      "keyFacts": [
+        "Einstein published four revolutionary papers in 1905 while still working as a patent clerk, not as a professor.",
+        "His 1921 Nobel Prize in Physics was awarded for discovering the law of the photoelectric effect, not the theory of relativity.",
+        "Einstein's explanation of the photoelectric effect became one of the key foundations of quantum mechanics."
+      ],
+      "quiz": [
+        {
+          "question": "What was Einstein's 1921 Nobel Prize in Physics actually awarded for?",
+          "options": ["Discovering the law of the photoelectric effect", "Special relativity", "General relativity", "Discovering a radioactive element"],
+          "correctIndex": 0,
+          "explanation": "The Nobel committee awarded it for his explanation of the photoelectric effect, not relativity."
+        },
+        {
+          "question": "What was Einstein's job when he published his four revolutionary papers in 1905?",
+          "options": ["Patent clerk in Bern", "Physics professor in Germany", "Researcher at NASA", "High school teacher"],
+          "correctIndex": 0,
+          "explanation": "He worked as an ordinary patent clerk, writing physics in his spare time."
+        },
+        {
+          "question": "What major impact did Einstein's explanation of the photoelectric effect have?",
+          "options": ["It became one of the foundations of quantum mechanics", "It explained the origin of the universe", "It led to discovering a new planet", "It directly created the atomic bomb"],
+          "correctIndex": 0,
+          "explanation": "His explanation of the photoelectric effect became one of the key foundations of quantum mechanics."
+        }
+      ]
+    }
+  },
+  {
+    "key": "da-vinci-catatan-terbalik",
+    "category": "tokoh",
+    "emoji": "🎨",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "an old leather notebook page filled with reversed mirror handwriting and intricate sketches, Renaissance Italy, warm aged paper texture",
+        "seed": 622,
+        "alt": "Halaman catatan tulisan cermin Leonardo da Vinci"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a Renaissance inventor's workshop filled with sketches of flying machines and mechanical contraptions pinned on the wall, candlelight",
+        "seed": 623,
+        "alt": "Bengkel penuh sketsa mesin terbang da Vinci"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a Renaissance artist painting a small portrait on a canvas in a sunlit studio, easel and brushes, Florence atmosphere",
+        "seed": 624,
+        "alt": "Pelukis Renaisans mengerjakan lukisan di studio"
+      }
+    },
+    "id": {
+      "title": "Catatan yang Cuma Bisa Dibaca Lewat Cermin",
+      "hook": "Leonardo da Vinci menulis ribuan halaman catatan pribadi dengan tulisan yang cuma bisa dibaca lewat cermin.",
+      "story": "Leonardo da Vinci meninggalkan lebih dari 13.000 halaman catatan dan sketsa pribadi, tapi ada satu kebiasaan aneh di hampir semua halamannya: ia menulis dari kanan ke kiri, dengan huruf-huruf yang terbalik seperti bayangan cermin. Untuk membacanya normal, kamu harus memegang kertasnya di depan cermin.\n\nKenapa ia menulis seperti ini masih diperdebatkan. Teori paling umum: da Vinci kidal, dan menulis dari kanan ke kiri lebih nyaman buatnya karena tangannya tidak menyeret tinta yang belum kering. Teori lain menyebut ini cara sederhana menjaga privasi catatannya dari orang-orang di sekitarnya yang penasaran, meski ini bukan kode rahasia yang sulit dipecahkan, siapa pun yang tahu triknya bisa membacanya dengan mudah.\n\nYang jelas, isi catatan-catatan itu jauh lebih menakjubkan daripada cara penulisannya. Da Vinci menggambar sketsa mesin terbang, kendaraan lapis baja, dan sistem irigasi, berabad-abad sebelum teknologi itu benar-benar bisa dibuat. Ia membedah mayat manusia secara diam-diam untuk mempelajari anatomi dengan detail yang baru bisa ditandingi ilmu kedokteran ratusan tahun kemudian.\n\nMasalahnya, da Vinci terkenal sulit menyelesaikan proyek. Banyak lukisan dan penemuannya tidak pernah rampung, termasuk beberapa karya yang dipesan dan dibayar di muka oleh kliennya. Mona Lisa sendiri, lukisan paling terkenal di dunia saat ini, baru dianggap benar-benar selesai bertahun-tahun setelah ia mulai mengerjakannya, dan ia tetap membawanya ke mana-mana sampai akhir hayatnya, seolah tidak pernah puas.\n\nDa Vinci bukan cuma pelukis jenius. Ia contoh nyata bahwa rasa ingin tahu yang meluas ke segala arah, dari seni, anatomi, sampai teknik, bisa menghasilkan karya luar biasa, meski sering kali dengan harga: banyak proyek yang tidak pernah selesai.",
+      "whyItMatters": "Da Vinci menunjukkan bahwa rasa ingin tahu lintas bidang bisa jadi kekuatan besar, tapi juga perlu diimbangi kemampuan menyelesaikan sesuatu. Berguna diingat kalau kamu tipe orang yang suka banyak hobi tapi susah menuntaskannya satu per satu.",
+      "keyFacts": [
+        "Da Vinci menulis catatan pribadinya dengan tulisan cermin, terbalik dari kanan ke kiri, kemungkinan karena ia kidal.",
+        "Ia menyketsa mesin terbang dan kendaraan lapis baja berabad-abad sebelum teknologi itu benar-benar bisa dibuat.",
+        "Da Vinci terkenal sulit menyelesaikan proyek; banyak lukisan dan penemuannya tidak pernah rampung."
+      ],
+      "quiz": [
+        {
+          "question": "Bagaimana cara Leonardo da Vinci menulis catatan pribadinya?",
+          "options": ["Tulisan cermin, terbalik dari kanan ke kiri", "Memakai kode angka rahasia", "Dalam bahasa Latin kuno", "Dengan simbol hieroglif"],
+          "correctIndex": 0,
+          "explanation": "Ia menulis dari kanan ke kiri dengan huruf terbalik, kemungkinan karena kidal."
+        },
+        {
+          "question": "Apa yang digambar da Vinci jauh sebelum teknologinya benar-benar ada?",
+          "options": ["Sketsa mesin terbang dan kendaraan lapis baja", "Peta dunia yang lengkap", "Rencana kota modern", "Mesin cetak"],
+          "correctIndex": 0,
+          "explanation": "Ia menyketsa berbagai rancangan mesin yang baru benar-benar bisa dibuat berabad-abad kemudian."
+        },
+        {
+          "question": "Apa yang sering jadi masalah dalam karier da Vinci?",
+          "options": ["Ia sulit menyelesaikan banyak proyeknya", "Ia tidak pernah diakui semasa hidup", "Ia tidak pernah melukis manusia", "Karyanya semua hilang"],
+          "correctIndex": 0,
+          "explanation": "Banyak lukisan dan penemuannya tidak pernah selesai, termasuk yang sudah dibayar di muka."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Notes You Could Only Read With a Mirror",
+      "hook": "Leonardo da Vinci wrote thousands of pages of personal notes in handwriting that could only be read by holding it up to a mirror.",
+      "story": "Leonardo da Vinci left behind more than 13,000 pages of personal notes and sketches, but almost every page shares one strange habit: he wrote from right to left, with letters reversed like a mirror image. To read it normally, you'd have to hold the page up to a mirror.\n\nWhy he wrote this way is still debated. The most common theory: da Vinci was left-handed, and writing right to left was simply more comfortable, since his hand wouldn't drag through wet ink. Another theory suggests it was a simple way to keep his notes private from curious bystanders, though it wasn't exactly hard to crack, anyone who knew the trick could read it easily.\n\nWhat's certain is that the contents of those notes are far more impressive than how they were written. Da Vinci sketched flying machines, armored vehicles, and irrigation systems, centuries before the technology existed to actually build them. He secretly dissected human bodies to study anatomy in detail that medical science wouldn't match again for hundreds of years.\n\nThe catch: da Vinci was famously bad at finishing things. Many of his paintings and inventions were never completed, including some commissions he'd already been paid for in advance. The Mona Lisa itself, the most famous painting in the world today, wasn't considered truly finished until years after he started it, and he reportedly kept carrying it around with him until the end of his life, as if never quite satisfied.\n\nDa Vinci wasn't just a brilliant painter. He's living proof that curiosity stretched across many fields, art, anatomy, engineering, can produce extraordinary work, often at a cost: a long trail of unfinished projects.",
+      "whyItMatters": "Da Vinci shows that cross-field curiosity can be a huge strength, but it needs to be balanced with the ability to actually finish things. Worth remembering if you're the type who loves starting hobbies but struggles to complete them.",
+      "keyFacts": [
+        "Da Vinci wrote his personal notes in mirror handwriting, reversed from right to left, likely because he was left-handed.",
+        "He sketched flying machines and armored vehicles centuries before the technology to build them actually existed.",
+        "Da Vinci was famously bad at finishing projects; many of his paintings and inventions were never completed."
+      ],
+      "quiz": [
+        {
+          "question": "How did Leonardo da Vinci write his personal notes?",
+          "options": ["Mirror writing, reversed from right to left", "Using a secret numeric code", "In ancient Latin", "With hieroglyphic symbols"],
+          "correctIndex": 0,
+          "explanation": "He wrote right to left with reversed letters, likely because he was left-handed."
+        },
+        {
+          "question": "What did da Vinci sketch long before the technology for it actually existed?",
+          "options": ["Flying machines and armored vehicles", "A complete world map", "Modern city plans", "The printing press"],
+          "correctIndex": 0,
+          "explanation": "He sketched various machine designs that wouldn't actually be buildable until centuries later."
+        },
+        {
+          "question": "What was often a problem throughout da Vinci's career?",
+          "options": ["He struggled to finish many of his projects", "He was never recognized in his lifetime", "He never painted people", "All his work was lost"],
+          "correctIndex": 0,
+          "explanation": "Many of his paintings and inventions were never completed, including ones already paid for."
+        }
+      ]
+    }
+  },
+  {
+    "key": "tesla-perang-arus",
+    "category": "tokoh",
+    "emoji": "⚡",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "an inventor standing on a stage holding a glowing wireless electric lamp, crackling electricity visible around him, amazed crowd watching, 1890s World's Fair",
+        "seed": 625,
+        "alt": "Tesla memegang lampu listrik menyala di depan penonton"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "two Victorian-era inventors facing off in a dramatically lit room, one with alternating current diagrams, the other with direct current diagrams, tense rivalry atmosphere",
+        "seed": 626,
+        "alt": "Perseteruan Tesla dan Edison soal arus AC melawan DC"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "tall electrical transmission towers stretching across a landscape at dusk, power lines glowing with energy, modern electrical grid",
+        "seed": 627,
+        "alt": "Menara transmisi listrik AC yang membentang di cakrawala"
+      }
+    },
+    "id": {
+      "title": "Orang yang Membiarkan Listrik Mengalir Lewat Tubuhnya Sendiri",
+      "hook": "Untuk membuktikan listriknya aman, seorang penemu membiarkan ribuan volt arus listriknya sendiri mengalir lewat tubuhnya di depan penonton.",
+      "story": "Chicago, 1893, di Pameran Dunia Columbus. Seorang penemu bernama Nikola Tesla berdiri di atas panggung, memegang lampu listrik yang menyala tanpa kabel apapun yang terlihat tersambung ke sumber daya. Ia bahkan membiarkan arus listrik bertegangan tinggi mengalir melewati tubuhnya sendiri di depan penonton yang terpana, untuk membuktikan satu hal: listrik arus bolak-balik (AC) ciptaannya aman dipakai, berbeda dari yang digembar-gemborkan rivalnya.\n\nRival itu adalah Thomas Edison, yang sedang mempromosikan sistem arus searah (DC) miliknya sendiri. Keduanya terlibat dalam apa yang kemudian dikenal sebagai 'Perang Arus'. Edison, demi menjatuhkan reputasi AC di mata publik, bahkan ikut terlibat dalam kampanye yang menunjukkan bahaya AC lewat eksekusi hewan di depan umum menggunakan listrik AC.\n\nTesla sendiri sebelumnya pernah bekerja untuk Edison di Amerika Serikat, tapi keduanya berpisah dengan cara yang tidak baik, konon karena perselisihan soal bayaran yang dijanjikan tapi tidak pernah dibayarkan penuh. Tesla lalu bekerja sama dengan pengusaha George Westinghouse untuk mengembangkan dan memasarkan sistem AC.\n\nPada akhirnya, AC menang. Alasannya sederhana: AC jauh lebih efisien untuk mengirim listrik dalam jarak jauh dibanding DC, dan sistem inilah yang akhirnya dipakai di jaringan listrik hampir seluruh dunia sampai hari ini, termasuk yang menyalakan lampu di rumahmu sekarang.\n\nMeski menang di jaringan listrik dunia, Tesla sendiri meninggal dalam kondisi miskin dan kurang dihargai pada masanya, jauh berbeda dari Edison yang namanya lebih dulu populer sebagai 'penemu'. Baru belakangan, warisan Tesla mendapat pengakuan yang lebih luas, termasuk sebuah perusahaan mobil listrik yang memakai namanya.",
+      "whyItMatters": "Kisah ini pengingat bahwa pengakuan publik dan kontribusi nyata tidak selalu berjalan beriringan saat itu juga. Teknologi yang menyalakan hampir semua colokan listrik di rumahmu hari ini berasal dari sistem yang penemunya sendiri sempat hidup miskin dan kurang diakui.",
+      "keyFacts": [
+        "Tesla dan Thomas Edison terlibat 'Perang Arus' pada akhir 1800-an, memperebutkan standar listrik AC (Tesla) melawan DC (Edison).",
+        "AC akhirnya menang karena jauh lebih efisien untuk mengirim listrik jarak jauh, dan jadi standar jaringan listrik dunia sampai sekarang.",
+        "Meski kontribusinya besar, Tesla meninggal dalam kondisi miskin dan baru mendapat pengakuan luas belakangan ini."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang diperebutkan dalam 'Perang Arus' antara Tesla dan Edison?",
+          "options": ["Standar listrik AC melawan DC", "Hak paten lampu pijar", "Siapa penemu telepon", "Kepemilikan pembangkit listrik tenaga air"],
+          "correctIndex": 0,
+          "explanation": "Tesla mengembangkan sistem AC, sementara Edison mempromosikan sistem DC miliknya."
+        },
+        {
+          "question": "Kenapa AC akhirnya jadi standar jaringan listrik dunia?",
+          "options": ["Jauh lebih efisien mengirim listrik jarak jauh dibanding DC", "Lebih murah untuk diproduksi", "Edison sendiri yang merekomendasikannya", "DC dilarang pemerintah"],
+          "correctIndex": 0,
+          "explanation": "AC bisa dikirim jarak jauh dengan kehilangan energi yang jauh lebih kecil dibanding DC."
+        },
+        {
+          "question": "Bagaimana kondisi Tesla di akhir hidupnya?",
+          "options": ["Meninggal dalam kondisi miskin dan kurang dihargai pada masanya", "Menjadi orang terkaya di dunia", "Pindah bekerja kembali untuk Edison", "Pensiun dengan kekayaan besar dari paten AC"],
+          "correctIndex": 0,
+          "explanation": "Meski kontribusinya besar, Tesla meninggal miskin dan baru diakui luas belakangan."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Man Who Let Electricity Run Through His Own Body",
+      "hook": "To prove his electricity was safe, an inventor let thousands of volts of his own current run through his body in front of a live audience.",
+      "story": "Chicago, 1893, at the World's Columbian Exposition. An inventor named Nikola Tesla stood on stage, holding a glowing electric lamp with no visible wire connected to any power source. He even let high-voltage current run through his own body in front of a stunned crowd, to prove one thing: his alternating current (AC) electricity was safe to use, unlike what his rival claimed.\n\nThat rival was Thomas Edison, who was busy promoting his own direct current (DC) system. The two became locked in what's now known as the 'War of the Currents.' Edison, trying to damage AC's public image, even took part in a campaign showing AC's dangers through public executions of animals using alternating current.\n\nTesla had actually worked for Edison earlier in his career in the United States, but the two parted on bad terms, reportedly over a bonus Edison had promised but never fully paid. Tesla then teamed up with businessman George Westinghouse to develop and market the AC system instead.\n\nIn the end, AC won. The reason was simple: AC was far more efficient at sending electricity over long distances than DC, and it's the system that still powers electrical grids almost everywhere in the world today, including whatever's powering the lights in your room right now.\n\nDespite winning the grid war, Tesla himself died poor and largely underappreciated in his own time, a sharp contrast to Edison, whose name became far more famous as 'the inventor.' Only later did Tesla's legacy get wider recognition, including an electric car company that now carries his name.",
+      "whyItMatters": "This story is a reminder that public recognition and real contribution don't always move together in real time. The technology powering nearly every outlet in your home today came from a system whose inventor once lived in poverty and went largely unrecognized.",
+      "keyFacts": [
+        "Tesla and Thomas Edison fought the 'War of the Currents' in the late 1800s, AC (Tesla) versus DC (Edison).",
+        "AC eventually won because it's far more efficient for sending electricity over long distances, and remains the world's electrical grid standard today.",
+        "Despite his huge contribution, Tesla died poor and only received wider recognition much later."
+      ],
+      "quiz": [
+        {
+          "question": "What were Tesla and Edison fighting over in the 'War of the Currents'?",
+          "options": ["The AC versus DC electrical standard", "Patent rights to the light bulb", "Who invented the telephone", "Ownership of a hydroelectric dam"],
+          "correctIndex": 0,
+          "explanation": "Tesla developed the AC system, while Edison promoted his own DC system."
+        },
+        {
+          "question": "Why did AC eventually become the world's electrical grid standard?",
+          "options": ["It's far more efficient for sending electricity over long distances than DC", "It was cheaper to produce", "Edison himself recommended it", "DC was banned by the government"],
+          "correctIndex": 0,
+          "explanation": "AC can be sent over long distances with far less energy loss than DC."
+        },
+        {
+          "question": "What was Tesla's situation like at the end of his life?",
+          "options": ["He died poor and underappreciated in his time", "He became the richest man in the world", "He went back to work for Edison", "He retired wealthy from AC patents"],
+          "correctIndex": 0,
+          "explanation": "Despite his huge contribution, Tesla died poor and only gained wide recognition later."
+        }
+      ]
+    }
+  }
+]

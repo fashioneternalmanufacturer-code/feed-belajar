@@ -1,0 +1,316 @@
+[
+  {
+    "key": "sumpah-palapa-majapahit",
+    "category": "sejarah-indonesia",
+    "emoji": "🗡️",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gajah_Mada",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "an ancient Javanese prime minister standing before a royal court hall, Majapahit kingdom, 14th century, ornate carved wooden pillars, solemn ceremonial atmosphere",
+        "seed": 610,
+        "alt": "Gajah Mada berdiri di hadapan dewan kerajaan Majapahit"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a terracotta fragment shaped like a human head on display at an archaeological site, Trowulan ruins, ancient Javanese temple remains in the background",
+        "seed": 611,
+        "alt": "Pecahan terakota berbentuk kepala di situs Trowulan"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a vast medieval Southeast Asian kingdom's trading harbor, ships and merchants, tropical islands silhouette, Majapahit-era maritime influence",
+        "seed": 612,
+        "alt": "Pelabuhan dagang Majapahit dengan kapal-kapal dan pedagang"
+      }
+    },
+    "id": {
+      "title": "Sumpah yang Tak Ada yang Bisa Buktikan Diucapkan",
+      "hook": "Konon ia bersumpah tidak akan mencicipi rempah sampai seluruh Nusantara bersatu. Anehnya, kita bahkan tidak tahu seperti apa wajahnya.",
+      "story": "Menurut naskah kuno Pararaton, sekitar tahun 1336 seorang mahapatih Majapahit bernama Gajah Mada konon bersumpah di hadapan dewan kerajaan: intinya, ia tidak akan berhenti 'berpuasa rempah-rempah' sampai berhasil menyatukan Nusantara. Sumpah ini dikenal sebagai Sumpah Palapa, dan jadi salah satu kisah paling dihafal anak sekolah Indonesia.\n\nMasalahnya, kata 'menurut' dan 'konon' di atas bukan basa-basi. Sumpah Palapa hanya tercatat dalam naskah itu, yang ditulis belakangan dan bercampur antara sejarah dan legenda. Banyak sejarawan modern meragukan apakah sumpah ini benar-benar diucapkan persis seperti yang kita kenal sekarang, atau sudah dibumbui oleh penulis-penulis sesudahnya.\n\nYang lebih mengejutkan lagi: wajah Gajah Mada yang sering kita lihat di buku pelajaran, patung, dan uang kertas lama, sebenarnya juga rekaan. Gambar itu berasal dari imajinasi tokoh nasional Mohammad Yamin tahun 1940-an, yang terinspirasi dari sebuah pecahan terakota berbentuk kepala orang yang ia temukan di situs Trowulan, bekas ibu kota Majapahit. Tidak ada yang tahu pasti seperti apa wajah asli Gajah Mada.\n\nYang jauh lebih pasti dari legenda ini adalah pencapaian nyatanya. Di bawah kepemimpinan Gajah Mada sebagai mahapatih sejak 1331 sampai sekitar 1364, Majapahit benar-benar berkembang jadi salah satu kerajaan paling berpengaruh yang pernah berdiri di Nusantara, dengan pengaruh dagang dan politik yang terasa sampai Semenanjung Malaya dan sebagian Filipina.\n\nJadi Sumpah Palapa mungkin bukan transkrip kata-per-kata yang akurat. Tapi semangat di baliknya, cita-cita menyatukan wilayah yang begitu luas dan beragam di bawah satu pengaruh, memang benar-benar terwujud. Hanya saja, wajah pahlawannya tetap jadi misteri sampai sekarang.",
+      "whyItMatters": "Kisah ini pengingat yang bagus buat kita: legenda dan sejarah sering bercampur, dan itu bukan masalah selama kita bisa membedakan mana fakta dan mana bumbu cerita. Kemampuan ini penting banget zaman sekarang, saat berita dan cerita viral bercampur begitu cepat di media sosial.",
+      "keyFacts": [
+        "Sumpah Palapa konon diucapkan Gajah Mada sekitar 1336, tapi hanya tercatat di naskah Pararaton yang mencampur sejarah dan legenda.",
+        "Wajah Gajah Mada yang kita kenal sekarang adalah rekaan Mohammad Yamin tahun 1940-an, bukan gambaran historis yang akurat.",
+        "Gajah Mada menjabat mahapatih Majapahit dari 1331 sampai sekitar 1364, dan pengaruh kerajaan ini meluas ke Semenanjung Malaya dan sebagian Filipina."
+      ],
+      "quiz": [
+        {
+          "question": "Sumpah Palapa tercatat dalam naskah kuno apa?",
+          "options": ["Pararaton", "Nagarakretagama", "Sutasoma", "Serat Centhini"],
+          "correctIndex": 0,
+          "explanation": "Sumpah Palapa hanya tercatat di naskah Pararaton, yang mencampur fakta sejarah dengan legenda."
+        },
+        {
+          "question": "Dari mana asal gambar wajah Gajah Mada yang terkenal sekarang?",
+          "options": [
+            "Imajinasi Mohammad Yamin tahun 1940-an",
+            "Lukisan sezaman dari abad ke-14",
+            "Foto yang ditemukan arkeolog",
+            "Deskripsi tertulis yang sangat detail"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tidak ada gambaran historis asli; wajah itu rekaan Yamin berdasarkan pecahan terakota yang ia temukan."
+        },
+        {
+          "question": "Berapa lama Gajah Mada menjabat sebagai mahapatih Majapahit?",
+          "options": ["Sekitar 33 tahun (1331-1364)", "Sekitar 5 tahun", "Sekitar 100 tahun", "Hanya beberapa bulan"],
+          "correctIndex": 0,
+          "explanation": "Ia menjabat dari 1331 sampai sekitar 1364."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Oath No One Can Prove He Said",
+      "hook": "Legend says he swore off spices until he united the whole archipelago. Oddly enough, we don't even know what his face looked like.",
+      "story": "According to the old Pararaton manuscript, around 1336 a Majapahit prime minister named Gajah Mada reportedly swore an oath in front of the royal court: roughly, that he would not stop 'fasting on spices' until he had united the archipelago. This vow is known as the Sumpah Palapa, and it's one of the most memorized stories in Indonesian school history books.\n\nHere's the catch: the words 'according to' and 'reportedly' above aren't just formalities. The Sumpah Palapa only survives in that one manuscript, written later and blending real history with legend. Many modern historians doubt whether the oath was worded exactly as we know it today, or whether it was dramatized by writers who came after.\n\nEven more surprising: the famous face of Gajah Mada you see in textbooks, statues, and old banknotes is also made up. That image came from the imagination of national figure Mohammad Yamin in the 1940s, inspired by a terracotta fragment shaped like a human head that he found at Trowulan, the former capital of Majapahit. Nobody actually knows what Gajah Mada really looked like.\n\nWhat's much more solid than the legend is his real achievement. Under Gajah Mada's leadership as prime minister from 1331 to around 1364, Majapahit genuinely grew into one of the most influential kingdoms the archipelago has ever seen, with trade and political influence reaching as far as the Malay Peninsula and parts of the Philippines.\n\nSo the Sumpah Palapa might not be an accurate word-for-word transcript. But the spirit behind it, the ambition to unite such a vast and diverse region under one influence, really did come true. His face, though, remains a mystery to this day.",
+      "whyItMatters": "This story is a good reminder that legend and history often blend together, and that's fine as long as we can tell which parts are fact and which are embellishment. That skill matters a lot today, when news and viral stories mix together so quickly on social media.",
+      "keyFacts": [
+        "The Sumpah Palapa was supposedly declared by Gajah Mada around 1336, but it only survives in the Pararaton manuscript, which blends history and legend.",
+        "The famous face of Gajah Mada was invented by Mohammad Yamin in the 1940s, not based on any accurate historical record.",
+        "Gajah Mada served as Majapahit's prime minister from 1331 to around 1364, and the kingdom's influence genuinely reached the Malay Peninsula and parts of the Philippines."
+      ],
+      "quiz": [
+        {
+          "question": "What old manuscript records the Sumpah Palapa?",
+          "options": ["Pararaton", "Nagarakretagama", "Sutasoma", "Serat Centhini"],
+          "correctIndex": 0,
+          "explanation": "The Sumpah Palapa only survives in the Pararaton manuscript, which mixes historical fact with legend."
+        },
+        {
+          "question": "Where does the famous face of Gajah Mada actually come from?",
+          "options": [
+            "Mohammad Yamin's imagination in the 1940s",
+            "A contemporary 14th-century painting",
+            "A photograph found by archaeologists",
+            "A highly detailed written description"
+          ],
+          "correctIndex": 0,
+          "explanation": "There's no original historical likeness; the image was Yamin's invention based on a terracotta fragment he found."
+        },
+        {
+          "question": "How long did Gajah Mada serve as Majapahit's prime minister?",
+          "options": ["About 33 years (1331-1364)", "About 5 years", "About 100 years", "Just a few months"],
+          "correctIndex": 0,
+          "explanation": "He served from 1331 until around 1364."
+        }
+      ]
+    }
+  },
+  {
+    "key": "sumpah-pemuda-1928",
+    "category": "sejarah-indonesia",
+    "emoji": "✊",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Youth_Pledge",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a crowded living room inside an old colonial-era house, young Indonesian people from different ethnicities gathered together, 1920s Batavia, warm lamp light, determined atmosphere",
+        "seed": 613,
+        "alt": "Pemuda dari berbagai suku berkumpul di rumah Kramat Raya, 1928"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a young woman softly singing near an open window in an old Indonesian house at night, 1920s, gentle candlelight, quiet emotional moment",
+        "seed": 614,
+        "alt": "Dolly Salim menyenandungkan lagu Indonesia Raya"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a small vintage music recording shop interior, old gramophone and recording equipment, early 20th century Jakarta street visible through window",
+        "seed": 615,
+        "alt": "Toko musik tempat rekaman pertama Indonesia Raya dibuat"
+      }
+    },
+    "id": {
+      "title": "Sumpah yang Diikrarkan di Rumah Pinjaman",
+      "hook": "Gedung tempat sumpah paling terkenal dalam sejarah Indonesia diucapkan bukan milik pribumi, dan lagu kebangsaan malam itu bahkan tidak dinyanyikan penuh liriknya.",
+      "story": "28 Oktober 1928, di sebuah rumah di Jalan Kramat Raya nomor 106, Batavia, ratusan pemuda dari berbagai suku dan daerah berkumpul untuk hari ketiga Kongres Pemuda Indonesia kedua. Rumah itu milik Sie Kong Lian, seorang keturunan Tionghoa, bukti kecil bahwa gerakan persatuan ini sejak awal sudah melibatkan lebih dari satu kelompok etnis.\n\nKongres ini sebenarnya berlangsung tiga hari, pindah-pindah lokasi, dan sesi terakhir inilah yang paling bersejarah. Di penghujung acara, para peserta membacakan tiga ikrar yang isinya mengakui satu tanah air, satu bangsa, dan satu bahasa persatuan: Indonesia. Inilah yang kemudian dikenal sebagai Sumpah Pemuda.\n\nYang jarang diceritakan: malam itu, lagu 'Indonesia Raya' karya WR Supratman diperdengarkan, tapi hanya dengan gesekan biola, tanpa nyanyian penuh liriknya. Theodora Athia 'Dolly' Salim, putri tokoh pergerakan Haji Agus Salim, hanya menyenandungkannya pelan. Liriknya sengaja dilunakkan supaya tidak terlalu provokatif di depan pengawasan pemerintah kolonial Belanda yang turut hadir di acara itu.\n\nLagu itu sendiri sudah direkam diam-diam setahun sebelumnya, tahun 1927, di rumah seorang pedagang musik bernama Yo Kim Tjan dekat Pasar Baru—setelah dua toko musik lain menolak merekamnya karena takut ketahuan Belanda.\n\nJadi persatuan yang kita rayakan tiap 28 Oktober ini lahir dari ruangan pinjaman, lagu yang disamarkan, dan keberanian kecil yang dilakukan diam-diam oleh orang-orang dari berbagai latar belakang—bukan drama besar yang gegap gempita seperti yang sering dibayangkan.",
+      "whyItMatters": "Persatuan besar sering kali lahir dari langkah-langkah kecil dan berani yang dilakukan orang biasa, bukan cuma dari tokoh besar di panggung sejarah. Semangat ini relevan tiap kali kita merasa kontribusi kita terlalu kecil untuk berarti.",
+      "keyFacts": [
+        "Sumpah Pemuda diikrarkan 28 Oktober 1928 di sebuah rumah di Jalan Kramat Raya 106, Batavia, milik Sie Kong Lian.",
+        "Lagu 'Indonesia Raya' hanya dimainkan dengan biola malam itu, tanpa lirik penuh, untuk menghindari provokasi terhadap pemerintah kolonial Belanda yang hadir.",
+        "Rekaman pertama 'Indonesia Raya' dibuat diam-diam setahun sebelumnya, tahun 1927, oleh pedagang musik Yo Kim Tjan."
+      ],
+      "quiz": [
+        {
+          "question": "Di mana Sumpah Pemuda diikrarkan?",
+          "options": ["Sebuah rumah di Jalan Kramat Raya, Batavia", "Istana Bogor", "Gedung Sate, Bandung", "Masjid Istiqlal"],
+          "correctIndex": 0,
+          "explanation": "Sesi penutup kongres berlangsung di rumah Sie Kong Lian di Jalan Kramat Raya 106."
+        },
+        {
+          "question": "Kenapa lagu 'Indonesia Raya' hanya dimainkan dengan biola malam itu?",
+          "options": [
+            "Supaya tidak terlalu provokatif di depan pengawasan Belanda",
+            "Karena tidak ada penyanyi yang hadir",
+            "Karena liriknya belum selesai ditulis",
+            "Karena dianggap kurang penting"
+          ],
+          "correctIndex": 0,
+          "explanation": "Liriknya dilunakkan agar tidak memicu reaksi pemerintah kolonial yang turut hadir."
+        },
+        {
+          "question": "Tiga hal apa yang diikrarkan dalam Sumpah Pemuda?",
+          "options": [
+            "Satu tanah air, satu bangsa, satu bahasa persatuan",
+            "Satu agama, satu bahasa, satu pemimpin",
+            "Satu presiden, satu partai, satu tentara",
+            "Satu suku, satu raja, satu wilayah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ketiga ikrar itu mengakui satu tanah air Indonesia, satu bangsa Indonesia, dan satu bahasa persatuan Indonesia."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Pledge Made in a Borrowed House",
+      "hook": "The building where Indonesia's most famous pledge was spoken wasn't even owned by an Indonesian native, and the anthem played that night wasn't fully sung.",
+      "story": "October 28, 1928, in a house at Jalan Kramat Raya number 106, Batavia, hundreds of young people from different ethnic groups and regions gathered for the third day of the Second Indonesian Youth Congress. The house belonged to Sie Kong Lian, a Chinese-Indonesian, a small but telling detail that this unity movement involved more than one ethnic group right from the start.\n\nThe congress actually ran for three days, moving between locations, and this final session became the most historic. At the close of the event, the participants read out three pledges affirming one homeland, one nation, and one unifying language: Indonesian. This became known as the Youth Pledge, or Sumpah Pemuda.\n\nHere's a detail rarely told: that night, the song 'Indonesia Raya' by WR Supratman was played, but only on violin, without its full lyrics sung. Theodora Athia 'Dolly' Salim, daughter of movement figure Haji Agus Salim, only hummed it softly. The lyrics were deliberately toned down to avoid provoking the Dutch colonial officials who were also present.\n\nThe song itself had already been secretly recorded a year earlier, in 1927, at the home of a music trader named Yo Kim Tjan near Pasar Baru, after two other music stores had refused to record it out of fear the Dutch would find out.\n\nSo the unity Indonesians celebrate every October 28 was born out of a borrowed room, a disguised song, and small acts of quiet courage by people from very different backgrounds, not the grand, dramatic spectacle it's often imagined to be.",
+      "whyItMatters": "Big unity movements often start with small, brave steps taken by ordinary people, not just famous figures on a historical stage. That's worth remembering whenever your own contribution feels too small to matter.",
+      "keyFacts": [
+        "The Youth Pledge was declared on October 28, 1928, at a house on Jalan Kramat Raya 106, Batavia, owned by Sie Kong Lian.",
+        "The song 'Indonesia Raya' was only played on violin that night, without full lyrics, to avoid provoking the Dutch colonial officials present.",
+        "The first recording of 'Indonesia Raya' was made secretly a year earlier, in 1927, by music trader Yo Kim Tjan."
+      ],
+      "quiz": [
+        {
+          "question": "Where was the Youth Pledge declared?",
+          "options": ["A house on Jalan Kramat Raya, Batavia", "Bogor Palace", "Gedung Sate, Bandung", "Istiqlal Mosque"],
+          "correctIndex": 0,
+          "explanation": "The congress's closing session was held at Sie Kong Lian's house on Jalan Kramat Raya 106."
+        },
+        {
+          "question": "Why was 'Indonesia Raya' only played on violin that night?",
+          "options": [
+            "To avoid provoking the watching Dutch officials",
+            "Because no singer was present",
+            "Because the lyrics weren't finished yet",
+            "Because it was considered unimportant"
+          ],
+          "correctIndex": 0,
+          "explanation": "The lyrics were toned down to avoid triggering a reaction from the colonial officials present."
+        },
+        {
+          "question": "What three things did the Youth Pledge affirm?",
+          "options": [
+            "One homeland, one nation, one unifying language",
+            "One religion, one language, one leader",
+            "One president, one party, one army",
+            "One tribe, one king, one territory"
+          ],
+          "correctIndex": 0,
+          "explanation": "The three pledges affirmed one Indonesian homeland, one Indonesian nation, and one unifying Indonesian language."
+        }
+      ]
+    }
+  },
+  {
+    "key": "voc-rempah-rempah",
+    "category": "sejarah-indonesia",
+    "emoji": "🚢",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a large wooden sailing ship with Dutch East India Company flags docked at a tropical spice port, workers loading barrels of nutmeg and cloves, 17th century Indonesia",
+        "seed": 616,
+        "alt": "Kapal VOC bersandar di pelabuhan rempah tropis"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a bustling 17th century Amsterdam stock exchange courtyard, traders exchanging paper shares, old European architecture",
+        "seed": 617,
+        "alt": "Bursa saham Amsterdam abad ke-17 tempat saham VOC diperdagangkan"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a fortified Dutch colonial fort on a tropical island coastline, cannons facing the sea, 17th century Banda Islands atmosphere",
+        "seed": 618,
+        "alt": "Benteng VOC di pesisir Kepulauan Banda"
+      }
+    },
+    "id": {
+      "title": "Perusahaan yang Punya Tentara Sendiri",
+      "hook": "VOC bukan cuma perusahaan dagang. Ia punya tentara sendiri, bisa mencetak uang sendiri, dan bisa menyatakan perang atas namanya sendiri.",
+      "story": "Kamu mungkin membayangkan VOC, atau Vereenigde Oostindische Compagnie, sebagai perusahaan dagang rempah-rempah biasa dari Belanda. Kenyataannya jauh lebih mengerikan dari itu. Didirikan tahun 1602, VOC adalah salah satu perusahaan saham gabungan pertama di dunia, tempat warga biasa bisa membeli saham dan memperdagangkannya di pasar terbuka, cikal bakal bursa saham modern.\n\nTapi yang membuat VOC berbeda dari perusahaan manapun hari ini adalah kekuasaannya yang nyaris seperti negara. Pemerintah Belanda memberi VOC hak istimewa untuk berperang, mendirikan koloni, menjalankan pengadilan sendiri, menghukum mati orang, menandatangani perjanjian dengan kerajaan lokal, bahkan mencetak koin sendiri. Ini bukan perusahaan yang 'ikut campur politik'. Ini perusahaan yang punya pemerintahannya sendiri.\n\nTujuan utamanya satu: menguasai perdagangan rempah-rempah dari Nusantara, terutama pala dan cengkih yang saat itu harganya setara emas di Eropa. Untuk mengamankan monopoli ini, VOC tidak segan menggunakan kekerasan. Di Kepulauan Banda misalnya, VOC membasmi hampir seluruh penduduk asli yang menolak monopoli pala mereka.\n\nSelama hampir dua abad beroperasi, saham VOC diperjualbelikan secara terbuka di bursa Amsterdam sejak 1602, menjadikannya salah satu saham publik pertama dalam sejarah dunia. Dengan hak berperang, mencetak uang sendiri, membuat perjanjian dengan kerajaan lain, dan membangun benteng-benteng di seluruh Nusantara, VOC beroperasi lebih mirip negara di dalam negara dibanding perusahaan dagang biasa. Tapi korupsi internal, utang menumpuk, dan persaingan dagang yang makin ketat akhirnya membuat VOC bangkrut dan dibubarkan tahun 1799, asetnya diambil alih langsung oleh pemerintah Belanda.\n\nJejaknya masih terasa sampai sekarang: banyak batas wilayah, pola perdagangan, bahkan konflik di Indonesia modern bisa ditelusuri akarnya sampai ke kebijakan monopoli VOC berabad-abad lalu.",
+      "whyItMatters": "Sejarah VOC adalah pengingat penting soal apa yang terjadi kalau sebuah entitas bisnis diberi kekuasaan nyaris tanpa batas tanpa pengawasan yang memadai. Prinsip ini masih relevan hari ini saat kita bicara soal regulasi perusahaan raksasa dan kekuatan korporasi global.",
+      "keyFacts": [
+        "VOC didirikan tahun 1602 dan menjadi salah satu perusahaan saham gabungan pertama di dunia.",
+        "Pemerintah Belanda memberi VOC kekuasaan nyaris seperti negara: berperang, mendirikan koloni, mencetak uang, dan mengadili orang.",
+        "VOC bangkrut dan dibubarkan tahun 1799 akibat korupsi dan utang, setelah hampir dua abad beroperasi."
+      ],
+      "quiz": [
+        {
+          "question": "Apa yang membuat VOC berbeda dari perusahaan dagang biasa?",
+          "options": [
+            "Ia punya kekuasaan nyaris seperti negara, termasuk hak berperang dan mencetak uang",
+            "Ia hanya menjual rempah-rempah dalam jumlah kecil",
+            "Ia dimiliki langsung oleh raja Belanda",
+            "Ia tidak pernah berdagang di luar Eropa"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pemerintah Belanda memberi VOC hak istimewa yang nyaris setara kekuasaan negara."
+        },
+        {
+          "question": "Komoditas apa yang menjadi incaran utama VOC di Nusantara?",
+          "options": ["Pala dan cengkih", "Beras dan gula", "Emas dan perak", "Kopi dan teh"],
+          "correctIndex": 0,
+          "explanation": "Pala dan cengkih saat itu harganya setara emas di pasar Eropa."
+        },
+        {
+          "question": "Kenapa VOC akhirnya bangkrut dan dibubarkan tahun 1799?",
+          "options": [
+            "Korupsi internal, utang menumpuk, dan persaingan dagang yang makin ketat",
+            "Karena rempah-rempah sudah tidak laku lagi",
+            "Karena dilarang pemerintah Inggris",
+            "Karena seluruh karyawannya mengundurkan diri"
+          ],
+          "correctIndex": 0,
+          "explanation": "Kombinasi korupsi, utang, dan persaingan dagang membuat VOC tidak lagi bisa bertahan."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Company That Had Its Own Army",
+      "hook": "The VOC wasn't just a trading company. It had its own army, could mint its own coins, and could declare war in its own name.",
+      "story": "You might picture the VOC, the Dutch East India Company, as just an ordinary spice-trading business from the Netherlands. The reality is far more intense than that. Founded in 1602, the VOC was one of the first joint-stock companies in the world, where ordinary citizens could buy shares and trade them on an open market, basically the ancestor of the modern stock exchange.\n\nWhat made the VOC different from any company today was its almost government-like power. The Dutch government granted it the right to wage war, establish colonies, run its own courts, execute people, sign treaties with local kingdoms, and even mint its own coins. This wasn't a company that 'got involved in politics.' This was a company that literally had its own government.\n\nIts main goal was simple: control the spice trade from the Indonesian archipelago, especially nutmeg and cloves, which were worth roughly their weight in gold back in Europe. To secure that monopoly, the VOC didn't hesitate to use force. In the Banda Islands, for example, it wiped out nearly the entire native population that resisted its nutmeg monopoly.\n\nOver almost two centuries of operation, VOC shares were openly traded on the Amsterdam exchange starting in 1602, making it one of the first publicly traded stocks in world history. With the right to wage war, mint its own money, sign treaties with other kingdoms, and build forts across the archipelago, the VOC operated more like a state within a state than an ordinary trading company. But internal corruption, piling debt, and growing trade competition eventually drove it bankrupt, and it was dissolved in 1799, its assets taken over directly by the Dutch government.\n\nIts footprint is still felt today: many borders, trade patterns, and even conflicts in modern Indonesia can be traced back to VOC monopoly policies from centuries ago.",
+      "whyItMatters": "The VOC's history is an important reminder of what happens when a business entity is given almost unlimited power without proper oversight. That principle still matters today when we talk about regulating giant corporations and global corporate power.",
+      "keyFacts": [
+        "The VOC was founded in 1602 and became one of the first joint-stock companies in the world.",
+        "The Dutch government gave the VOC near-state powers: waging war, founding colonies, minting money, and holding trials.",
+        "The VOC went bankrupt and was dissolved in 1799 due to corruption and debt, after nearly two centuries of operation."
+      ],
+      "quiz": [
+        {
+          "question": "What made the VOC different from an ordinary trading company?",
+          "options": [
+            "It had near-state powers, including the right to wage war and mint money",
+            "It only sold spices in small quantities",
+            "It was owned directly by the Dutch king",
+            "It never traded outside Europe"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Dutch government granted the VOC privileges nearly equal to state power."
+        },
+        {
+          "question": "What commodity was the VOC's main target in the Indonesian archipelago?",
+          "options": ["Nutmeg and cloves", "Rice and sugar", "Gold and silver", "Coffee and tea"],
+          "correctIndex": 0,
+          "explanation": "Nutmeg and cloves were worth roughly their weight in gold in the European market at the time."
+        },
+        {
+          "question": "Why did the VOC eventually go bankrupt and get dissolved in 1799?",
+          "options": [
+            "Internal corruption, piling debt, and growing trade competition",
+            "Because spices were no longer in demand",
+            "Because the British government banned it",
+            "Because all its employees resigned"
+          ],
+          "correctIndex": 0,
+          "explanation": "A combination of corruption, debt, and trade competition meant the VOC could no longer survive."
+        }
+      ]
+    }
+  }
+]

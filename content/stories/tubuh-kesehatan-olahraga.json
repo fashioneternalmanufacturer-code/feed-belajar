@@ -1,0 +1,266 @@
+[
+  {
+    "key": "maraton-pheidippides",
+    "category": "tubuh-kesehatan-olahraga",
+    "emoji": "🏃",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marathon",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "an ancient Greek messenger running along a long dusty road between hills, determined expression, sandals and tunic, 5th century BC Greece",
+        "seed": 646,
+        "alt": "Pelari kuno Yunani berlari sepanjang jalan berdebu"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an ancient Greek historian writing on a scroll by candlelight, old manuscripts scattered around, thoughtful atmosphere",
+        "seed": 647,
+        "alt": "Herodotus menulis catatan sejarah di gulungan kuno"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a large crowd of modern marathon runners running past a historic castle at the starting line, 1908 London Olympics atmosphere",
+        "seed": 648,
+        "alt": "Pelari maraton melewati Kastil Windsor, Olimpiade London 1908"
+      }
+    },
+    "id": {
+      "title": "Pelari yang Konon Mati Setelah Menang",
+      "hook": "Konon, pelari pertama yang menempuh jarak maraton berteriak 'Kita menang!' lalu langsung roboh dan meninggal di tempat.",
+      "story": "'Kita menang!' Konon itulah teriakan terakhir seorang kurir Yunani bernama Pheidippides, sesaat sebelum ia jatuh tersungkur dan meninggal di hadapan warga Athena, setelah berlari tanpa henti dari kota Marathon membawa kabar kemenangan atas pasukan Persia pada 490 SM.\n\nMasalahnya, kisah ini jauh lebih diragukan kebenarannya daripada yang kamu kira. Herodotus, sejarawan Yunani yang hidup paling dekat dengan masa kejadian, memang menceritakan Pheidippides berlari, tapi ke kota Sparta untuk meminta bantuan pasukan, sejauh sekitar 246 kilometer, bukan dari Marathon ke Athena. Versi 'lari lalu mati' yang kita kenal sekarang baru muncul berabad-abad kemudian dari penulis lain, dengan nama pelari yang bahkan berbeda-beda di tiap versi cerita.\n\nTerlepas dari legenda yang berantakan ini, nama 'maraton' tetap dipakai saat Olimpiade modern pertama digelar di Athena tahun 1896, sebagai penghormatan atas kisah tersebut, dengan jarak awal sekitar 40 kilometer.\n\nYang lebih menarik: jarak resmi maraton yang kita kenal sekarang, 42,195 kilometer, baru distandarkan tahun 1921, bukan dari perhitungan matematis yang elegan, melainkan kebetulan sejarah. Angka ini berasal dari jarak spesifik lomba Olimpiade London 1908, yang konon sengaja diperpanjang sedikit supaya start-nya bisa dimulai tepat di depan Kastil Windsor, biar keluarga kerajaan Inggris bisa menonton dari jendela istana.\n\nJadi jarak yang membuat jutaan pelari di seluruh dunia berlatih berbulan-bulan dan menderita kram kaki tiap tahun, sebenarnya berasal dari legenda yang mungkin tidak pernah terjadi persis seperti itu, dikombinasikan dengan permintaan kecil keluarga kerajaan supaya tidak perlu beranjak dari jendela istananya.",
+      "whyItMatters": "Cerita ini pengingat seru bahwa banyak tradisi yang kita anggap punya makna besar dan kuno sebenarnya lahir dari kebetulan kecil atau permintaan praktis, bukan rencana besar yang penuh perhitungan. Berguna diingat sebelum buru-buru percaya penuh pada asal-usul sebuah tradisi.",
+      "keyFacts": [
+        "Kisah Pheidippides berlari dari Marathon ke Athena lalu meninggal setelah berteriak 'Kita menang' adalah legenda yang baru muncul berabad-abad setelah peristiwa 490 SM, dan diragukan sejarawan.",
+        "Jarak resmi maraton, 42,195 km, baru distandarkan tahun 1921.",
+        "Jarak itu berasal dari lomba Olimpiade London 1908, konon diperpanjang agar start dimulai di depan Kastil Windsor."
+      ],
+      "quiz": [
+        {
+          "question": "Menurut Herodotus, ke mana sebenarnya Pheidippides berlari?",
+          "options": ["Ke Sparta meminta bantuan pasukan", "Dari Marathon ke Athena", "Ke Mesir mencari obat", "Tidak pernah berlari sama sekali"],
+          "correctIndex": 0,
+          "explanation": "Herodotus mencatat Pheidippides berlari ke Sparta, bukan dari Marathon ke Athena seperti legenda populer."
+        },
+        {
+          "question": "Kapan jarak resmi maraton 42,195 km distandarkan?",
+          "options": ["Tahun 1921", "Tahun 490 SM", "Tahun 1896", "Tahun 2000"],
+          "correctIndex": 0,
+          "explanation": "Jarak ini baru distandarkan tahun 1921, bukan sejak Olimpiade modern pertama."
+        },
+        {
+          "question": "Kenapa jarak maraton Olimpiade London 1908 diperpanjang?",
+          "options": ["Konon supaya start dimulai di depan Kastil Windsor", "Karena rute sebelumnya terlalu pendek untuk standar dunia", "Karena cuaca buruk", "Karena permintaan sponsor acara"],
+          "correctIndex": 0,
+          "explanation": "Jarak itu konon disesuaikan agar keluarga kerajaan Inggris bisa menonton start dari jendela istana."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Runner Who Supposedly Died After Winning",
+      "hook": "Legend says the first person to run a marathon shouted 'We won!' and collapsed dead on the spot.",
+      "story": "'We won!' That's supposedly the last thing a Greek messenger named Pheidippides shouted, right before collapsing and dying in front of the people of Athens, after running non-stop from the town of Marathon carrying news of victory over the Persian army in 490 BC.\n\nHere's the problem: this story is far shakier than you might think. Herodotus, the Greek historian who lived closest to the actual event, does mention Pheidippides running, but to Sparta to request military help, a distance of about 246 kilometers, not from Marathon to Athens. The 'ran then died' version we know today only appeared centuries later from other writers, and even the runner's name changes between different versions of the tale.\n\nMessy legend aside, the name 'marathon' stuck when the first modern Olympics were held in Athens in 1896, as a tribute to the story, with an initial distance of about 40 kilometers.\n\nHere's the more interesting part: the official marathon distance we know today, 42.195 kilometers, wasn't standardized until 1921, and not from some elegant mathematical formula either, but from historical coincidence. The number comes from the specific race distance at the 1908 London Olympics, which was reportedly extended slightly so the start could be placed right in front of Windsor Castle, so the British royal family could watch from the palace windows.\n\nSo the distance that makes millions of runners worldwide train for months and suffer leg cramps every year actually comes from a legend that probably never happened exactly as told, combined with a small request from a royal family that didn't want to leave their castle window.",
+      "whyItMatters": "This story is a fun reminder that many traditions we assume have deep, ancient meaning actually came from small coincidences or practical requests, not grand, calculated plans. Worth remembering before fully buying into the origin story of any tradition.",
+      "keyFacts": [
+        "The story of Pheidippides running from Marathon to Athens and dying after shouting 'We won' is a legend that only appeared centuries after the 490 BC event, and historians doubt its accuracy.",
+        "The official marathon distance, 42.195 km, wasn't standardized until 1921.",
+        "That distance comes from the 1908 London Olympics race, reportedly extended so the start could be placed in front of Windsor Castle."
+      ],
+      "quiz": [
+        {
+          "question": "According to Herodotus, where did Pheidippides actually run?",
+          "options": ["To Sparta to request military help", "From Marathon to Athens", "To Egypt to find medicine", "He never ran at all"],
+          "correctIndex": 0,
+          "explanation": "Herodotus recorded Pheidippides running to Sparta, not from Marathon to Athens as the popular legend claims."
+        },
+        {
+          "question": "When was the official marathon distance of 42.195 km standardized?",
+          "options": ["1921", "490 BC", "1896", "2000"],
+          "correctIndex": 0,
+          "explanation": "The distance wasn't standardized until 1921, not since the first modern Olympics."
+        },
+        {
+          "question": "Why was the marathon distance at the 1908 London Olympics extended?",
+          "options": ["Reportedly so the start could be placed in front of Windsor Castle", "Because the previous route was too short for world standards", "Due to bad weather", "Due to a sponsor's request"],
+          "correctIndex": 0,
+          "explanation": "The distance was reportedly adjusted so the British royal family could watch the start from the castle windows."
+        }
+      ]
+    }
+  },
+  {
+    "key": "olimpiade-kuno-776sm",
+    "category": "tubuh-kesehatan-olahraga",
+    "emoji": "🏺",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "ancient Greek athletes competing in a footrace inside a grand stone stadium, cheering crowd, sunny Olympia Greece, classical antiquity",
+        "seed": 649,
+        "alt": "Atlet Yunani kuno berlomba lari di stadion Olympia"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "two ancient Greek wrestlers locked in a match inside a dusty arena, onlookers watching, olive trees in the background",
+        "seed": 650,
+        "alt": "Pegulat Yunani kuno bertanding di arena Olimpiade"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a victorious ancient Greek athlete being crowned with an olive leaf wreath, proud crowd around him, warm sunlight",
+        "seed": 651,
+        "alt": "Atlet pemenang dimahkotai dengan daun zaitun"
+      }
+    },
+    "id": {
+      "title": "Ajang Olahraga yang Bertahan Lebih dari Seribu Tahun",
+      "hook": "Bayangkan ajang olahraga yang bertahan lebih dari seribu tahun, lebih lama dari umur kebanyakan negara modern hari ini.",
+      "story": "Bayangkan sebuah ajang olahraga yang, menurut catatan tradisional, dimulai tahun 776 SM di kota Olympia, Yunani, dan terus digelar setiap empat tahun sekali selama lebih dari seribu tahun berturut-turut. Itulah Olimpiade kuno, digelar untuk menghormati dewa Zeus, dan jauh lebih panjang umurnya dibanding Olimpiade modern yang baru berjalan sekitar satu abad lebih.\n\nOlimpiade kuno bukan sekadar ajang olahraga biasa. Selama periode penyelenggaraannya, diberlakukan 'gencatan senjata Olimpik' supaya atlet dan peziarah dari berbagai kota-negara Yunani yang sering berperang satu sama lain bisa bepergian dengan aman ke Olympia. Para pemenang diberi hadiah mahkota daun zaitun, bukan uang atau medali, tapi status sosial yang didapat bisa setara pahlawan nasional di kota asal mereka.\n\nPertandingan yang dilombakan juga cukup berbeda dari olimpiade modern: lari jarak pendek, gulat, tinju tanpa sarung tangan empuk, lempar lembing, dan pankration, sejenis gabungan gulat dan tinju brutal yang nyaris tidak ada aturannya selain dilarang menggigit dan mencungkil mata lawan.\n\nOlimpiade kuno akhirnya berhenti setelah perayaan terakhir yang tercatat tahun 393 Masehi, pada masa Kaisar Romawi Theodosius I, yang saat itu tengah menekan berbagai perayaan keagamaan pagan di seluruh wilayah kekaisarannya. Meski begitu, beberapa bukti arkeologis menunjukkan kemungkinan ada perayaan kecil yang masih berlangsung setelah tahun itu, sebelum akhirnya benar-benar berhenti di bawah pemerintahan Theodosius II, mungkin terkait kebakaran yang menghanguskan kuil Zeus di Olympia.\n\nButuh waktu lebih dari 1.500 tahun sejak itu sampai Olimpiade modern pertama akhirnya digelar kembali di Athena tahun 1896.",
+      "whyItMatters": "Olimpiade kuno menunjukkan bahwa olahraga sudah lama dipakai manusia sebagai alasan untuk sementara menghentikan konflik dan berkumpul dalam damai. Semangat yang sama masih coba dihidupkan lewat gencatan senjata simbolis di Olimpiade modern hari ini.",
+      "keyFacts": [
+        "Olimpiade kuno secara tradisional dimulai tahun 776 SM di Olympia, Yunani, dan digelar tiap empat tahun untuk menghormati Zeus.",
+        "Selama penyelenggaraannya, diberlakukan 'gencatan senjata Olimpik' supaya atlet dan peziarah bisa bepergian dengan aman.",
+        "Perayaan terakhir yang tercatat berlangsung tahun 393 M, masa Kaisar Theodosius I, meski bukti arkeologis menunjukkan mungkin masih berlanjut sedikit setelahnya."
+      ],
+      "quiz": [
+        {
+          "question": "Apa tujuan 'gencatan senjata Olimpik' pada Olimpiade kuno?",
+          "options": ["Supaya atlet dan peziarah bisa bepergian dengan aman ke Olympia", "Untuk menghentikan perang selamanya", "Untuk memilih pemimpin baru Yunani", "Untuk membangun kuil baru"],
+          "correctIndex": 0,
+          "explanation": "Gencatan senjata ini memungkinkan perjalanan aman ke Olympia meski kota-kota Yunani sering berperang satu sama lain."
+        },
+        {
+          "question": "Apa hadiah untuk pemenang Olimpiade kuno?",
+          "options": ["Mahkota daun zaitun", "Uang tunai", "Medali emas", "Tanah dan properti"],
+          "correctIndex": 0,
+          "explanation": "Pemenang diberi mahkota daun zaitun, meski status sosialnya bisa setara pahlawan nasional."
+        },
+        {
+          "question": "Kapan perayaan terakhir Olimpiade kuno yang tercatat berlangsung?",
+          "options": ["Tahun 393 Masehi", "Tahun 776 SM", "Tahun 1896", "Tahun 100 Masehi"],
+          "correctIndex": 0,
+          "explanation": "Perayaan terakhir yang tercatat berlangsung tahun 393 M, pada masa Kaisar Theodosius I."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Games That Outlasted Most Ancient Empires",
+      "hook": "Imagine a sporting event that lasted over a thousand years, longer than most modern countries have even existed.",
+      "story": "Imagine a sporting event that, according to traditional records, began in 776 BC in the city of Olympia, Greece, and kept running every four years for over a thousand consecutive years. That was the ancient Olympics, held to honor the god Zeus, and it ran far longer than the modern Olympics, which has only been around for a little over a century.\n\nThe ancient Olympics weren't just a sporting event. During the games, an 'Olympic truce' was enforced so athletes and pilgrims from various Greek city-states, which were often at war with each other, could travel safely to Olympia. Winners were given olive leaf wreaths as prizes, not money or medals, but the social status that came with winning could rival that of a national hero back home.\n\nThe events were also quite different from the modern Olympics: short-distance running, wrestling, boxing without padded gloves, javelin throwing, and pankration, a brutal mix of wrestling and boxing with almost no rules except a ban on biting and eye-gouging.\n\nThe ancient Olympics eventually ended after the last recorded celebration in 393 AD, under Roman Emperor Theodosius I, who was cracking down on pagan religious festivals across his empire at the time. That said, some archaeological evidence suggests smaller celebrations may have continued a bit after that, before finally stopping for good under Theodosius II, possibly connected to a fire that destroyed the Temple of Zeus at Olympia.\n\nIt took more than 1,500 years after that for the modern Olympics to finally return, held again in Athens in 1896.",
+      "whyItMatters": "The ancient Olympics show that humans have long used sport as a reason to temporarily pause conflict and gather peacefully. That same spirit is still echoed through the symbolic truce observed at the modern Olympics today.",
+      "keyFacts": [
+        "The ancient Olympics traditionally began in 776 BC in Olympia, Greece, held every four years to honor Zeus.",
+        "During the games, an 'Olympic truce' was enforced so athletes and pilgrims could travel safely.",
+        "The last recorded celebration was in 393 AD, under Emperor Theodosius I, though some evidence suggests it continued a bit longer."
+      ],
+      "quiz": [
+        {
+          "question": "What was the purpose of the 'Olympic truce' during the ancient games?",
+          "options": ["So athletes and pilgrims could travel safely to Olympia", "To end war forever", "To elect a new Greek leader", "To build a new temple"],
+          "correctIndex": 0,
+          "explanation": "The truce allowed safe travel to Olympia even though Greek city-states were often at war with each other."
+        },
+        {
+          "question": "What prize did ancient Olympic winners receive?",
+          "options": ["An olive leaf wreath", "Cash", "A gold medal", "Land and property"],
+          "correctIndex": 0,
+          "explanation": "Winners received an olive leaf wreath, though the social status it brought could rival a national hero."
+        },
+        {
+          "question": "When was the last recorded celebration of the ancient Olympics?",
+          "options": ["393 AD", "776 BC", "1896", "100 AD"],
+          "correctIndex": 0,
+          "explanation": "The last recorded celebration took place in 393 AD, under Emperor Theodosius I."
+        }
+      ]
+    }
+  },
+  {
+    "key": "pegal-otot-doms",
+    "category": "tubuh-kesehatan-olahraga",
+    "emoji": "🦵",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a person slowly lowering a heavy dumbbell with visible muscle strain in their arm, gym setting, dynamic action illustration",
+        "seed": 652,
+        "alt": "Orang menurunkan beban berat secara perlahan, gerakan eksentrik"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an abstract illustration of microscopic muscle fibers with small tears and glowing inflammation response, scientific concept art",
+        "seed": 653,
+        "alt": "Ilustrasi kerusakan mikroskopis serat otot"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a person stretching their sore legs the morning after exercise, cozy bedroom, soft morning light",
+        "seed": 654,
+        "alt": "Orang meregangkan kaki yang pegal di pagi hari"
+      }
+    },
+    "id": {
+      "title": "Pegal Otot Bukan Disebabkan Apa yang Kamu Kira",
+      "hook": "Kamu mungkin mengira otot pegal setelah olahraga disebabkan asam laktat yang menumpuk. Ternyata, itu mitos yang sudah lama dibantah ilmu olahraga.",
+      "story": "Kamu mungkin pernah dengar penjelasan ini: otot terasa pegal dan kaku sehari atau dua hari setelah olahraga berat karena asam laktat yang menumpuk di otot. Penjelasan ini terdengar masuk akal, gampang diingat, dan sayangnya, sudah lama dibantah ilmu olahraga modern.\n\nAsam laktat memang diproduksi otot saat berolahraga intens, tapi ia dibersihkan dari otot dalam hitungan jam setelah olahraga selesai, jauh sebelum rasa pegal yang disebut DOMS (delayed onset muscle soreness) itu muncul, biasanya 24 sampai 72 jam kemudian. Kalau asam laktat sudah hilang jauh sebelum rasa pegal muncul, jelas ia bukan penyebabnya.\n\nPenjelasan yang lebih didukung sains sekarang adalah kerusakan mikroskopis pada serat otot, terutama dari gerakan 'eksentrik', yaitu saat otot memanjang sambil tetap berkontraksi, seperti saat menuruni tangga atau menurunkan beban secara perlahan. Kerusakan kecil ini memicu respons peradangan alami tubuh, yang menyebabkan rasa nyeri, bengkak ringan, dan kekakuan yang kita kenal sebagai pegal.\n\nKabar baiknya, DOMS sebenarnya tanda bahwa otot sedang beradaptasi dan akan jadi lebih kuat setelah proses perbaikan selesai, bukan tanda kerusakan yang berbahaya. Fenomena bernama 'efek latihan berulang' bahkan membuat otot yang sudah pernah mengalami DOMS jadi lebih tahan terhadap gerakan serupa di kemudian hari, sehingga rasa pegalnya cenderung lebih ringan setiap kali diulang.\n\nJadi, peregangan sebelum olahraga atau minum banyak air putih tidak benar-benar mencegah DOMS seperti anggapan umum, karena targetnya memang salah sejak awal. Cara paling efektif mengurangi dampaknya tetap sederhana: naikkan intensitas olahraga secara bertahap, bukan tiba-tiba melakukan gerakan berat yang belum terbiasa dilakukan ototmu.",
+      "whyItMatters": "Mengerti penyebab sebenarnya dari pegal otot membantumu tidak panik berlebihan setelah olahraga berat, dan membantumu membuat keputusan latihan yang lebih tepat, misalnya menaikkan intensitas secara bertahap, bukan langsung maksimal di sesi pertama.",
+      "keyFacts": [
+        "Pegal otot setelah olahraga (DOMS) BUKAN disebabkan asam laktat, yang sudah hilang dari otot jauh sebelum rasa pegal muncul.",
+        "DOMS disebabkan kerusakan mikroskopis pada serat otot akibat gerakan eksentrik, memicu respons peradangan alami.",
+        "DOMS adalah tanda otot sedang beradaptasi jadi lebih kuat, dan cenderung lebih ringan tiap kali gerakan serupa diulang."
+      ],
+      "quiz": [
+        {
+          "question": "Apa penyebab sebenarnya dari pegal otot (DOMS) setelah olahraga?",
+          "options": ["Kerusakan mikroskopis pada serat otot akibat gerakan eksentrik", "Penumpukan asam laktat di otot", "Dehidrasi parah", "Kekurangan vitamin D"],
+          "correctIndex": 0,
+          "explanation": "DOMS disebabkan kerusakan kecil pada serat otot, bukan asam laktat yang sudah hilang jauh lebih cepat."
+        },
+        {
+          "question": "Kapan biasanya DOMS muncul setelah olahraga berat?",
+          "options": ["24 sampai 72 jam kemudian", "Langsung saat itu juga", "Seminggu kemudian", "Sebulan kemudian"],
+          "correctIndex": 0,
+          "explanation": "DOMS biasanya baru terasa 24-72 jam setelah olahraga, jauh setelah asam laktat sudah hilang."
+        },
+        {
+          "question": "Apa yang terjadi pada otot setelah mengalami DOMS dan sembuh?",
+          "options": ["Otot jadi lebih tahan terhadap gerakan serupa di kemudian hari", "Otot jadi permanen lebih lemah", "Otot berhenti tumbuh sama sekali", "Tidak ada perubahan apapun"],
+          "correctIndex": 0,
+          "explanation": "Fenomena 'efek latihan berulang' membuat otot lebih tahan dan pegalnya lebih ringan saat gerakan serupa diulang."
+        }
+      ]
+    },
+    "en": {
+      "title": "Sore Muscles Aren't Caused By What You Think",
+      "hook": "You might think sore muscles after exercise come from built-up lactic acid. That's actually a myth sports science debunked long ago.",
+      "story": "You've probably heard this explanation before: muscles feel sore and stiff a day or two after intense exercise because of lactic acid building up in the muscle. It sounds reasonable, it's easy to remember, and unfortunately, modern sports science debunked it a long time ago.\n\nLactic acid is indeed produced during intense exercise, but it gets cleared from the muscle within hours after you finish, long before the soreness called DOMS (delayed onset muscle soreness) actually kicks in, usually 24 to 72 hours later. If lactic acid is already gone long before the soreness shows up, it clearly isn't the cause.\n\nThe explanation better supported by science today is microscopic damage to muscle fibers, especially from 'eccentric' movements, when a muscle lengthens while still contracting, like walking downstairs or slowly lowering a weight. This small damage triggers the body's natural inflammatory response, causing the pain, mild swelling, and stiffness we know as soreness.\n\nThe good news is that DOMS is actually a sign the muscle is adapting and will come out stronger once the repair process finishes, not a sign of dangerous damage. A phenomenon called the 'repeated bout effect' even makes a muscle that's already experienced DOMS more resistant to similar movements later on, so the soreness tends to get milder each time it's repeated.\n\nSo stretching before exercise or drinking lots of water doesn't actually prevent DOMS, as commonly believed, because that was never really the target to begin with. The most effective way to reduce its impact is still simple: ramp up exercise intensity gradually, instead of suddenly doing heavy movements your muscles aren't used to yet.",
+      "whyItMatters": "Understanding the real cause of muscle soreness helps you avoid panicking after intense exercise, and helps you make smarter training decisions, like gradually increasing intensity instead of going all-out on your very first session.",
+      "keyFacts": [
+        "Muscle soreness after exercise (DOMS) is NOT caused by lactic acid, which clears from muscles long before soreness appears.",
+        "DOMS is caused by microscopic damage to muscle fibers from eccentric movements, triggering a natural inflammatory response.",
+        "DOMS is a sign muscles are adapting to get stronger, and tends to get milder each time a similar movement is repeated."
+      ],
+      "quiz": [
+        {
+          "question": "What actually causes muscle soreness (DOMS) after exercise?",
+          "options": ["Microscopic damage to muscle fibers from eccentric movements", "Lactic acid buildup in the muscle", "Severe dehydration", "Vitamin D deficiency"],
+          "correctIndex": 0,
+          "explanation": "DOMS is caused by small damage to muscle fibers, not lactic acid, which clears out much faster."
+        },
+        {
+          "question": "When does DOMS usually appear after intense exercise?",
+          "options": ["24 to 72 hours later", "Immediately", "A week later", "A month later"],
+          "correctIndex": 0,
+          "explanation": "DOMS usually only becomes noticeable 24-72 hours after exercise, long after lactic acid is already gone."
+        },
+        {
+          "question": "What happens to a muscle after it experiences DOMS and recovers?",
+          "options": ["It becomes more resistant to similar movements later on", "It becomes permanently weaker", "It stops growing entirely", "Nothing changes at all"],
+          "correctIndex": 0,
+          "explanation": "The 'repeated bout effect' makes the muscle more resilient, with milder soreness when the movement is repeated."
+        }
+      ]
+    }
+  }
+]

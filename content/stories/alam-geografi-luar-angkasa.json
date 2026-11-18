@@ -1,0 +1,178 @@
+[
+  {
+    "key": "apollo-11-pendaratan-bulan",
+    "category": "alam-geografi-luar-angkasa",
+    "emoji": "🌕",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a lunar lander module descending toward the grey cratered surface of the Moon, Earth visible in the black sky background, dramatic space scene",
+        "seed": 670,
+        "alt": "Modul Eagle turun menuju permukaan Bulan"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "an astronaut inside a cramped spacecraft cockpit surrounded by blinking control panels and glowing alarm lights, tense atmosphere",
+        "seed": 671,
+        "alt": "Kokpit pesawat dengan alarm komputer menyala"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "an astronaut's boot leaving the first footprint on the dusty lunar surface, dramatic low angle, stars and Earth in the black sky",
+        "seed": 672,
+        "alt": "Jejak kaki pertama astronaut di permukaan Bulan"
+      }
+    },
+    "id": {
+      "title": "Alarm Komputer yang Nyaris Membatalkan Pendaratan di Bulan",
+      "hook": "Komputer pendaratan di Apollo 11 sempat alarm error berkali-kali saat mendekati bulan, dengan daya komputasi yang jauh lebih lemah dari kalkulator HP biasa sekarang.",
+      "story": "20 Juli 1969, 20:17 UTC. Modul pendarat bernama Eagle, membawa astronaut Neil Armstrong dan Buzz Aldrin, turun mendekati permukaan Bulan. Di detik-detik paling kritis, alarm komputer tiba-tiba berbunyi berulang kali, kode error '1202' dan '1201', yang bahkan tidak dikenali kru di dalam modul.\n\nUntungnya, seorang pengontrol muda di Houston bernama Jack Garman sudah pernah melihat kode error serupa saat simulasi, dan tahu itu tidak cukup berbahaya untuk membatalkan pendaratan, cuma tanda komputer kelebihan beban tugas. Dengan keyakinan itu, misi dilanjutkan.\n\nKomputer navigasi Apollo yang dipakai saat itu, meski jadi salah satu teknologi tercanggih di masanya, punya daya komputasi yang jauh lebih lemah dibanding kalkulator sederhana yang bisa kamu beli sekarang, apalagi dibanding HP di sakumu. Dengan keterbatasan itu pula, Armstrong harus mengambil alih kendali manual di detik-detik terakhir karena lokasi pendaratan otomatis mengarah ke area berbatu yang berbahaya.\n\nDengan bahan bakar modul pendarat yang tersisa diperkirakan hanya cukup untuk sekitar 25 detik lagi, Armstrong berhasil mendaratkan Eagle dengan selamat di area bernama Laut Ketenangan (Mare Tranquillitatis). Beberapa jam kemudian, ia melangkah keluar dan mengucapkan kalimat yang kini dihafal jutaan orang: 'Satu langkah kecil bagi manusia, satu lompatan besar bagi umat manusia.'\n\nSementara itu, astronaut ketiga, Michael Collins, tetap mengorbit sendirian di modul komando yang terpisah, kadang disebut 'orang paling kesepian' dalam sejarah, karena untuk sesaat ia benar-benar terputus dari seluruh umat manusia saat berada di sisi gelap Bulan yang tidak bisa dijangkau sinyal radio dari Bumi.",
+      "whyItMatters": "Kisah pendaratan Apollo 11 menunjukkan bahwa pencapaian besar sering kali bergantung pada keputusan cepat dan tepat di bawah tekanan, bukan cuma teknologi canggih semata. Keberanian Garman mempercayai penilaiannya sendiri dalam hitungan detik membantu menyelamatkan salah satu misi terpenting dalam sejarah manusia.",
+      "keyFacts": [
+        "Apollo 11 mendarat di Bulan pada 20 Juli 1969, membawa Neil Armstrong dan Buzz Aldrin, sementara Michael Collins tetap mengorbit.",
+        "Komputer pendaratan sempat mengeluarkan alarm error 1202 dan 1201 di detik-detik kritis, yang ternyata bukan masalah berbahaya.",
+        "Bahan bakar modul pendarat yang tersisa diperkirakan hanya cukup sekitar 25 detik lagi saat berhasil mendarat."
+      ],
+      "quiz": [
+        {
+          "question": "Siapa dua astronaut yang mendarat di permukaan Bulan pada misi Apollo 11?",
+          "options": ["Neil Armstrong dan Buzz Aldrin", "Michael Collins dan Neil Armstrong", "Buzz Aldrin dan Michael Collins", "John Glenn dan Neil Armstrong"],
+          "correctIndex": 0,
+          "explanation": "Armstrong dan Aldrin mendarat di modul Eagle, sementara Collins tetap mengorbit di modul komando."
+        },
+        {
+          "question": "Apa yang terjadi saat alarm komputer 1202 dan 1201 berbunyi?",
+          "options": ["Seorang pengontrol di Houston mengenali kode itu tidak berbahaya dan misi dilanjutkan", "Misi langsung dibatalkan", "Astronaut harus kembali ke Bumi segera", "Komputer pendaratan mati total"],
+          "correctIndex": 0,
+          "explanation": "Jack Garman mengenali kode error itu dari simulasi sebelumnya dan memastikan misi aman dilanjutkan."
+        },
+        {
+          "question": "Apa julukan yang diberikan untuk Michael Collins saat mengorbit sendirian?",
+          "options": ["Orang paling kesepian dalam sejarah", "Kapten misi utama", "Pahlawan tanpa tanda jasa", "Navigator terbaik NASA"],
+          "correctIndex": 0,
+          "explanation": "Collins sempat benar-benar terputus dari komunikasi dengan Bumi saat berada di sisi gelap Bulan."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Computer Alarm That Almost Aborted the Moon Landing",
+      "hook": "Apollo 11's landing computer kept blaring error alarms on approach to the Moon, with less computing power than a basic calculator today.",
+      "story": "July 20, 1969, 20:17 UTC. A lander called Eagle, carrying astronauts Neil Armstrong and Buzz Aldrin, descended toward the Moon's surface. At the most critical seconds, the computer alarm suddenly blared repeatedly, error codes '1202' and '1201,' which the crew inside didn't even recognize.\n\nLuckily, a young controller in Houston named Jack Garman had seen similar error codes during simulations before, and knew they weren't dangerous enough to abort the landing, just a sign the computer was overloaded with tasks. With that confidence, the mission continued.\n\nThe Apollo navigation computer used at the time, despite being one of the most advanced technologies of its era, had far less computing power than a simple calculator you could buy today, let alone the phone in your pocket. Because of that same limitation, Armstrong had to take manual control in the final seconds, since the automatic landing site was heading toward a dangerously rocky area.\n\nWith the lander's remaining fuel estimated at only about 25 seconds, Armstrong safely landed Eagle in an area called the Sea of Tranquility. A few hours later, he stepped outside and spoke a line now memorized by millions: 'That's one small step for man, one giant leap for mankind.'\n\nMeanwhile, the third astronaut, Michael Collins, remained alone in the orbiting command module, sometimes called 'the loneliest person' in history, because for a while he was completely cut off from all of humanity while on the far side of the Moon, out of reach of any radio signal from Earth.",
+      "whyItMatters": "The Apollo 11 landing shows that big achievements often depend on fast, accurate decisions under pressure, not just advanced technology alone. Garman's courage to trust his own judgment within seconds helped save one of the most important missions in human history.",
+      "keyFacts": [
+        "Apollo 11 landed on the Moon on July 20, 1969, carrying Neil Armstrong and Buzz Aldrin, while Michael Collins stayed in orbit.",
+        "The landing computer triggered 1202 and 1201 error alarms at critical moments, which turned out not to be dangerous.",
+        "The lander's remaining fuel was estimated at only about 25 seconds when it successfully touched down."
+      ],
+      "quiz": [
+        {
+          "question": "Who were the two astronauts who landed on the Moon's surface during Apollo 11?",
+          "options": ["Neil Armstrong and Buzz Aldrin", "Michael Collins and Neil Armstrong", "Buzz Aldrin and Michael Collins", "John Glenn and Neil Armstrong"],
+          "correctIndex": 0,
+          "explanation": "Armstrong and Aldrin landed in the Eagle module, while Collins stayed in orbit in the command module."
+        },
+        {
+          "question": "What happened when the 1202 and 1201 computer alarms went off?",
+          "options": ["A controller in Houston recognized the code as safe and the mission continued", "The mission was immediately aborted", "The astronauts had to return to Earth right away", "The landing computer shut down completely"],
+          "correctIndex": 0,
+          "explanation": "Jack Garman recognized the error code from previous simulations and confirmed the mission was safe to continue."
+        },
+        {
+          "question": "What nickname was given to Michael Collins while orbiting alone?",
+          "options": ["The loneliest person in history", "The main mission captain", "The unsung hero", "NASA's best navigator"],
+          "correctIndex": 0,
+          "explanation": "Collins was completely cut off from communication with Earth while on the far side of the Moon."
+        }
+      ]
+    }
+  },
+  {
+    "key": "krakatau-1883-suara-terkeras",
+    "category": "alam-geografi-luar-angkasa",
+    "emoji": "🌋",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "images": {
+      "hero": {
+        "file": "hero.webp",
+        "scene": "a massive volcanic eruption exploding over a tropical island, towering ash cloud and lightning, dramatic ocean scene, 19th century Indonesia",
+        "seed": 673,
+        "alt": "Letusan dahsyat Gunung Krakatau tahun 1883"
+      },
+      "scene1": {
+        "file": "scene1.webp",
+        "scene": "a giant tsunami wave approaching a tropical coastline village, people fleeing, dramatic dark sky",
+        "seed": 674,
+        "alt": "Gelombang tsunami raksasa menghantam pesisir"
+      },
+      "scene2": {
+        "file": "scene2.webp",
+        "scene": "a spectacular blood-red sunset sky over a European city silhouette, volcanic ash haze, dramatic atmospheric colors",
+        "seed": 675,
+        "alt": "Langit senja merah menyala di Eropa akibat abu vulkanik Krakatau"
+      }
+    },
+    "id": {
+      "title": "Suara yang Terdengar Sejauh 4.800 Kilometer",
+      "hook": "Suara letusan ini terdengar sejauh 4.800 kilometer, sejauh jarak Jakarta ke Tokyo, dan masih tercatat sebagai suara terkeras dalam sejarah manusia.",
+      "story": "4.800 kilometer. Itu kira-kira jarak dari Jakarta ke Tokyo, atau dari Jakarta sampai ke pulau-pulau kecil dekat Mauritius di Samudra Hindia. Dan itulah jarak terjauh yang tercatat orang-orang masih bisa mendengar suara letusan Gunung Krakatau pada 27 Agustus 1883, sampai hari ini masih dicatat sebagai suara terkeras yang pernah terdengar dalam sejarah manusia modern.\n\nLetusan ini sebenarnya berlangsung berbulan-bulan, dimulai sejak Mei 1883, tapi puncaknya terjadi pada pagi 27 Agustus, saat serangkaian ledakan besar menghancurkan lebih dari 70 persen pulau Krakatau, membuat sebagian besar daratannya runtuh ke dalam kaldera di bawah laut. Ledakan terbesar, yang terjadi sekitar pukul 10 pagi, begitu dahsyat sampai gelombang tekanan udaranya tercatat mengelilingi seluruh planet Bumi lebih dari tiga kali, terdeteksi oleh alat pengukur tekanan udara di kota-kota yang sangat jauh.\n\nLetusan ini memicu gelombang tsunami raksasa yang menghantam pesisir Jawa dan Sumatra, dan jadi penyebab sebagian besar dari sekitar 36.417 korban jiwa yang tercatat akibat bencana ini.\n\nDampaknya bahkan terasa sampai ke seluruh dunia. Debu dan partikel vulkanik yang terlontar ke atmosfer menyebabkan langit senja berwarna merah menyala secara spektakuler di berbagai belahan dunia selama berbulan-bulan setelahnya, sampai memengaruhi karya seniman seperti dalam lukisan 'The Scream' karya Edvard Munch, yang menurut sebagian ahli terinspirasi dari langit senja aneh pasca-Krakatau yang disaksikannya di Norwegia. Partikel vulkanik ini juga menurunkan suhu rata-rata global sekitar 1,2 derajat Celsius selama beberapa tahun berikutnya.\n\nLetusan Krakatau jadi salah satu bencana alam pertama dalam sejarah yang dampaknya bisa dilacak dan dikonfirmasi secara global hampir seketika, berkat jaringan telegraf yang sudah menghubungkan banyak negara saat itu.",
+      "whyItMatters": "Letusan Krakatau mengingatkan kita bahwa satu peristiwa geologis di satu titik kecil di peta bisa berdampak pada iklim dan kehidupan di seluruh dunia. Ini relevan untuk memahami kenapa ilmuwan hari ini begitu serius memantau gunung berapi aktif di Indonesia dan dampak potensialnya secara global.",
+      "keyFacts": [
+        "Letusan Krakatau 27 Agustus 1883 menghasilkan suara yang terdengar sejauh 4.800 km, masih tercatat sebagai suara terkeras dalam sejarah manusia modern.",
+        "Letusan ini menewaskan sekitar 36.417 orang, sebagian besar akibat tsunami yang ditimbulkannya.",
+        "Partikel vulkanik dari letusan ini menurunkan suhu rata-rata global sekitar 1,2°C selama beberapa tahun dan menciptakan langit senja merah spektakuler di seluruh dunia."
+      ],
+      "quiz": [
+        {
+          "question": "Seberapa jauh suara letusan Krakatau 1883 masih bisa terdengar?",
+          "options": ["Sekitar 4.800 kilometer", "Sekitar 100 kilometer", "Sekitar 1.000 kilometer", "Tidak terdengar di luar Pulau Jawa"],
+          "correctIndex": 0,
+          "explanation": "Suaranya terdengar sejauh 4.800 km, sampai pulau-pulau dekat Mauritius, dan masih jadi suara terkeras tercatat dalam sejarah."
+        },
+        {
+          "question": "Apa penyebab utama korban jiwa dalam bencana Krakatau 1883?",
+          "options": ["Gelombang tsunami yang menghantam pesisir Jawa dan Sumatra", "Gempa bumi besar", "Kebakaran hutan", "Kelaparan jangka panjang"],
+          "correctIndex": 0,
+          "explanation": "Sebagian besar dari sekitar 36.417 korban jiwa disebabkan tsunami yang dipicu letusan."
+        },
+        {
+          "question": "Apa dampak global dari partikel vulkanik letusan Krakatau?",
+          "options": ["Menurunkan suhu rata-rata global dan menciptakan langit senja merah spektakuler", "Meningkatkan suhu global secara drastis", "Tidak berdampak apapun di luar Indonesia", "Menyebabkan gempa bumi di benua lain"],
+          "correctIndex": 0,
+          "explanation": "Partikel vulkanik menyebar ke atmosfer global, menurunkan suhu dan mengubah warna langit senja di banyak negara."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Eruption You Could Hear From 4,800 Kilometers Away",
+      "hook": "The sound of this eruption traveled 4,800 kilometers, roughly the distance from Jakarta to Tokyo, and still holds the record as the loudest sound in recorded human history.",
+      "story": "4,800 kilometers. That's roughly the distance from Jakarta to Tokyo, or from Jakarta to small islands near Mauritius in the Indian Ocean. And that's the farthest distance recorded of people still being able to hear the sound of Krakatoa's eruption on August 27, 1883, still recorded today as the loudest sound ever heard in modern human history.\n\nThe eruption actually unfolded over months, starting as early as May 1883, but it peaked on the morning of August 27, when a series of massive explosions destroyed over 70 percent of Krakatoa island, collapsing most of its land into an undersea caldera. The largest explosion, around 10 a.m., was so powerful that its air pressure wave was recorded circling the entire planet more than three times, detected by air pressure gauges in cities incredibly far away.\n\nThe eruption triggered massive tsunamis that struck the coasts of Java and Sumatra, and caused most of the roughly 36,417 deaths recorded from this disaster.\n\nIts effects were even felt worldwide. Volcanic dust and particles thrown into the atmosphere caused spectacular, blazing red sunsets in various parts of the world for months afterward, even influencing artists, with some experts suggesting Edvard Munch's painting 'The Scream' was inspired by the strange, Krakatoa-tinted sunset sky he witnessed in Norway. These volcanic particles also lowered the global average temperature by about 1.2 degrees Celsius for several years afterward.\n\nThe Krakatoa eruption became one of the first natural disasters in history whose impact could be tracked and confirmed globally almost instantly, thanks to the telegraph networks already connecting many countries at the time.",
+      "whyItMatters": "The Krakatoa eruption reminds us that a single geological event at one small point on the map can affect climate and life worldwide. That's relevant to understanding why scientists today take monitoring Indonesia's active volcanoes, and their potential global impact, so seriously.",
+      "keyFacts": [
+        "The August 27, 1883 Krakatoa eruption produced a sound heard 4,800 km away, still recorded as the loudest sound in modern human history.",
+        "The eruption killed about 36,417 people, most from the tsunamis it triggered.",
+        "Volcanic particles from the eruption lowered the global average temperature by about 1.2°C for several years and created spectacular red sunsets worldwide."
+      ],
+      "quiz": [
+        {
+          "question": "How far could the sound of the 1883 Krakatoa eruption still be heard?",
+          "options": ["About 4,800 kilometers", "About 100 kilometers", "About 1,000 kilometers", "It wasn't heard outside Java"],
+          "correctIndex": 0,
+          "explanation": "The sound traveled 4,800 km, reaching islands near Mauritius, and remains the loudest sound ever recorded."
+        },
+        {
+          "question": "What was the main cause of deaths in the 1883 Krakatoa disaster?",
+          "options": ["Tsunamis that struck the coasts of Java and Sumatra", "A major earthquake", "Forest fires", "Long-term famine"],
+          "correctIndex": 0,
+          "explanation": "Most of the roughly 36,417 deaths were caused by tsunamis triggered by the eruption."
+        },
+        {
+          "question": "What global effect did the eruption's volcanic particles have?",
+          "options": ["Lowered the global average temperature and created spectacular red sunsets", "Drastically raised global temperatures", "Had no effect outside Indonesia", "Caused earthquakes on other continents"],
+          "correctIndex": 0,
+          "explanation": "Volcanic particles spread through the global atmosphere, lowering temperatures and changing sunset colors in many countries."
+        }
+      ]
+    }
+  }
+]
